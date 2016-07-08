@@ -1,0 +1,328 @@
+// Mobile first styling
+
+// Variables
+@breakpoint-desktop:    1025px;     // used with min-width, 1 px greater that iPad
+
+@black:         #000000;
+@burlywood:     #DEB887;
+@silver:        #C0C0C0;
+@yellow:        #C0C000;
+@cornflower:    #6495ED;
+@cornsilk:      #FFF8DC;
+@white:         #fefefe;
+
+@background-color:      @black;
+@text-color:            @white;
+@link-color:            @burlywood;
+@border-color:          @silver;
+@text-font-size:        1.8rem;
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html,
+body {
+    height: 100%;
+    text-align: center;
+}
+
+body {
+    background-color: @background-color;
+    color: @text-color;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    font-weight: 200;
+    padding-top: 50px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 200;
+}
+
+h1 {
+    font-size: 3.8rem;
+    line-height: 1.2;
+    margin: 0;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 0px 0 0 0;
+}
+
+h3 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin: 35px 0 5px;
+    text-transform: lowercase;
+
+    &:first-child { margin-top: 0; }
+}
+
+
+// carousel headers
+h4 {
+    font-style: italic;
+    font-size: 2.2rem;
+    margin: 0 0 5px;
+}
+
+h5 {
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+
+p {
+    font-size: @text-font-size;
+    line-height: 1.7;
+    margin: 0 0 25px;
+
+    &:last-child { margin-bottom: 0; }
+}
+
+ul { 
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    li { font-size: @text-font-size; }
+}
+
+a {
+    color: @link-color;
+    text-decoration: none;
+
+    &:visited { color: @link-color; }
+    &:hover { border-bottom: 1px solid @link-color; }
+}
+
+hr {
+    background-color: #333;
+    color: #333;
+    border: none;
+    height: 1px;
+    margin: 0 auto 25px;
+    width: 80%;
+}
+
+#container {
+    margin: 0 auto;
+    padding: 10px 20px 0;
+}
+
+
+nav {
+    background: #333; // old browsers
+    background: -ms-linear-gradient(top,  #444444 0%,#333333 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #444444 0%,#333333 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444444', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
+
+    border-bottom: 1px solid @border-color;
+    display: block;
+    opacity: 0.98;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+
+    ul {
+        display: inline-block;
+        list-style: none outside none;
+        margin: 10px 0;
+        padding: 0;
+    }
+
+    li {
+        float: left;
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin: 0 0 0 25px;
+        padding: 0;
+
+        &:first-child { margin: 0; }
+    }
+
+    a, a:visited { 
+        color: @silver;
+
+        &:hover,
+        &:active,
+        &.active {
+            color: @cornsilk;
+            border-bottom: 1px solid @cornsilk;
+        }
+    }
+
+    &.headroom { transition: transform 200ms linear; }
+    &.headroom--pinned { transform: translateY(0%); }
+    &.headroom--unpinned { transform: translateY(-100%); }
+}
+
+
+header {
+    margin: 0 0 40px;
+
+    img {
+        height: 71px;
+        width: 60px;
+    }
+}
+
+
+
+section {
+    margin: 0 0 25px;
+
+    &:first-of-type {
+        background-color: transparent;
+        border: none;
+    }
+}
+
+
+
+
+#carousel { opacity: 0; } // avoids flash of markup, set to 1 in JS after carousel init
+
+.slick-track { height: auto; }
+
+.slick-slide {
+    background-color: @black;       // hack for smooth text transitions
+
+    img {
+        border: 1px solid @border-color;
+        // height:155px;
+        margin: 0 auto 15px;
+        // width: 155px;
+    }
+}
+
+
+#listen-on-spotify {
+    background: transparent url('../img/social/spotify-playlist.png') no-repeat 0 0;
+    .hi-res-bgs( '../img/social/', 'spotify-playlist');
+    height: 48px;
+    margin: 35px auto;
+    width: 250px;
+}
+
+
+.studio {
+    border: 1px solid @border-color;
+    max-width: 100%;
+}
+
+
+.contact {
+    p { margin: 0 0 10px; }
+}
+
+
+
+
+//
+// news
+//
+.news {
+    background-color: #061638;
+    // border: 3px solid #888;
+    border-radius: 10px;
+    color: #eee;
+    padding: 15px 0;
+
+    h3 {
+        font-size: 2.2rem;
+        text-transform: none;
+    }
+
+    p {
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+
+    a {
+        color: transparent;
+        &:hover {
+            border: none;
+        }
+    }
+
+    img { border: 1px solid #c0c0c0; }
+}
+
+
+
+
+//
+//  footer
+//
+footer {
+    margin: 0 0 15px;
+
+    p {
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    span { padding: 0 10px; }
+}
+
+#social {    
+    @social-bg-raw-side: image-height('../img/social/social.png');
+    @social-bg-raw-spacing: 25px;
+    @scale-factor: .4;
+    @social-icon-side: @social-bg-raw-side * @scale-factor;
+
+    margin-bottom: 25px;
+
+    li {
+        display: inline-block;
+        margin-right: 25px;
+        &:last-child { margin: 0; }
+    }
+
+    a {
+        background-color: transparent;
+        background-clip: content-box;
+        background-image: url('../img/social/social.png');
+        background-origin: content-box;
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    // utility function for repetitive calculated styles
+    .scaled-data(@factor) {
+        a {
+            height: @social-bg-raw-side * @factor;
+            width:  @social-bg-raw-side * @factor;
+        }
+
+        #grammy    { background-position: -1*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
+        #linkedin  { background-position: -2*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
+        #pinterest { background-position: -3*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
+        #instagram { background-position: -4*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
+        #twitter   { background-position: -5*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
+        
+    }
+
+    .scaled-data(@scale-factor);
+
+
+    // desktops - tweek the spacing and make a bit smaller
+    @media only screen and (min-width: @breakpoint-desktop) {
+        @scale-factor: 0.25;
+        .scaled-data(@scale-factor);
+
+        li { margin-right: 15px; }
+    }
+ }

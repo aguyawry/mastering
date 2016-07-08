@@ -1,0 +1,25 @@
+{
+  "name": "elson mastering",
+  "version": "1.2.0",
+  "authors": [
+    "scott elson <scott.elson@gmail.com>"
+  ],
+  "description": "Front end library dependencies for elson mastering web site.",
+  "license": "N/A",
+  "homepage": "www.elsonmastering.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fluidable": "1.2.5",
+    "headroom.js": "0.7.0",
+    "jquery": "2.1.4",
+    "normalize-css": "3.0.3",
+    "slick-carousel": "1.5.8"
+  }
+}

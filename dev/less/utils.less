@@ -1,0 +1,38 @@
+// CSS and LESS utilities
+
+
+
+
+// image replacement - add to element who's text is being replaced by an image
+.hide-text {
+    display: block;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+
+    // no bottom border for hidden text anchors
+    a& { &:hover { border-bottom: none; } }
+}
+
+
+
+// mixin for 2x and 3x background images
+.hi-res-bgs(@path, @bg-image, @size: cover, @file-type: 'png'){
+    background-image: url('@{path}@{bg-image}.@{file-type}');
+    background-size: @size;
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+        only screen and (min--moz-device-pixel-ratio: 1.5),
+        only screen and (min-device-pixel-ratio: 1.5) {
+
+            background-image: url('@{path}@{bg-image}@2x.@{file-type}');
+            background-size: @size;
+    }
+    @media only screen and (-webkit-min-device-pixel-ratio: 3),
+        only screen and (min--moz-device-pixel-ratio: 3),
+        only screen and (min-device-pixel-ratio: 3) {
+
+            background-image: url('@{path}@{bg-image}@3x.@{file-type}');
+            background-size: @size;
+    }
+}
