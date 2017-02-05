@@ -1305,14 +1305,14 @@ ul li {
   font-size: 1.8rem;
 }
 a {
-  color: #deb887;
+  color: #DEB887;
   text-decoration: none;
 }
 a:visited {
-  color: #deb887;
+  color: #DEB887;
 }
 a:hover {
-  border-bottom: 1px solid #deb887;
+  border-bottom: 1px solid #DEB887;
 }
 hr {
   background-color: #333;
@@ -1334,7 +1334,7 @@ nav {
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#444444', endColorstr='#333333', GradientType=0);
   /* IE6-9 */
-  border-bottom: 1px solid #c0c0c0;
+  border-bottom: 1px solid #C0C0C0;
   display: block;
   opacity: 0.98;
   position: fixed;
@@ -1361,7 +1361,7 @@ nav li:first-child {
 }
 nav a,
 nav a:visited {
-  color: #c0c0c0;
+  color: #C0C0C0;
 }
 nav a:hover,
 nav a:visited:hover,
@@ -1369,8 +1369,8 @@ nav a:active,
 nav a:visited:active,
 nav a.active,
 nav a:visited.active {
-  color: #fff8dc;
-  border-bottom: 1px solid #fff8dc;
+  color: #FFF8DC;
+  border-bottom: 1px solid #FFF8DC;
 }
 nav.headroom {
   transition: transform 200ms linear;
@@ -1405,7 +1405,7 @@ section:first-of-type {
   background-color: #000000;
 }
 .slick-slide img {
-  border: 1px solid #c0c0c0;
+  border: 1px solid #C0C0C0;
   margin: 0 auto 15px;
 }
 #listen-on-spotify {
@@ -1429,7 +1429,7 @@ section:first-of-type {
   }
 }
 .studio {
-  border: 1px solid #c0c0c0;
+  border: 1px solid #C0C0C0;
   max-width: 100%;
 }
 .contact p {
