@@ -39,7 +39,7 @@ body {
     color: @text-color;
     font-family: 'Open Sans', Helvetica, sans-serif;
     font-weight: 200;
-    padding-top: 50px;
+    padding-bottom: 75px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5 {
 h1 {
     font-size: 3.8rem;
     line-height: 1.2;
-    margin: 0;
+    margin: 10px 0 5px;
 }
 
 h2 {
@@ -57,6 +57,7 @@ h2 {
     margin: 0px 0 0 0;
 }
 
+// sections
 h3 {
     font-size: 2.5rem;
     line-height: 1.2;
@@ -69,15 +70,11 @@ h3 {
 
 // carousel headers
 h4 {
-    font-style: italic;
-    font-size: 2.2rem;
-    margin: 0 0 5px;
-}
-
-h5 {
     font-size: 1.8rem;
     margin: 0;
 }
+
+
 
 
 p {
@@ -115,61 +112,45 @@ hr {
 
 #container {
     margin: 0 auto;
-    padding: 10px 20px 0;
+    padding: 20px 20px 0;
 }
 
 
 nav {
-    background: #333; // old browsers
-    background: -ms-linear-gradient(top,  #444444 0%,#333333 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  #444444 0%,#333333 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444444', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
+    float: right;
 
-    border-bottom: 1px solid @border-color;
-    display: block;
-    opacity: 0.98;
-    position: fixed;
-    text-align: center;
-    top: 0;
-    width: 100%;
-    z-index: 10;
-
-    ul {
+    a, a:visited {
+        color: @white;
         display: inline-block;
-        list-style: none outside none;
-        margin: 10px 0;
-        padding: 0;
-    }
-
-    li {
-        float: left;
-        font-size: 1.8rem;
-        font-weight: 400;
-        margin: 0 0 0 25px;
-        padding: 0;
-
-        &:first-child { margin: 0; }
-    }
-
-    a, a:visited { 
-        color: @silver;
+        font-size: 3.4rem;
+        line-height: 1;
+        padding: 2px 0 3px;
 
         &:hover,
         &:active,
         &.active {
-            color: @cornsilk;
-            border-bottom: 1px solid @cornsilk;
+            // color: @cornsilk;
+            // border-bottom: 1px solid @cornsilk;
         }
     }
 
-    &.headroom { transition: transform 200ms linear; }
-    &.headroom--pinned { transform: translateY(0%); }
-    &.headroom--unpinned { transform: translateY(-100%); }
+    #up {
+        color: #666;
+        margin: 0 10px 0 0;
+    }
+
+    #down {
+        padding-right: 0;
+    }
+
+    // &.headroom { transition: transform 200ms linear; }
+    // &.headroom--pinned { transform: translateY(0%); }
+    // &.headroom--unpinned { transform: translateY(-100%); }
 }
 
 
 header {
-    margin: 0 0 40px;
+    margin: 0 0 30px;
 
     img {
         height: 71px;
@@ -180,7 +161,7 @@ header {
 
 
 section {
-    margin: 0 0 25px;
+    margin: 0 0 1500px;
 
     &:first-of-type {
         background-color: transparent;
@@ -201,7 +182,7 @@ section {
     img {
         border: 1px solid @border-color;
         // height:155px;
-        margin: 0 auto 15px;
+        margin: 0 auto 25px;
         // width: 155px;
     }
 }
@@ -229,35 +210,7 @@ section {
 
 
 
-//
-// news
-//
-.news {
-    background-color: #061638;
-    // border: 3px solid #888;
-    border-radius: 10px;
-    color: #eee;
-    padding: 15px 0;
 
-    h3 {
-        font-size: 2.2rem;
-        text-transform: none;
-    }
-
-    p {
-        font-size: 1.5rem;
-        line-height: 1.5;
-    }
-
-    a {
-        color: transparent;
-        &:hover {
-            border: none;
-        }
-    }
-
-    img { border: 1px solid #c0c0c0; }
-}
 
 
 
@@ -266,14 +219,14 @@ section {
 //  footer
 //
 footer {
-    margin: 0 0 15px;
-
-    p {
-        font-size: 1.1rem;
-        text-align: center;
-    }
-
-    span { padding: 0 10px; }
+    background-color: #1f1f1f;
+    bottom: 0;
+    left: 0;
+    margin: 10px 0 0;
+    padding: 10px 25px;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
 }
 
 #social {    
@@ -282,7 +235,10 @@ footer {
     @scale-factor: .4;
     @social-icon-side: @social-bg-raw-side * @scale-factor;
 
-    margin-bottom: 25px;
+    margin: 0;
+    // padding: 10px 0;
+    // width: 95%;
+    float: left;
 
     li {
         display: inline-block;
@@ -312,7 +268,6 @@ footer {
         #pinterest { background-position: -3*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
         #instagram { background-position: -4*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
         #twitter   { background-position: -5*(@social-bg-raw-side + @social-bg-raw-spacing) * @factor 0; }
-        
     }
 
     .scaled-data(@scale-factor);
