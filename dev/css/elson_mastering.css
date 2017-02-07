@@ -1252,7 +1252,6 @@ body {
   color: #fefefe;
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-weight: 200;
-  padding-bottom: 75px;
 }
 h1,
 h2,
@@ -1319,7 +1318,7 @@ hr {
 }
 #container {
   margin: 0 auto;
-  padding: 20px 20px 0;
+  padding: 20px 20px 75px;
 }
 nav {
   float: right;
@@ -1347,11 +1346,10 @@ header img {
   width: 60px;
 }
 section {
-  margin: 0 0 1500px;
+  margin: 0 0 1000px;
 }
-section:first-of-type {
-  background-color: transparent;
-  border: none;
+section:last-child {
+  margin-bottom: 0;
 }
 #carousel {
   opacity: 0;
@@ -1401,6 +1399,7 @@ footer {
   padding: 10px 25px;
   position: fixed;
   width: 100%;
+  z-index: 1000;
 }
 #social {
   margin: 0;
