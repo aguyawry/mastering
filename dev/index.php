@@ -23,38 +23,46 @@
     </div>
 </section>
 
-<!-- <hr> -->
+<hr>
 
 <section>
-<!-- 
-    <p>Welcome to elson mastering!</p>
-
-    <p>I'm Scott Elson, an audio engineer providing high quality mastering services to recording artists, music producers and record labels worldwide. From Death Punk to Sea Shanties and everything in between, clients from a wide range of musical generes trust my experienced ears to put the finishing touches on their records.</p>
-
-    <a id="listen-on-spotify" class="hide-text an-home-spotify" href="https://open.spotify.com/user/aguyawry/playlist/3bUJjfKzTqFwfu2uOxmhsm" rel="external" title="Listen to the elson mastering Playlist on Spotify.">Listen to the elson mastering Playlist on Spotify.</a>    
-
-    <p>Every project is unique, deserves a fresh perspective and should be approached as if it's a future classic. There are no stock settings that work across the board, so I use a variety of reliable techniques to get great sounds. The results enhance musicality by preserving the dynamic, adding clarity and ensuring the final product translates well to any device and format.</p>
-
-    <p>I use a thoughtful mix of analog and digital equipment depending on what feels right for the music. Some tools provide transparency while others add color, but they are all very flexible and configurable.</p>
-
-    <p>I am always honored to be a part of an artist's creative vision and truly enjoy helping make that vision a tangible reality. Please get in touch if you are interested in working together on your next project.</p> -->
+    <ul class="services">
+        <li>audio mastering</li>
+        <li>digital audio encoding</li>
+        <li>audio restoration</li>
+        <li>audio preservation</li>
+    </ul>
 </section>
 
+<hr>
 
-<section class="news col-group">
-    <div class="col-8">
-        <h3>Client Spotlight - Covered In Bees</h3>
-        <p>Congratulations to Muenster, Germany based Box in the Attic on the recent release of their album <em>Make It Right</em>.</p>
-        <p></p>
-    </div>
-
-    <div class="col-4">
-        <a href="" rel="external">
-            <img src="img/carousel/BoxInTheAttic_MakeItRight.jpg" alt="Box in the Attic - Make It Right">
-        </a>
-    </div>
+<section>
+    <p><a class="an-contact-phone" href="tel:207.358.9146" title="Call elson mastering at 207.358.9146">207.358.9146</a></p>
+        <p><script type="text/javascript">
+            //<![CDATA[
+            <!--
+            var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
+            "harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\""+
+            "\\\\,l=x.length;for(i=0;i<l;i++){y%=127;o+=String.fromCharCode(x.charCodeAt" +
+            "(i)^(y++));}return o;}f(\\\"\\\\<69.180+N\\\\\\\\026\\\\\\\\020\\\\\\\\n\\\\"+
+            "\\\\020\\\\\\\\000\\\\\\\\n\\\\\\\\t@KV\\\\\\\\nL\\\\\\\\016\\\\\\\\002\\\\" +
+            "\\\\016\\\\\\\\003\\\\\\\\002O/V\\\\\\\\024\\\\\\\\030Z\\\\\\\\033\\\\\\\\0" +
+            "26\\\\\\\\024\\\\\\\\017\\\\\\\\035\\\\\\\\036\\\\\\\\n-dobmiZ%(axnj0R-}p{\\"+
+            "\\\\\\177`z,dll~rs]{sSNLNEVRBZ@DL\\\\\\\\002NABl\\\\\\\\023\\\\\\\\022G]AZR" +
+            "\\\\\\\\005e\\\\\\\\030^Q\\\\\\\\\\\\\\\\WS`$.0++f*):>.>$ (\\\\\\\\014sl   " +
+            "2>7\\\\\\\\031?7/202\\\\\\\\001\\\\\\\\022\\\\\\\\026\\\\\\\\006\\\\\\\\026" +
+            "\\\\\\\\014\\\\\\\\010\\\\\\\\000F\\\\\\\\n\\\\\\\\005\\\\\\\\006PB\\\\\\\\" +
+            "017QRXICO\\\"\\\\,88)\\\"(f};)lo,0(rtsbus.o nruter};)i(tArahc.x=+o{)--i;0=>" +
+            "i;1-l=i(rof}}{)e(hctac};l=+l;x=+x{yrt{)84=!)31/l(tAedoCrahc.x(elihw;lo=l,ht" +
+            "gnel.x=lo,\\\"\\\"=o,i rav{)x(f noitcnuf\")"                                 ;
+            while(x=eval(x));
+            //-->
+            //]]>
+            </script>
+        </p>
 </section>
 
+<hr>
 
 <?php
     include "bottom.php";

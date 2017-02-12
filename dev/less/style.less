@@ -79,7 +79,7 @@ h4 {
 p {
     font-size: @text-font-size;
     line-height: 1.7;
-    margin: 0 0 25px;
+    margin: 0 0 15px;
 
     &:last-child { margin-bottom: 0; }
 }
@@ -89,7 +89,10 @@ ul {
     padding: 0;
     list-style-type: none;
 
-    li { font-size: @text-font-size; }
+    li {
+        font-size: @text-font-size;
+        margin: 10px 0;
+    }
 }
 
 a {
@@ -105,47 +108,43 @@ hr {
     color: #333;
     border: none;
     height: 1px;
-    margin: 0 auto 25px;
+    margin: 25px auto;
     width: 80%;
 }
 
 #container {
     margin: 0 auto;
-    padding: 20px 20px 75px;
+    padding: 20px 20px 0;
 }
 
 
-nav {
-    float: right;
+// nav {
+//     float: right;
 
-    a, a:visited {
-        color: @white;
-        display: inline-block;
-        font-size: 3.4rem;
-        line-height: 1;
-        padding: 2px 0 3px;
+//     a, a:visited {
+//         color: @white;
+//         display: inline-block;
+//         font-size: 3.4rem;
+//         line-height: 1;
+//         padding: 2px 0 3px;
 
-        &:hover,
-        &:active,
-        &.active {
-            // color: @cornsilk;
-            // border-bottom: 1px solid @cornsilk;
-        }
-    }
+//         &:hover,
+//         &:active,
+//         &.active {
+//             // color: @cornsilk;
+//             // border-bottom: 1px solid @cornsilk;
+//         }
+//     }
 
-    #up {
-        color: #666;
-        margin: 0 10px 0 0;
-    }
+//     #up {
+//         color: #666;
+//         margin: 0 10px 0 0;
+//     }
 
-    #down {
-        padding-right: 0;
-    }
-
-    // &.headroom { transition: transform 200ms linear; }
-    // &.headroom--pinned { transform: translateY(0%); }
-    // &.headroom--unpinned { transform: translateY(-100%); }
-}
+//     #down {
+//         padding-right: 0;
+//     }
+// }
 
 
 header {
@@ -157,13 +156,6 @@ header {
     }
 }
 
-
-
-section {
-    margin: 0 0 1000px;
-
-    &:last-child { margin-bottom: 0;}
-}
 
 
 
@@ -206,23 +198,18 @@ section {
 
 
 
-
-
-
-
-
 //
 //  footer
 //
 footer {
-    background-color: #1f1f1f;
-    bottom: 0;
-    left: 0;
+    // background-color: #1f1f1f;
+    // bottom: 0;
+    // left: 0;
     margin: 10px 0 0;
     padding: 10px 25px;
-    position: fixed;
+    // position: fixed;
     width: 100%;
-    z-index: 1000;
+    // z-index: 1000;
 }
 
 #social {    
@@ -234,7 +221,7 @@ footer {
     margin: 0;
     // padding: 10px 0;
     // width: 95%;
-    float: left;
+    // float: left;
 
     li {
         display: inline-block;
