@@ -27,16 +27,15 @@
 
 <section>
     <ul class="services">
-        <li>audio mastering</li>
-        <li>digital audio encoding</li>
-        <li>audio restoration</li>
-        <li>audio preservation</li>
+        <li>mastering</li>
+        <li>restoration</li>
+        <li>preservation</li>
     </ul>
 </section>
 
 <hr>
 
-<section>
+<section class="contact">
     <p><a class="an-contact-phone" href="tel:207.358.9146" title="Call elson mastering at 207.358.9146">207.358.9146</a></p>
         <p><script type="text/javascript">
             //<![CDATA[
@@ -61,8 +60,6 @@
             </script>
         </p>
 </section>
-
-<hr>
 
 <?php
     include "bottom.php";
