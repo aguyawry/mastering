@@ -20,8 +20,8 @@ RewriteRule ^index$ / [L,R=301]
 
 
 # Redirect www to non-www
-#RewriteCond %{HTTP_HOST} ^www\.elsonmastering\.com$
-#RewriteRule ^/?$ "http\:\/\/elsonmastering\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.elsonmastering\.com$
+RewriteRule ^/?$ "http\:\/\/elsonmastering\.com\/" [R=301,L]
 
 
 # Remove trailing slash

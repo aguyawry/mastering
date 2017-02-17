@@ -44,14 +44,14 @@
 
 
     <body>
-        <nav>
+<!--         <nav>
             <ul>
                 <li><a href="index.php" class="an-nav-home<? if ($page === "home") { ?> active<? } ?>">home</a></li>
                 <li><a href="services.php" class="an-nav-services<? if ($page === "services") { ?> active<? } ?>">services</a></li>
                 <li><a href="about.php" class="an-nav-about<? if ($page === "about") { ?> active<? } ?>">about</a></li>
                 <li><a href="contact.php" class="an-nav-contact<? if ($page === "contact") { ?> active<? } ?>">contact</a></li>
             </ul>
-        </nav>
+        </nav> -->
 
         <div id="container">
             <div id="content">
