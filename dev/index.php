@@ -6,7 +6,7 @@
     include "top.php";
 ?>
 
-<section>
+<section class="center">
     <div id="carousel">
         <?php
             // read data from json file, shuffle it and loop to create the carousel
@@ -23,20 +23,66 @@
     </div>
 </section>
 
-<hr>
-
-<section>
-    <ul class="services">
-        <li>mastering</li>
-        <li>restoration</li>
-        <li>preservation</li>
-    </ul>
+<section class="left">
+    <div class="page">
+        <h2>Welcome</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, purus sed aliquam volutpat, ipsum felis faucibus purus, a aliquet dui eros eget leo. Cras id justo in justo rutrum ultrices in eget ligula. Suspendisse potenti. Suspendisse molestie neque quis laoreet pharetra. Aenean maximus fermentum fermentum. In hac habitasse platea dictumst. Donec dignissim eget leo id tincidunt.</p>
+    </div>
 </section>
 
-<hr>
 
-<section class="contact">
-    <p><a class="an-contact-phone" href="tel:207.358.9146" title="Call elson mastering at 207.358.9146">207.358.9146</a></p>
+<section class="left">
+    <div class="page">
+        <h2>Music</h2>
+
+        <div class="col-group">
+            <div class="col-6">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, purus sed aliquam volutpat, ipsum felis faucibus purus, a aliquet dui eros eget leo. Cras id justo in justo rutrum ultrices in eget ligula. Suspendisse potenti. Suspendisse molestie neque quis laoreet pharetra. Aenean maximus fermentum fermentum. In hac habitasse platea dictumst. Donec dignissim eget leo id tincidunt.</p>
+            </div>
+
+            <div class="col-6">
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="left">
+    <div class="page">
+        <h2>Gear</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, purus sed aliquam volutpat, ipsum felis faucibus purus, a aliquet dui eros eget leo. Cras id justo in justo rutrum ultrices in eget ligula. Suspendisse potenti. Suspendisse molestie neque quis laoreet pharetra. Aenean maximus fermentum fermentum. In hac habitasse platea dictumst. Donec dignissim eget leo id tincidunt.</p>
+
+        <div class="col-group">
+            <ul class="col-4">
+                <li>PMC</li>
+                <li>Mytek</li>
+                <li>Bryston</li>
+
+            </ul>
+            <ul class="col-4">
+                <li>Apple</li>
+                <li>RME</li>
+                <li>iZotope</li>
+            </ul>
+            <ul class="col-4">
+                <li>Sonnox</li>
+                <li>Manley</li>
+                <li>Magix</li>
+                <li>Avid</li>
+            </ul>
+        </div>
+
+        <!-- <div style="clear:both;"></div> -->
+    </div>
+</section>
+
+
+<section class="contact left">
+    <div class="page">
+        <h2>Contact</h2>
+    
+        <p><a class="an-contact-phone" href="tel:207.358.9146" title="Call elson mastering at 207.358.9146">207.358.9146</a></p>
         <p><script type="text/javascript">
             //<![CDATA[
             <!--
@@ -63,4 +109,4 @@
 
 <?php
     include "bottom.php";
-?>
+?> 
