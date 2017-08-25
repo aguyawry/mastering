@@ -1353,21 +1353,18 @@ h2 {
   margin: 0 0 25px;
 }
 section {
-  padding: 30px 10px 40px;
+  background-color: #000000;
+  padding: 30px 25px 40px;
+}
+section.testimonial {
+  background-color: #ffffff;
+  color: #010101;
 }
 section.left {
   text-align: left;
 }
 section.center {
   text-align: center;
-}
-section:nth-child(even) {
-  background-color: #000000;
-  color: #ffffff;
-}
-section:nth-child(odd) {
-  background-color: #ffffff;
-  color: #000000;
 }
 .page {
   margin: 0 auto;
@@ -1402,7 +1399,7 @@ ul {
 }
 ul li {
   font-size: 1.8rem;
-  margin: 30px 0;
+  margin: 15px 0;
 }
 a {
   color: #FEFEFE;
@@ -1449,53 +1446,24 @@ header img {
   border: 1px solid #C0C0C0;
   margin: 0 auto 25px;
 }
-#listen-on-spotify {
-  background: transparent url('../img/social/spotify-playlist.png') no-repeat 0 0;
-  background-image: url('../img/social/spotify-playlist.png');
-  background-size: cover;
-  height: 48px;
-  margin: 35px auto;
-  width: 250px;
-}
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
-  #listen-on-spotify {
-    background-image: url('../img/social/spotify-playlist@2x.png');
-    background-size: cover;
-  }
-}
-@media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (min-device-pixel-ratio: 3) {
-  #listen-on-spotify {
-    background-image: url('../img/social/spotify-playlist@3x.png');
-    background-size: cover;
-  }
-}
-.studio {
-  border: 1px solid #C0C0C0;
-  max-width: 100%;
-}
-footer {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-}
-#social {
+blockquote {
+  font-size: 1.8rem;
+  font-style: italic;
+  line-height: 1.7;
   margin: 0;
 }
-#social li {
-  display: inline-block;
-  margin: 10px 25px 10px 0;
+.openq,
+.closeq {
+  font-family: Georgia, serif;
+  font-size: 2rem;
 }
-#social li:last-child {
-  margin-right: 0;
+.attribution {
+  margin: 0 0 0 50%;
 }
-#social a {
-  background-color: transparent;
-  background-clip: content-box;
-  background-image: url('../img/social/social.png');
-  background-origin: content-box;
-  background-position: 0 0;
-  background-repeat: no-repeat;
-  background-size: cover;
+.author {
+  font-size: 1.6rem;
+  line-height: 1.1;
+  margin: 0 0 5px;
 }
 /* tablets and up */
 @media only screen and (min-width: 768px) {

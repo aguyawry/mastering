@@ -23,10 +23,31 @@
     </div>
 </section>
 
+
 <section class="left">
     <div class="page">
         <h2>Welcome</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, purus sed aliquam volutpat, ipsum felis faucibus purus, a aliquet dui eros eget leo. Cras id justo in justo rutrum ultrices in eget ligula. Suspendisse potenti. Suspendisse molestie neque quis laoreet pharetra. Aenean maximus fermentum fermentum. In hac habitasse platea dictumst. Donec dignissim eget leo id tincidunt.</p>
+
+        <p>Keep scrolling to learn 
+    </div>
+</section>
+
+
+<section class="left testimonial">
+    <div class="page">
+        <div class="">
+            <blockquote cite="https://www.kenhutton.com/">
+                <p><span class="openq">&ldquo;</span>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. Communicating across all aspects of the project is always easy and enjoyable. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
+                </p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectation of my artists and clients. Scott is a powerful ally and has become a friend that I count on to check my work and to make it better.<span class="closeq">&rdquo;</span></p>
+            </blockquote>
+
+            <div class="attribution">
+                <p class="author name">Ken Hutton</p>
+                <p class="author title">Engineer, Producer</p>
+                <p class="author location">Raesfeld, Germany</p>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -41,7 +62,7 @@
             </div>
 
             <div class="col-6">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+                <!-- <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe> -->
             </div>
         </div>
     </div>
@@ -54,26 +75,23 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, purus sed aliquam volutpat, ipsum felis faucibus purus, a aliquet dui eros eget leo. Cras id justo in justo rutrum ultrices in eget ligula. Suspendisse potenti. Suspendisse molestie neque quis laoreet pharetra. Aenean maximus fermentum fermentum. In hac habitasse platea dictumst. Donec dignissim eget leo id tincidunt.</p>
 
         <div class="col-group">
-            <ul class="col-4">
+            <ul class="col-mb-6">
                 <li>PMC</li>
                 <li>Mytek</li>
                 <li>Bryston</li>
-
-            </ul>
-            <ul class="col-4">
+                <li>Magix</li>
                 <li>Apple</li>
+                <li>Waves</li>
+            </ul>
+            <ul class="col-mb-6">
+                <li>Manley</li>
+                <li>Sonnox</li>
+                <li>Sennheiser</li>
                 <li>RME</li>
                 <li>iZotope</li>
-            </ul>
-            <ul class="col-4">
-                <li>Sonnox</li>
-                <li>Manley</li>
-                <li>Magix</li>
                 <li>Avid</li>
             </ul>
         </div>
-
-        <!-- <div style="clear:both;"></div> -->
     </div>
 </section>
 
