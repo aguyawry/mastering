@@ -1,7 +1,6 @@
-
-        </div>
-
         <footer>
+            <div class="page>"
+        <div class="col-group">
             <ul id="social">
                 <li>
                     <a id="grammy" class="hide-text an-ftr-grammy" href="https://www.grammypro.com/users/scott-elson" rel="external" title="Connect with Scott Elson at The Recording Academy.">Connect with Scott Elson at The Recording Academy.</a>
@@ -11,9 +10,12 @@
                 </li>
             </ul>
 
-            <!-- <p><span>&copy; <?php date_default_timezone_set('UTC'); echo date("Y"); ?> elson mastering</span> // <span>all rights reserved</span></p> -->
-
+            <p><span>&copy; <?php date_default_timezone_set('UTC'); echo date("Y"); ?> elson mastering</span> // <span>all rights reserved</span></p>
+            </div>
         </footer>
+                    </div>
+
+        </div>
 
         <!-- build:js_bottom js/bottom.js -->
         <script src="bower/jquery/dist/jquery.min.js"></script>

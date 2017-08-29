@@ -32,6 +32,8 @@
 
         <!-- fonts -->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+        <!-- <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'> -->
+        <!-- <link href='http://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'> -->
 
         <!-- build:css css/style.css -->
         <link rel="stylesheet" href="css/elson_mastering.css">
@@ -45,9 +47,9 @@
 
     <body>
         <div id="container">
-            
+
             <header>
                 <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
                 <h1>elson mastering</h1>
-                <h2>art in audio</h2>
+                <p class="tagline">art in audio</p>
             </header>

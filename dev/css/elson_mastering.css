@@ -1348,6 +1348,10 @@ h1 {
   line-height: 1.2;
   margin: 15px 0 10px;
 }
+.tagline {
+  margin: 0;
+  font-size: 2.5rem;
+}
 h2 {
   font-size: 3rem;
   margin: 0 0 25px;
@@ -1386,20 +1390,18 @@ h4 {
 }
 p {
   font-size: 1.8rem;
+  letter-spacing: 1.2px;
   line-height: 1.7;
   margin: 0 0 15px;
-}
-p:last-child {
-  margin-bottom: 0;
 }
 ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-ul li {
+li {
   font-size: 1.8rem;
-  margin: 15px 0;
+  margin: 0 0 15px;
 }
 a {
   color: #FEFEFE;

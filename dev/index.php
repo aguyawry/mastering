@@ -27,12 +27,22 @@
 <section class="left">
     <div class="page">
         <h2>Welcome</h2>
-        <p>elson mastering is an audio production studio specializing in audio mastering, restoration and preservation. While located in Maine, we collaborate with artists, producers, engineers and labels around the world and from a wide range of musical genres. Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in sound quality.</p>
+        <div class="col-group">
+            <div class="col-6">
+                <p>elson mastering is an audio production studio specializing in audio mastering, restoration and preservation.
+                <p>While located in Maine, we collaborate with artists, producers, engineers and labels around the world, and from a wide range of musical genres.</p>
+                <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in sound quality.</p>
+            </div>
+
+            <div class="col-6">
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+            </div>
+        </div>
     </div>
 </section>
 
 
-<section class="left testimonial">
+<!-- <section class="left testimonial">
     <div class="page">
         <div class="">
             <blockquote cite="https://www.kenhutton.com/">
@@ -47,10 +57,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<section class="left">
+<!-- <section class="left">
     <div class="page">
         <h2>Music</h2>
 
@@ -60,35 +70,43 @@
             </div>
 
             <div class="col-6">
-                <!-- <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe> -->
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="left">
     <div class="page">
         <h2>Gear</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, purus sed aliquam volutpat, ipsum felis faucibus purus, a aliquet dui eros eget leo. Cras id justo in justo rutrum ultrices in eget ligula. Suspendisse potenti. Suspendisse molestie neque quis laoreet pharetra. Aenean maximus fermentum fermentum. In hac habitasse platea dictumst. Donec dignissim eget leo id tincidunt.</p>
-
         <div class="col-group">
-            <ul class="col-mb-6">
-                <li>PMC</li>
-                <li>Mytek</li>
-                <li>Bryston</li>
-                <li>Magix</li>
-                <li>Apple</li>
-                <li>Waves</li>
-            </ul>
-            <ul class="col-mb-6">
-                <li>Manley</li>
-                <li>Sonnox</li>
-                <li>Sennheiser</li>
-                <li>RME</li>
-                <li>iZotope</li>
-                <li>Avid</li>
-            </ul>
+            <div class="col-6">
+                <p>Everything in the signal chain matters.</p>
+                <p>Some tools add color while others are transparent, so we choose gear wisely - only using what’s needed and appropriate.</p>
+                <p>We have both analog and digital processing availablle depending on what feels right for the music.</p>
+            </div>
+
+            <div class="col-group">
+                <div class="col-5 col-mb-offset-1">
+                    <ul class="col-mb-6">
+                        <li>PMC</li>
+                        <li>Mytek</li>
+                        <li>Bryston</li>
+                        <li>Magix</li>
+                        <li>Apple</li>
+                        <li>Waves</li>
+                    </ul>
+                    <ul class="col-mb-6">
+                        <li>Manley</li>
+                        <li>Sonnox</li>
+                        <li>Sennheiser</li>
+                        <li>RME</li>
+                        <li>iZotope</li>
+                        <li>Avid</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -98,9 +116,9 @@
     <div class="page">
         <h2>Contact</h2>
 
-        <div class="col=group">
+        <div class="col-group">
             <div class="col-6">
-                <p>Please get in touch well before you are ready for mastering to ensure we can meet your timeline. We are a big supporter of the independent music community and offer competitive rates for independent projects.</p>
+                <p>Please get in touch well before you are ready for mastering to ensure we can meet your timeline. As a supporter of the independent music community, we offer competitive rates for independent projects.</p>
 
                 <p>Giving back to the community is also important to us and we enjoy being able to offer volunteer services when possible. Please call, email or fill out our quote form and we’ll find a way to work within your budget.</p>
 
@@ -108,8 +126,6 @@
             </div>
 
             <div class="col-5 col-offset-1">
-            
-    
                 <p><a class="an-contact-phone" href="tel:207.358.9146" title="Call elson mastering at 207.358.9146">207.358.9146</a></p>
                 <p><script type="text/javascript">
                     //<![CDATA[
@@ -134,7 +150,9 @@
                     </script>
                 </p>
             </div>
+            
         </div>
+    </div>
 </section>
 
 <?php
