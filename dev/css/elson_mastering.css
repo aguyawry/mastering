@@ -1462,6 +1462,26 @@ blockquote {
   line-height: 1.1;
   margin: 0 0 5px;
 }
+.hcard {
+  margin: 50px 0;
+}
+.hcard a {
+  display: block;
+  margin: 0 0 10px;
+}
+.btn {
+  background: #1db522;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #1d9140;
+  text-decoration: none;
+}
 /* tablets and up */
 @media only screen and (min-width: 768px) {
   #content {
