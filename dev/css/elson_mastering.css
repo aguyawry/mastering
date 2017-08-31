@@ -1401,9 +1401,10 @@ ul {
 }
 li {
   font-size: 1.8rem;
-  margin: 0 0 15px;
+  margin: 0 0 20px;
 }
 a {
+  border-bottom: 1px solid #666;
   color: #FEFEFE;
   text-decoration: none;
 }
@@ -1411,7 +1412,7 @@ a:visited {
   color: #FEFEFE;
 }
 a:hover {
-  border-bottom: 1px solid #FEFEFE;
+  border-bottom: none;
 }
 hr {
   background-color: #111;
@@ -1480,7 +1481,33 @@ blockquote {
 }
 .btn:hover {
   background: #1d9140;
+  border-bottom: none;
   text-decoration: none;
+}
+.social li {
+  display: inline-block;
+  margin: 0 25px 0 0;
+}
+.social a {
+  display: block;
+  height: 50px;
+  text-indent: -9999px;
+  width: 50px;
+}
+.social .facebook {
+  background: transparent url('../img/social/social.png') no-repeat 0 0;
+}
+.social .twitter {
+  background: transparent url('../img/social/social.png') no-repeat -75px 0;
+}
+.social .grammy {
+  background: transparent url('../img/social/social.png') no-repeat -150px 0;
+}
+.social .instagram {
+  background: transparent url('../img/social/social.png') no-repeat -225px 0;
+}
+footer p {
+  font-size: 1.2rem;
 }
 /* tablets and up */
 @media only screen and (min-width: 768px) {

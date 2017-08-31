@@ -149,9 +149,14 @@
                     </p>
                 </div>
                 
-
-
-            
+                <div class="social">
+                    <ul class="social">
+                        <li><a class="facebook" href="https://www.facebook.com/elsonmastering/" target="_blank">follow and like elson mastering on Facebook</a></li>
+                        <li><a class="twitter" href="https://twitter.com/elsonmastering/" target="_blank">follow elson mastering on twitter</a></li>
+                        <li><a class="grammy" href="https://www.grammypro.com/users/scott-elson" target="_blank">elson mastering at the recording academy</a></li>
+                        <li><a class="instagram" href="https://www.instagram.com/elsonmastering/" target="_blank">follow elson mastering on instagram</a></li>
+                    </ul>
+                </div>
             </div>
             
         </div>

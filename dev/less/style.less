@@ -119,15 +119,16 @@ ul {
 
 li {
     font-size: @text-font-size;
-    margin: 0 0 15px;
+    margin: 0 0 20px;
 }
 
 a {
+    border-bottom: 1px solid #666;
     color: @link-color;
     text-decoration: none;
 
     &:visited { color: @link-color; }
-    &:hover { border-bottom: 1px solid @link-color; }
+    &:hover { border-bottom: none; }
 }
 
 hr {
@@ -152,14 +153,7 @@ header {
 }
 
 
-
-.contact {
-
-}
-   
-
-
-
+// carousel
 #carousel { opacity: 0; } // avoids flash of markup, set to 1 in JS after carousel init
 
 .slick-track { height: auto; }
@@ -228,6 +222,30 @@ blockquote {
     
     &:hover {
         background: #1d9140;
+        border-bottom: none;
         text-decoration: none;
     }
+}
+
+
+.social {
+    li {
+        display: inline-block;
+        margin: 0 25px 0 0;
+    }
+
+    a {
+        display: block;
+        height: 50px;
+        text-indent: -9999px;
+        width: 50px;
+    }
+    .facebook { background: transparent url('../img/social/social.png') no-repeat 0 0; }
+    .twitter { background: transparent url('../img/social/social.png') no-repeat -75px 0; }
+    .grammy { background: transparent url('../img/social/social.png') no-repeat -150px 0; }
+    .instagram { background: transparent url('../img/social/social.png') no-repeat -225px 0; }
+}
+
+footer p {
+    font-size: 1.2rem;
 }
