@@ -26,7 +26,12 @@
 
 <section class="left">
     <div class="page">
-        <h2>Welcome</h2>
+        <div class="col-group">
+            <div class="col-12">
+                <h2>Welcome</h2>
+            </div>
+        </div>
+        
         <div class="col-group">
             <div class="col-6">
                 <p>elson mastering is an audio production studio specializing in audio mastering, restoration and preservation.
@@ -79,7 +84,12 @@
 
 <section class="left">
     <div class="page">
-        <h2>Gear</h2>
+        <div class="col-group">
+            <div class="col-12">
+                <h2>Gear</h2>
+            </div>
+        </div>
+        
         <div class="col-group">
             <div class="col-6">
                 <p>Everything in the signal chain matters.</p>
@@ -114,19 +124,23 @@
 
 <section class="contact left">
     <div class="page">
-        <h2>Contact</h2>
+        <div class="col-group">
+            <div class="col-12">
+                <h2>Contact</h2>
+            </div>
+        </div>
 
         <div class="col-group">
             <div class="col-6">
-                <p>Please get in touch well before you are ready for mastering to ensure we can meet your timeline. Please call, email or fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to start the booking process.</p>
+                <p>Please get in touch well before you are ready for mastering to ensure we can meet your timeline. Call, email or fill out our <a class="text-link" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
                 <p>As a supporter of the independent music community, we offer competitive rates for independent projects. We'll do our best to work with your budget.</p>
                 <p>Giving back to the community is important to us and we enjoy offering volunteer services when possible.</p>
                 <p>Join us on Facebook and other social media channels for regular updates from the studio. Send us your latest news and we'll pass it on.</p>
             </div>
 
-            <div class="col-5 col-offset-1">
+            <div class="col-5 col-offset-1 contact-right">
                 <p>
-                    <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">project inquiries</a>
+                    <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">get a quote</a>
                 </p>
 
                 <div class="hcard">
@@ -149,16 +163,13 @@
                     </p>
                 </div>
                 
-                <div class="social">
-                    <ul class="social">
-                        <li><a class="facebook" href="https://www.facebook.com/elsonmastering/" target="_blank">follow and like elson mastering on Facebook</a></li>
-                        <li><a class="twitter" href="https://twitter.com/elsonmastering/" target="_blank">follow elson mastering on twitter</a></li>
-                        <li><a class="grammy" href="https://www.grammypro.com/users/scott-elson" target="_blank">elson mastering at the recording academy</a></li>
-                        <li><a class="instagram" href="https://www.instagram.com/elsonmastering/" target="_blank">follow elson mastering on instagram</a></li>
-                    </ul>
-                </div>
+                <ul class="social">
+                    <li><a class="facebook" href="https://www.facebook.com/elsonmastering/" target="_blank">follow and like elson mastering on Facebook</a></li>
+                    <li><a class="twitter" href="https://twitter.com/elsonmastering/" target="_blank">follow elson mastering on twitter</a></li>
+                    <li><a class="instagram" href="https://www.instagram.com/elsonmastering/" target="_blank">follow elson mastering on instagram</a></li>
+                    <li><a class="grammy" href="https://www.grammypro.com/users/scott-elson" target="_blank">elson mastering at the recording academy</a></li>
+                </ul>
             </div>
-            
         </div>
     </div>
 </section>

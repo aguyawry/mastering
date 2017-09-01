@@ -1358,7 +1358,7 @@ h2 {
 }
 section {
   background-color: #000000;
-  padding: 30px 25px 40px;
+  padding: 30px 0px;
 }
 section.testimonial {
   background-color: #ffffff;
@@ -1403,16 +1403,22 @@ li {
   font-size: 1.8rem;
   margin: 0 0 20px;
 }
+li:last-child {
+  margin-bottom: 0;
+}
 a {
-  border-bottom: 1px solid #666;
   color: #FEFEFE;
   text-decoration: none;
 }
 a:visited {
   color: #FEFEFE;
 }
-a:hover {
-  border-bottom: none;
+a.text-link {
+  border-bottom: 1px solid #999;
+}
+a.text-link:hover {
+  border-color: #C0C000;
+  color: #C0C000;
 }
 hr {
   background-color: #111;
@@ -1474,19 +1480,31 @@ blockquote {
   background: #1db522;
   border-radius: 20px;
   color: #ffffff;
+  display: inline-block;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 2.4rem;
+  line-height: 1.25;
   padding: 10px 20px 10px 20px;
+  text-align: center;
   text-decoration: none;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
 }
 .btn:hover {
   background: #1d9140;
   border-bottom: none;
   text-decoration: none;
 }
+.contact-right {
+  text-align: center;
+}
 .social li {
   display: inline-block;
   margin: 0 25px 0 0;
+}
+.social li:last-child {
+  margin-right: 0;
 }
 .social a {
   display: block;
