@@ -34,9 +34,9 @@
         
         <div class="col-group">
             <div class="col-6">
-                <p>elson mastering is an audio production studio specializing in audio mastering, restoration and preservation.
+                <p>elson mastering is an audio and music production studio specializing in audio mastering, restoration and preservation.
                 <p>While located in Maine, we collaborate with artists, producers, engineers and labels around the world, and from a wide range of musical genres.</p>
-                <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in sound quality.</p>
+                <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
             </div>
 
             <div class="col-6">
@@ -94,7 +94,7 @@
             <div class="col-6">
                 <p>Everything in the signal chain matters.</p>
                 <p>Some tools add color while others are transparent, so we choose gear wisely - only using what’s needed and appropriate.</p>
-                <p>We have processing available in both the analog and digital domains depending on what feels right for the music, and quality conversion to go between them.</p>
+                <p>We have processing available in both the analog and digital domains depending on what's best for the music, and quality conversion to go between them.</p>
             </div>
 
             <div class="col-group">
@@ -139,9 +139,9 @@
             </div>
 
             <div class="col-5 col-offset-1 contact-right">
-                <p>
+                <div class="btn-row">
                     <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">get a quote</a>
-                </p>
+                </div>
 
                 <div class="hcard">
                     <p>

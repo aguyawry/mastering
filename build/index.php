@@ -4,7 +4,7 @@
     $description = "elson mastering provides high-quality audio mastering services to artists, labels and music producers throughout the world.";
     $keywords = "scott elson, mastering, audio mastering, music, audio encoding, music production, audio restoration, transfers, archives, forensic audio, maine";
     include "top.php";
-?><section><div id="carousel"> <?php
+?><section class="center"><div id="carousel"> <?php
             // read data from json file, shuffle it and loop to create the carousel
             // note, slick's lazy loading feature is being used for images
             $json = json_decode( file_get_contents('js/projects.json') );
@@ -15,26 +15,19 @@
                 echo "    <h4>" . $data->artist . "</h4>";
                 echo "</div>";
             }
-        ?></div></section><hr><section><ul class="services"><li>mastering</li><li>restoration</li><li>preservation</li></ul></section><hr><section class="contact"><p><a class="an-contact-phone" href="tel:207.358.9146" title="Call elson mastering at 207.358.9146">207.358.9146</a></p><p><script type="text/javascript">
-            //<![CDATA[
-            <!--
-            var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
-            "harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\""+
-            "\\\\,l=x.length;for(i=0;i<l;i++){y%=127;o+=String.fromCharCode(x.charCodeAt" +
-            "(i)^(y++));}return o;}f(\\\"\\\\<69.180+N\\\\\\\\026\\\\\\\\020\\\\\\\\n\\\\"+
-            "\\\\020\\\\\\\\000\\\\\\\\n\\\\\\\\t@KV\\\\\\\\nL\\\\\\\\016\\\\\\\\002\\\\" +
-            "\\\\016\\\\\\\\003\\\\\\\\002O/V\\\\\\\\024\\\\\\\\030Z\\\\\\\\033\\\\\\\\0" +
-            "26\\\\\\\\024\\\\\\\\017\\\\\\\\035\\\\\\\\036\\\\\\\\n-dobmiZ%(axnj0R-}p{\\"+
-            "\\\\\\177`z,dll~rs]{sSNLNEVRBZ@DL\\\\\\\\002NABl\\\\\\\\023\\\\\\\\022G]AZR" +
-            "\\\\\\\\005e\\\\\\\\030^Q\\\\\\\\\\\\\\\\WS`$.0++f*):>.>$ (\\\\\\\\014sl   " +
-            "2>7\\\\\\\\031?7/202\\\\\\\\001\\\\\\\\022\\\\\\\\026\\\\\\\\006\\\\\\\\026" +
-            "\\\\\\\\014\\\\\\\\010\\\\\\\\000F\\\\\\\\n\\\\\\\\005\\\\\\\\006PB\\\\\\\\" +
-            "017QRXICO\\\"\\\\,88)\\\"(f};)lo,0(rtsbus.o nruter};)i(tArahc.x=+o{)--i;0=>" +
-            "i;1-l=i(rof}}{)e(hctac};l=+l;x=+x{yrt{)84=!)31/l(tAedoCrahc.x(elihw;lo=l,ht" +
-            "gnel.x=lo,\\\"\\\"=o,i rav{)x(f noitcnuf\")"                                 ;
-            while(x=eval(x));
-            //-->
-            //]]>
-            </script></p></section> <?php
+        ?></div></section><section class="left"><div class="page"><div class="col-group"><div class="col-12"><h2>Welcome</h2></div></div><div class="col-group"><div class="col-6"><p>elson mastering is an audio and music production studio specializing in audio mastering, restoration and preservation.<p>While located in Maine, we collaborate with artists, producers, engineers and labels around the world, and from a wide range of musical genres.</p><p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p></div><div class="col-6"><iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe></div></div></div></section><section class="left"><div class="page"><div class="col-group"><div class="col-12"><h2>Gear</h2></div></div><div class="col-group"><div class="col-6"><p>Everything in the signal chain matters.</p><p>Some tools add color while others are transparent, so we choose gear wisely - only using what’s needed and appropriate.</p><p>We have processing available in both the analog and digital domains depending on what's best for the music, and quality conversion to go between them.</p></div><div class="col-group"><div class="col-5 col-mb-offset-1"><ul class="col-mb-6"><li>PMC</li><li>Mytek</li><li>Bryston</li><li>Magix</li><li>Apple</li><li>Waves</li></ul><ul class="col-mb-6"><li>Manley</li><li>Sonnox</li><li>Sennheiser</li><li>RME</li><li>iZotope</li><li>Avid</li></ul></div></div></div></div></section><section class="contact left"><div class="page"><div class="col-group"><div class="col-12"><h2>Contact</h2></div></div><div class="col-group"><div class="col-6"><p>Please get in touch well before you are ready for mastering to ensure we can meet your timeline. Call, email or fill out our <a class="text-link" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p><p>As a supporter of the independent music community, we offer competitive rates for independent projects. We'll do our best to work with your budget.</p><p>Giving back to the community is important to us and we enjoy offering volunteer services when possible.</p><p>Join us on Facebook and other social media channels for regular updates from the studio. Send us your latest news and we'll pass it on.</p></div><div class="col-5 col-offset-1 contact-right"><div class="btn-row"> <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">get a quote</a></div><div class="hcard"><p> <a class="p-tel" href="tel:2073589146" title="Call elson mastering at 207.358.9146">207.358.9146</a><script type="text/javascript">
+                        //<![CDATA[
+                        <!--
+                        var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+                        "=55){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+                        ".substr(0,ol);}f(\")911,\\\"QYSND[500\\\\L^410\\\\710\\\\<p:22(<,$78:<!=571" +
+                        "0\\\\!$(>>:ve230\\\\(+ l&.VLXHH[TVXEYQs]XTZZ^620\\\\D^EAFK700\\\\x630\\\\DD" +
+                        "Rw>?@wsxur;`6O/bcnbn,j6+ ij`pjpv.n\\\\320\\\\130\\\\620\\\\710\\\\230\\\\72" +
+                        "0\\\\320\\\\\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o" +
+                        ";721=%y{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"     ;
+                        while(x=eval(x));
+                        //-->
+                        //]]>
+                        </script></p></div><ul class="social"><li><a class="facebook" href="https://www.facebook.com/elsonmastering/" target="_blank">follow and like elson mastering on Facebook</a></li><li><a class="twitter" href="https://twitter.com/elsonmastering/" target="_blank">follow elson mastering on twitter</a></li><li><a class="instagram" href="https://www.instagram.com/elsonmastering/" target="_blank">follow elson mastering on instagram</a></li><li><a class="grammy" href="https://www.grammypro.com/users/scott-elson" target="_blank">elson mastering at the recording academy</a></li></ul></div></div></div></section> <?php
     include "bottom.php";
 ?>

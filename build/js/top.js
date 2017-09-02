@@ -1,0 +1,1 @@
+!function(e,n,a,t,c,s,o){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,s=n.createElement(a),o=n.getElementsByTagName(a)[0],s.async=1,s.src=t,o.parentNode.insertBefore(s,o)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),ga("create","UA-43556029-1","elsonmastering.com"),ga("send","pageview");
