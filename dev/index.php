@@ -65,21 +65,31 @@
 </section> -->
 
 
-<!-- <section class="left">
+<section class="left">
     <div class="page">
-        <h2>Music</h2>
+        <div class="col-group">
+            <div class="col-12">
+                <h2>About</h2>
+            </div>
+        </div>
 
         <div class="col-group">
             <div class="col-6">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, purus sed aliquam volutpat, ipsum felis faucibus purus, a aliquet dui eros eget leo. Cras id justo in justo rutrum ultrices in eget ligula. Suspendisse potenti. Suspendisse molestie neque quis laoreet pharetra. Aenean maximus fermentum fermentum. In hac habitasse platea dictumst. Donec dignissim eget leo id tincidunt.</p>
+                <p>Owner and Chief Engineer Scott Elson brings a unique combination of technical expertise and creative feel to every record he is part of. He believes every project is unique and deserves the utmost care as he builds upon the hard work already put in by many other talented people.</p>
+
+                <p>He is both an engineer and a musician with Electrical Engineering degrees from Virginia Tech and a Music degree from Berklee College of Music - a foundation tailored to the needs of audio and music production.</p>
+
+                <p>Scott joined Bob Ludwig at Gateway Mastering in 2001 a staff engineer, initially doing editing and creation of final production masters. He soon began assisting in daily mastering sessions and eventually starting taking on mastering clients of his own. He now works as an independent engineer making quality mastering accessible to artists of every stature no matter where they are in their career.</p>
+
+                <p>Scott is a member of both the Audio Engineering Society and The Recording Academy’s  Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
             </div>
 
             <div class="col-6">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+
             </div>
         </div>
     </div>
-</section> -->
+</section>
 
 
 <section class="left">
