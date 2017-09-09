@@ -17,6 +17,8 @@
 @border-color:          @silver;
 @text-font-size:        1.8rem;
 
+@util-height:           75px;
+
 html {
     box-sizing: border-box;
     font-size: 62.5%;
@@ -41,8 +43,43 @@ body {
     // font-family: 'Lato', Helvetica, sans-serif;
     // font-family: 'Roboto', Helvetica, sans-serif;
     font-weight: 200;
-    padding: 20px 0 0;
+    // padding: @util-height 0 0;
 }
+
+// #util {
+//     height: @util-height;
+//     position: fixed;
+//     top: 0;
+//     width: 100%;
+//     z-index: 10;
+// }
+
+// #fade {
+//     background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.4) 75%,rgba(0,0,0,0) 100%);
+//     height: 100%;
+//     width: 100%;
+// }
+
+// #menu {
+//     position: absolute;
+//     right: 5px;
+//     top: 5px;
+
+//     a {
+//         cursor: pointer;
+//         display: block;
+//         font-family: sans-serif;
+//         font-size: 4rem;
+//         font-weight: bold;
+//         line-height: 1.25;
+//         padding: 3px 10px;
+//         text-align: center;
+//         text-decoration: none;
+//         user-select: none;
+//         vertical-align: middle;
+//         white-space: nowrap;
+//     }
+// }
 
 h1, h2, h3, h4, h5 {
     font-weight: 200;
@@ -149,7 +186,7 @@ hr {
 }
 
 #container {
-    margin: 0 auto;
+    margin: @util-height auto 0;
     // padding: 20px 20px 0;
 }
 

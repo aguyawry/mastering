@@ -46,7 +46,22 @@
 
 
     <body>
+
+        <div id="menu">
+            <p>Menu</p>
+        </div>
+        <!-- <div id="util">
+            <div id="fade"></div>
+            <div id="menu">
+                <a href="#">&vellip;</a>
+            </div>
+        </div> -->
+
+        <div id="panel">
+
         <div id="container">
+
+            <button class="toggle-button">☰</button>
 
             <header>
                 <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
