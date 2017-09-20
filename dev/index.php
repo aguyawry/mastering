@@ -65,7 +65,7 @@
 </section> -->
 
 
-<section class="left">
+<section id="about-section" class="left">
     <div class="page">
         <div class="col-group">
             <div class="col-12">
@@ -92,7 +92,7 @@
 </section>
 
 
-<section class="left">
+<section id="gear-section" class="left">
     <div class="page">
         <div class="col-group">
             <div class="col-12">
@@ -132,7 +132,7 @@
 </section>
 
 
-<section class="contact left">
+<section id="contact-section" class="contact left">
     <div class="page">
         <div class="col-group">
             <div class="col-12">

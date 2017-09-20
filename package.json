@@ -3,9 +3,6 @@
   "config": {
     "unsafe-perm": true
   },
-  "dependencies": {
-    "slideout": "1.0.1"
-  },
   "description": "elson mastering",
   "devDependencies": {
     "bower": "*",

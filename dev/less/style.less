@@ -17,8 +17,6 @@
 @border-color:          @silver;
 @text-font-size:        1.8rem;
 
-@util-height:           75px;
-
 html {
     box-sizing: border-box;
     font-size: 62.5%;
@@ -44,6 +42,14 @@ body {
     // font-family: 'Roboto', Helvetica, sans-serif;
     font-weight: 200;
     // padding: @util-height 0 0;
+}
+
+[canvas = container] {
+    background-color: black;
+}
+
+[off-canvas] {
+    margin-top: 70px;
 }
 
 // #util {
@@ -185,8 +191,8 @@ hr {
     width: 80%;
 }
 
-#container {
-    margin: @util-height auto 0;
+#container1 {
+    margin: 25px auto;
     // padding: 20px 20px 0;
 }
 
@@ -256,6 +262,14 @@ blockquote {
     }
 }
 
+.toggle-button {
+    font-size: 4rem;
+    padding: 10px 25px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    z-index: 10;
+}
 
 .btn-row {
     margin-top: 50px;
@@ -309,4 +323,13 @@ blockquote {
 
 footer p {
     font-size: 1.2rem;
+}
+
+
+
+#menu {
+    background-color: #222;
+    border-radius: 10px 0 0 10px;
+    height: 100%;
+    padding: 10px;
 }

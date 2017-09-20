@@ -16,7 +16,9 @@
         <meta name="keywords" content="<?php echo $keywords ?>">
 
         <!-- specify viewport. use only for responsive sites -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
 
         <!-- cleartype for Win/IE devices -->
         <meta http-equiv="cleartype" content="on">
@@ -46,25 +48,13 @@
 
 
     <body>
+        <a href="#" class="toggle-button">&vellip;</a>
 
-        <div id="menu">
-            <p>Menu</p>
-        </div>
-        <!-- <div id="util">
-            <div id="fade"></div>
-            <div id="menu">
-                <a href="#">&vellip;</a>
-            </div>
-        </div> -->
+        <div canvas="container">
+            <div id="container1">
 
-        <div id="panel">
-
-        <div id="container">
-
-            <button class="toggle-button">☰</button>
-
-            <header>
-                <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
-                <h1>elson mastering</h1>
-                <p class="tagline">art in audio</p>
-            </header>
+                <header>
+                    <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
+                    <h1>elson mastering</h1>
+                    <p class="tagline">art in audio</p>
+                </header>
