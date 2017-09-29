@@ -9,8 +9,8 @@
         <div off-canvas="slider right overlay">
             <nav id="menu">
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#about-section">About</a></li>
+                    <li><a href="#container1">Home</a></li>
+                    <!-- <li><a href="#about-section">About</a></li> -->
                     <li><a href="#gear-section">Gear</a></li>
                     <li><a href="#contact-section">Contact</a></li>
                 </ul>
@@ -25,6 +25,7 @@
         <script src="js/app/core.js"></script>
         <script>
             ( function ( $ ) {
+                // https://www.adchsm.com/slidebars/
                 // Initialize Slidebars
                 var controller = new slidebars();
                 controller.init();

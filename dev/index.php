@@ -64,7 +64,7 @@
     </div>
 </section> -->
 
-
+<!--
 <section id="about-section" class="left">
     <div class="page">
         <div class="col-group">
@@ -90,7 +90,7 @@
         </div>
     </div>
 </section>
-
+                -->
 
 <section id="gear-section" class="left">
     <div class="page">
