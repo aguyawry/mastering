@@ -47,22 +47,26 @@
 </section>
 
 
-<!-- <section class="left testimonial">
+<section class="left testimonial">
     <div class="page">
-        <div class="">
-            <blockquote cite="https://www.kenhutton.com/">
-                <p><span class="openq">&ldquo;</span>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. Communicating across all aspects of the project is always easy and enjoyable. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
-                </p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectation of my artists and clients. Scott is a powerful ally and has become a friend that I count on to check my work and to make it better.<span class="closeq">&rdquo;</span></p>
-            </blockquote>
+        <div class="col-group">
+            <div class="col-12">
+                <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
+                    <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music.</p>
+                    <p>I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
+                    <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
+                    <p>Scott is a powerful ally and has become a friend I count on to check my work and make it better.</p>
+                </blockquote>
 
-            <div class="attribution">
-                <p class="author name">Ken Hutton</p>
-                <p class="author title">Engineer, Producer</p>
-                <p class="author location">Raesfeld, Germany</p>
+                <div class="attribution">
+                    <p class="author name">Ken Hutton</p>
+                    <p class="author title">Engineer, Producer</p>
+                    <p class="author credits">Mark Knopfler, Tim McGraw, Suzy Bogguss, Sawyer Brown</p>
+                </div>
             </div>
         </div>
     </div>
-</section> -->
+</section>
 
 <!--
 <section id="about-section" class="left">
@@ -125,6 +129,27 @@
                         <li>iZotope</li>
                         <li>Avid</li>
                     </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="left testimonial">
+    <div class="page">
+        <div class="col-group">
+            <div class="col-12">
+                <blockquote cite="https://coveredinbees.net/">
+                    <p>Scott is incredible to work with. Super nice dude, and very professional.</p>
+                    <p>Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
+                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">Tristan Gallagher</p>
+                    <p class="author title">Covered in Bees</p>
+                    <!-- <p class="author credits"></p> -->
                 </div>
             </div>
         </div>

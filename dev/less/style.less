@@ -16,6 +16,9 @@
 @link-color:            @white;
 @border-color:          @silver;
 @text-font-size:        1.8rem;
+@font-primary:          ~"'Open Sans', Helvetica, sans-serif";
+// @font-secondary:        ~"'Lato', Helvetica, sans-serif";
+// @font-secondary:        ~"'Roboto', Helvetica, sans-serif";
 
 html {
     box-sizing: border-box;
@@ -37,50 +40,51 @@ body {
 body {
     background-color: @background-color;
     color: @text-color;
-    font-family: 'Open Sans', Helvetica, sans-serif;
-    // font-family: 'Lato', Helvetica, sans-serif;
-    // font-family: 'Roboto', Helvetica, sans-serif;
+    font-family: @font-primary;
     font-weight: 200;
 }
 
-[canvas = container] {
-    background-color: black;
-}
-
-[off-canvas] {
-    margin-top: 70px;
-}
-
-
-
-// #fade {
-//     background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.4) 75%,rgba(0,0,0,0) 100%);
-//     height: 100%;
-//     width: 100%;
-// }
 
 h1, h2, h3, h4, h5 {
     font-weight: 200;
 }
 
 h1 {
-    font-size: 3.8rem;
+    font-size: @text-font-size + 2;
     line-height: 1.2;
     margin: 15px 0 10px;
 }
 
 .tagline {
     margin: 0;
-    font-size: 2.5rem;
+    font-size: @text-font-size + 0.7;
 }
 
 h2 {
-    font-size: 3rem;
+    font-size: @text-font-size + 1.2;
     margin: 0 0 25px;
+}
+
+h3 {
+    font-size: @text-font-size + 0.7;
+    line-height: 1.2;
+    margin: 35px 0 5px;
+    text-transform: lowercase;
+
+    &:first-child { margin-top: 0; }
+}
+
+//menu related items
+[canvas = container] { background-color: black; }
+
+[off-canvas] {
+    background-color: transparent;
+    margin-top: 70px;
 }
 
 #menu {
     background-color: #efefef;
+    border: 1px solid #ccc;
     border-radius: 10px 0 0 10px;
     height: 100%;
     padding: 10px;
@@ -107,14 +111,15 @@ h2 {
     }
 }
 
+
 // sections
 section {
     background-color: @background-color;
     padding: 30px 0px;
 
     &.testimonial {
-        background-color: #fff - @background-color;
-        color: #fff - @text-color;
+        background-color: #eee;
+        color: @black;
     }
     &.left { text-align: left; }
     &.center { text-align: center; }
@@ -127,28 +132,17 @@ section {
     width: 100%;
 }
 
-h3 {
-    font-size: 2.5rem;
-    line-height: 1.2;
-    margin: 35px 0 5px;
-    text-transform: lowercase;
-
-    &:first-child { margin-top: 0; }
-}
-
-
 
 // carousel headers
 h4 {
-    font-size: 1.8rem;
+    font-size: @text-font-size;
     margin: 0;
 }
-
 
 p {
     font-size: @text-font-size;
     letter-spacing: 1.2px;
-    line-height: 1.7;
+    line-height: 1.5;
     margin: 0 0 15px;
 }
 
@@ -221,33 +215,57 @@ header {
 
 // testimonial stuff
 blockquote {
-    font-size: 1.8rem;
+    font-family: @font-primary;
+    font-size: @text-font-size - 1;
     font-style: italic;
-    line-height: 1.7;
-    margin: 0;
-    // &:before, &:after {
-    //     content: '\201C';
-    //     font-family: Georgia, serif;
-    //     font-size: 2rem;
-    //  }
-    //  &:after {
-    //     content: '\201D';
-    //  }
-}
+    // font-weight: normal;
+    position: relative;
+    // line-height: 1.5;
+    margin: 30px 0 0;
 
-.openq, .closeq {
-    font-family: Georgia, serif;
-    font-size: 2rem;
+    :last-child { margin-bottom: 3px; }
+
+    &::before, &::after {
+        font-family: Georgia, serif;
+        left: -5px; 
+        line-height: 1;
+        margin-bottom: 0;
+        font-size: @text-font-size + 5.2;
+        position: absolute;
+    }
+
+    &::before {
+        content: "\201C";
+        top: -35px;
+    }
+
+    &::after {
+        content: "\201D";
+    }
 }
 
 .attribution {
-    margin: 0 0 0 50%;
-}
+    margin: 60px 0 0;
+    font-style: normal;
+    
 
-.author {
-    font-size: 1.6rem;
-    line-height: 1.1;
-    margin: 0 0 5px;
+    p {
+        margin-bottom: 7px;
+    }
+
+    .author {
+        line-height: 1.1;
+    }
+
+    .name {
+        font-size: @text-font-size + 0.3;
+        font-weight: normal;
+    }
+    // .title { font-weight: 200; }
+    .credits {
+        font-size: @text-font-size - 0.3;
+        line-height: 1.4;
+    }
 }
 
 
@@ -261,7 +279,8 @@ blockquote {
 }
 
 .toggle-button {
-    font-size: 4rem;
+    color:#999;
+    font-size: @text-font-size + 2.2m;
     padding: 5px 8px;
     position: fixed;
     right: 0px;
@@ -279,7 +298,7 @@ blockquote {
     color: #ffffff;
     display: inline-block;
     font-family: sans-serif;
-    font-size: 2.4rem;
+    font-size: @text-font-size + 0.6;
     line-height: 1.25;
     padding: 10px 20px 10px 20px;
     text-align: center;
@@ -320,5 +339,5 @@ blockquote {
 }
 
 footer p {
-    font-size: 1.2rem;
+    font-size: @text-font-size - 0.6;
 }
