@@ -34,8 +34,8 @@
         
         <div class="col-group">
             <div class="col-6">
-                <p>elson mastering is an audio and music production studio specializing in audio mastering, restoration and preservation.
-                <p>While located in Maine, we collaborate with artists, producers, engineers and labels around the world, and from a wide range of musical genres.</p>
+                <p>elson mastering is an audio and music production studio owned and operated by engineer Scott Elson.</p>
+                <p>While located in beautiful southern Maine, we collaborate with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
                 <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
             </div>
 
@@ -108,7 +108,7 @@
             <div class="col-6">
                 <p>Everything in the signal chain matters.</p>
                 <p>Some tools add color while others are transparent, so we choose gear wisely - only using what’s needed and appropriate.</p>
-                <p>We have processing available in both the analog and digital domains depending on what's best for the music, and quality conversion to go between them.</p>
+                <p>We have quality processing available in both the analog and digital domains, and exceptional conversion to go between them.</p>
             </div>
 
             <div class="col-group">
