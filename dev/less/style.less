@@ -16,6 +16,7 @@
 @link-color:            @white;
 @border-color:          @silver;
 @text-font-size:        1.8rem;
+@padding-default:       15px;
 @font-primary:          ~"'Open Sans', Helvetica, sans-serif";
 // @font-secondary:        ~"'Lato', Helvetica, sans-serif";
 // @font-secondary:        ~"'Roboto', Helvetica, sans-serif";
@@ -33,8 +34,8 @@ html {
 
 html,
 body {
+    // background-color: black;
     height: 100%;
-    text-align: center;
 }
 
 body {
@@ -49,43 +50,54 @@ h1, h2, h3, h4, h5 {
     font-weight: 200;
 }
 
-h1 {
-    font-size: @text-font-size + 2;
-    line-height: 1.2;
-    margin: 15px 0 10px;
+
+// header elements
+header {
+    margin: 0 0 10px;
+    padding: @padding-default;
+
+    img {
+        height: 75px;
+        margin-right: 5px;
+    }
+
+    div {
+        display: inline-block;
+        margin-top: 10px;
+        text-align: center;
+        vertical-align: top;
+    }
+
+    h1 {
+        font-size: @text-font-size + 0.6;
+        line-height: 1.2;
+        margin: 0;
+    }
+    
+    .tagline {
+        margin: 0;
+        font-size: @text-font-size;
+    }
+
+    .toggle-button {
+        float: right;
+        font-size: @text-font-size + 2.2m;
+        padding: 5px 8px;
+        vertical-align: top;
+    }    
 }
 
-.tagline {
-    margin: 0;
-    font-size: @text-font-size + 0.7;
-}
-
-h2 {
-    font-size: @text-font-size + 1.2;
-    margin: 0 0 25px;
-}
-
-h3 {
-    font-size: @text-font-size + 0.7;
-    line-height: 1.2;
-    margin: 35px 0 5px;
-    text-transform: lowercase;
-
-    &:first-child { margin-top: 0; }
-}
 
 //menu related items
 [canvas = container] { background-color: black; }
 
 [off-canvas] {
     background-color: transparent;
-    margin-top: 70px;
 }
 
 #menu {
     background-color: #efefef;
     border: 1px solid #ccc;
-    border-radius: 10px 0 0 10px;
     height: 100%;
     padding: 10px;
 
@@ -112,6 +124,25 @@ h3 {
 }
 
 
+
+
+h2 {
+    font-size: @text-font-size + 1.2;
+    margin: 0 0 25px;
+}
+
+h3 {
+    font-size: @text-font-size + 0.7;
+    line-height: 1.2;
+    margin: 35px 0 5px;
+    text-transform: lowercase;
+
+    &:first-child { margin-top: 0; }
+}
+
+
+
+
 // sections
 section {
     background-color: @background-color;
@@ -133,11 +164,7 @@ section {
 }
 
 
-// carousel headers
-h4 {
-    font-size: @text-font-size;
-    margin: 0;
-}
+
 
 p {
     font-size: @text-font-size;
@@ -185,32 +212,14 @@ hr {
 
 #container1 {
     margin: 0 auto;
-    padding: 25px 0 0;
+    // padding: 25px 0 0;
 }
 
 
-header {
-    margin: 0 0 10px;
-
-    img { height: 100px; }
-}
 
 
-// carousel
-#carousel { opacity: 0; } // avoids flash of markup, set to 1 in JS after carousel init
 
-.slick-track { height: auto; }
 
-.slick-slide {
-    background-color: @black;       // hack for smooth text transitions
-
-    img {
-        border: 1px solid @border-color;
-        // height:155px;
-        margin: 0 auto 25px;
-        // width: 155px;
-    }
-}
 
 iframe { border: 1px solid #444; }
 
@@ -279,15 +288,6 @@ blockquote {
     }
 }
 
-.toggle-button {
-    color:#999;
-    font-size: @text-font-size + 2.2m;
-    padding: 5px 8px;
-    position: fixed;
-    right: 0px;
-    top: 0px;
-    z-index: 10;
-}
 
 .btn-row {
     margin-top: 50px;

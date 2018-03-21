@@ -48,13 +48,15 @@
 
 
     <body>
-        <a href="#" class="toggle-button">&vellip;</a>
-
         <div canvas="container">
             <div id="container1">
 
                 <header>
                     <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
-                    <h1>elson mastering</h1>
-                    <p class="tagline">art in audio</p>
+                    <div>
+                        <h1>elson mastering</h1>
+                        <p class="tagline">art in audio</p>
+                    </div>
+
+                    <a href="#" class="toggle-button">&vellip;</a>
                 </header>

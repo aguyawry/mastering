@@ -7,20 +7,7 @@
 ?>
 
 <section class="center">
-    <div id="carousel">
-        <?php
-            // read data from json file, shuffle it and loop to create the carousel
-            // note, slick's lazy loading feature is being used for images
-            $json = json_decode( file_get_contents('js/projects.json') );
-            shuffle( $json->projects );
-            foreach ($json->projects as $data) {
-                echo "<div>";
-                echo "    <img data-lazy='img/carousel/" . $data->img . "' alt='"  . $data->alt . "'>";
-                echo "    <h4>" . $data->artist . "</h4>";
-                echo "</div>";
-            }
-        ?>
-    </div>
+    <p>this was the carousel</p>
 </section>
 
 
