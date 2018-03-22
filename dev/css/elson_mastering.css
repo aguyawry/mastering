@@ -1338,7 +1338,7 @@ body {
 body {
   background-color: #000000;
   color: #FEFEFE;
-  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 200;
 }
 h1,
@@ -1349,7 +1349,7 @@ h5 {
   font-weight: 200;
 }
 header {
-  margin: 0 0 10px;
+  background-color: black;
   padding: 15px;
 }
 header img {
@@ -1369,7 +1369,20 @@ header h1 {
 }
 header .tagline {
   margin: 0;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
+}
+header ul {
+  float: right;
+  margin-top: 15px;
+}
+header ul li {
+  display: inline-block;
+  padding: 15px;
+}
+@media only screen and (max-width: 768px) {
+  header ul {
+    display: none;
+  }
 }
 header .toggle-button {
   float: right;
@@ -1377,8 +1390,10 @@ header .toggle-button {
   padding: 5px 8px;
   vertical-align: top;
 }
-[canvas=container] {
-  background-color: black;
+@media only screen and (min-width: 768px) {
+  header .toggle-button {
+    display: none;
+  }
 }
 [off-canvas] {
   background-color: transparent;
@@ -1411,36 +1426,28 @@ header .toggle-button {
   border-radius: 5px;
 }
 h2 {
-  font-size: 3rem;
-  margin: 0 0 25px;
+  font-size: 3.3rem;
+  font-weight: bold;
+  margin: 0 0 10px;
 }
 h3 {
-  font-size: 2.5rem;
+  font-size: 4.8rem;
   line-height: 1.2;
-  margin: 35px 0 5px;
-  text-transform: lowercase;
-}
-h3:first-child {
-  margin-top: 0;
+  margin: 0;
 }
 section {
-  background-color: #000000;
-  padding: 30px 0px;
+  padding: 75px 0px;
 }
-section.testimonial {
-  background-color: #eee;
-  color: #000000;
+section.text {
+  background-color: #D7E3EB;
+  color: black;
+}
+section.image {
+  background-color: #425B6B;
+  color: white;
 }
 section.left {
   text-align: left;
-}
-section.center {
-  text-align: center;
-}
-.page {
-  margin: 0 auto;
-  max-width: 960px;
-  width: 100%;
 }
 p {
   font-size: 1.8rem;
@@ -1482,14 +1489,11 @@ hr {
   margin: 25px auto 35px;
   width: 80%;
 }
-#container1 {
-  margin: 0 auto;
-}
 iframe {
   border: 1px solid #444;
 }
 blockquote {
-  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 0.8rem;
   font-style: italic;
   position: relative;
@@ -1594,9 +1598,3 @@ footer p {
   font-size: 1.2rem;
 }
 /* tablets and up */
-@media only screen and (min-width: 768px) {
-  #content {
-    margin: 0 auto;
-    width: 650px;
-  }
-}

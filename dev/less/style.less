@@ -1,8 +1,6 @@
 // Mobile first styling
 
 // Variables
-// @breakpoint-desktop:    1025px;     // used with min-width, 1 px greater that iPad
-
 @black:         #000000;
 @burlywood:     #DEB887;
 @silver:        #C0C0C0;
@@ -17,7 +15,8 @@
 @border-color:          @silver;
 @text-font-size:        1.8rem;
 @padding-default:       15px;
-@font-primary:          ~"'Open Sans', Helvetica, sans-serif";
+// @font-primary:          ~"'Open Sans', Helvetica, sans-serif";
+@font-primary:          ~"'Helvetica Neue', Helvetica, sans-serif";
 // @font-secondary:        ~"'Lato', Helvetica, sans-serif";
 // @font-secondary:        ~"'Roboto', Helvetica, sans-serif";
 
@@ -53,7 +52,8 @@ h1, h2, h3, h4, h5 {
 
 // header elements
 header {
-    margin: 0 0 10px;
+    background-color: black;
+    // margin: 0;
     padding: @padding-default;
 
     img {
@@ -76,7 +76,21 @@ header {
     
     .tagline {
         margin: 0;
-        font-size: @text-font-size;
+        font-size: @text-font-size - 0.2;
+    }
+
+    ul {
+        float: right;
+        margin-top: 15px;
+
+        li {
+            display: inline-block;
+            padding: 15px;
+        }
+
+        @media only screen and (max-width : @screenTablet) {
+            display: none;
+        }
     }
 
     .toggle-button {
@@ -84,12 +98,16 @@ header {
         font-size: @text-font-size + 2.2m;
         padding: 5px 8px;
         vertical-align: top;
+
+        @media only screen and (min-width : @screenTablet) {
+            display: none;
+        }
     }    
 }
 
 
 //menu related items
-[canvas = container] { background-color: black; }
+// [canvas = container] { background-color: black; }
 
 [off-canvas] {
     background-color: transparent;
@@ -127,17 +145,15 @@ header {
 
 
 h2 {
-    font-size: @text-font-size + 1.2;
-    margin: 0 0 25px;
+    font-size: @text-font-size + 1.5;
+    font-weight: bold;
+    margin: 0 0 10px;
 }
 
 h3 {
-    font-size: @text-font-size + 0.7;
+    font-size: @text-font-size + 3;
     line-height: 1.2;
-    margin: 35px 0 5px;
-    text-transform: lowercase;
-
-    &:first-child { margin-top: 0; }
+    margin: 0;
 }
 
 
@@ -145,22 +161,32 @@ h3 {
 
 // sections
 section {
-    background-color: @background-color;
-    padding: 30px 0px;
+    // background-color: @background-color;
+    padding: 75px 0px;
 
-    &.testimonial {
-        background-color: #eee;
-        color: @black;
+    &.text {
+        background-color: #D7E3EB;
+        color: black;   
     }
+
+    &.image {
+        background-color: #425B6B;
+        color: white;   
+    }
+
+    // &.testimonial {
+    //     // background-color: #eee;
+    //     color: @black;
+    // }
     &.left { text-align: left; }
-    &.center { text-align: center; }
+    // &.center { text-align: center; }
 }
 
 
 .page {
-    margin: 0 auto;
-    max-width: 960px;
-    width: 100%;
+    // margin: 0 auto;
+    // max-width: 960px;
+    // width: 100%;
 }
 
 
@@ -211,7 +237,7 @@ hr {
 }
 
 #container1 {
-    margin: 0 auto;
+    // margin: 0 auto;
     // padding: 25px 0 0;
 }
 

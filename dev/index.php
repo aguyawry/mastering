@@ -6,34 +6,49 @@
     include "top.php";
 ?>
 
-<section class="center">
-    <p>this was the carousel</p>
-</section>
-
-
-<section class="left">
-    <div class="page">
+<section class="text">
+    <div class="container">
         <div class="col-group">
-            <div class="col-12">
-                <h2>Welcome</h2>
-            </div>
-        </div>
-        
-        <div class="col-group">
-            <div class="col-6">
-                <p>elson mastering is an audio and music production studio owned and operated by engineer Scott Elson.</p>
-                <p>While located in beautiful southern Maine, we collaborate with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
-                <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+            <div class="col-mb-12 col-6">
+                <h2>professional mastering</h2>
+                <h3>for everyone. anywhere.</h3>
             </div>
 
-            <div class="col-6">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
-            </div>
+            <div class="col-mb-12 col-6">
+                <p>Your music deserves the </p>
+                <p>Call to action</p>
+            </div>            
         </div>
     </div>
 </section>
 
 
+
+<section class="image">
+    <div class="container">
+        <div class="col-group">
+            <!-- <div class="col-12"> -->
+
+                <!-- <div class="col-group"> -->
+                    <div class="col-mb-12 col-6">
+                        <p>elson mastering is an audio and music production studio owned and operated by engineer Scott Elson.</p>
+                        <p>While located in beautiful southern Maine, we collaborate with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
+                        <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+                    </div>
+
+                    <div class="col-mb-12 col-6">
+                        <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+                    </div>
+                <!-- </div> -->
+
+            <!-- </div> -->
+        </div>
+        
+        
+    </div>
+</section>
+
+<!--
 <section class="left testimonial">
     <div class="page">
         <div class="col-group">
@@ -55,7 +70,7 @@
     </div>
 </section>
 
-<!--
+
 <section id="about-section" class="left">
     <div class="page">
         <div class="col-group">
@@ -81,7 +96,7 @@
         </div>
     </div>
 </section>
-                -->
+
 
 <section id="gear-section" class="left">
     <div class="page">
@@ -136,7 +151,6 @@
                 <div class="attribution">
                     <p class="author name">Tristan Gallagher</p>
                     <p class="author title">Covered in Bees</p>
-                    <!-- <p class="author credits"></p> -->
                 </div>
             </div>
         </div>
@@ -170,6 +184,7 @@
                         <a class="p-tel" href="tel:2073589146" title="Call elson mastering at 207.358.9146">207.358.9146</a>
                         <script type="text/javascript">
                         //<![CDATA[
+-->
                         <!--
                         var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
                         "=55){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
@@ -180,6 +195,7 @@
                         ";721=%y{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"     ;
                         while(x=eval(x));
                         //-->
+<!--
                         //]]>
                         </script>
                     </p>
@@ -195,6 +211,7 @@
         </div>
     </div>
 </section>
+-->
 
 <?php
     include "bottom.php";

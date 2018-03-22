@@ -2,7 +2,7 @@
                     <p>&copy;<?php date_default_timezone_set('UTC'); echo date("Y"); ?> elson mastering&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;all rights reserved</p>
                 </footer>
 
-            </div>
+            <!-- </div> -->
         </div><!-- container -->
 
 
