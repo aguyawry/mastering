@@ -10,19 +10,26 @@
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12 col-6">
-                <h2>professional mastering</h2>
-                <h3>for everyone. anywhere.</h3>
+                <h2>professional mastering.</h2>
+                <h2>for anyone.</h2>
+                <h2>anywhere.</h2>
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Your music deserves the </p>
-                <p>Call to action</p>
+                <p>Queeah well theyah swampdonkey Powrtland Hold'er Newt she's, heddin for da ruhbarb!</p>
+                <p>Railed 'em muckle riyht on'ta her down east hawsun around bub Have a good one.</p>
+                <p>Door-yahd numb Bean's naw The County Fryeburg Fayah Jo-Jeezly bub, out in th' willie-wacks.</p>
+                <div class="btn-row">
+                    <p><a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a></p>
+                </div>
             </div>            
         </div>
     </div>
 </section>
 
-
+<div class="jarallax" data-jarallax data-speed="0.2" style="height:300px;">
+    <img class="jarallax-img" src="img/studio/manley_tmp.jpg" alt="">
+</div>
 
 <section class="image">
     <div class="container">

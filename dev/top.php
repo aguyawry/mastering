@@ -48,24 +48,26 @@
 
 
     <body>
-        <!-- This div and class name to hold all page content are required by slidebars. -->
-        <div canvas="container">
-            <!-- <div id="container1"> -->
+        <header>
+            <div class="container">
+                <div class="col-group">
+                    <div class="col-mb-12">
+                        <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
 
-                <header>
-                    <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
+                        <div id="title">    
+                            <h1>elson mastering</h1>
+                            <p class="tagline">art in audio</p>
+                        </div>
 
-                    <div>
-                        <h1>elson mastering</h1>
-                        <p class="tagline">art in audio</p>
+                        <ul>
+                            <li><a href="">about</a></li>
+                            <li><a href="">services</a></li>
+                            <li><a href="">scott</a></li>
+                            <li><a href="">contact</a></li>
+                        </ul>
+
+                        <a href="#" class="toggle-button">&vellip;</a>
                     </div>
-
-                    <ul>
-                        <li><a href="">about</a></li>
-                        <li><a href="">services</a></li>
-                        <li><a href="">scott</a></li>
-                        <li><a href="">contact</a></li>
-                    </ul>
-
-                    <a href="#" class="toggle-button">&vellip;</a>
-                </header>
+                </div>
+            </div>
+        </header>

@@ -17,8 +17,9 @@
   ],
   "dependencies": {
     "fluidable": "1.4.1",
+    "jarallax": "1.10.2",
     "jquery": "3.3.1",
     "normalize-css": "8.0.0",
-    "slidebars": "2.0.2"
+    "sidr": "^2.2.1"
   }
 }
