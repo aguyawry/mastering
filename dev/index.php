@@ -10,17 +10,26 @@
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12 col-6">
-                <h2>professional mastering.</h2>
-                <h2>for anyone.</h2>
-                <h2>anywhere.</h2>
+                <h2>Your music deserves to sound amazing.</h2>
+                <h2>We’re all ears.</h2>
+                <h3>superior mastering.</h3>
+                <h3>for anyone.</h3>
+                <h3>anywhere.</h3>
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Queeah well theyah swampdonkey Powrtland Hold'er Newt she's, heddin for da ruhbarb!</p>
-                <p>Railed 'em muckle riyht on'ta her down east hawsun around bub Have a good one.</p>
-                <p>Door-yahd numb Bean's naw The County Fryeburg Fayah Jo-Jeezly bub, out in th' willie-wacks.</p>
+                <p>elson mastering is dedicated to making quality audio mastering accessible and affordable to all artists regardless of where they are in their career.</p>
+
+                <p>We collaborate with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
+
+                <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+
+                <p>Get in touch to find out how we can help with your next project or send us a track for a free mastering sample.</p>
                 <div class="btn-row">
-                    <p><a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a></p>
+                    <p>
+                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn" href="" rel="external">Send Us A Track</a>
+                    </p>
                 </div>
             </div>            
         </div>
