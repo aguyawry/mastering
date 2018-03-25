@@ -25,6 +25,7 @@
                 <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
 
                 <p>Get in touch to find out how we can help with your next project or send us a track for a free mastering sample.</p>
+
                 <div class="btn-row">
                     <p>
                         <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
@@ -36,8 +37,8 @@
     </div>
 </section>
 
-<div class="jarallax" data-jarallax data-speed="0.2" style="height:300px;">
-    <img class="jarallax-img" src="img/studio/manley_tmp.jpg" alt="">
+<div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
+    <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
 </div>
 
 <section class="image">
