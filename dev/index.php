@@ -10,11 +10,11 @@
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12 col-6">
-                <h2>Your music deserves to sound amazing.</h2>
+                <h2>Your music is your story.</h2>
                 <h2>We’re all ears.</h2>
-                <h3>superior mastering.</h3>
-                <h3>for anyone.</h3>
-                <h3>anywhere.</h3>
+                <h3>Superior mastering.</h3>
+                <h3>For anyone.</h3>
+                <h3>Anywhere.</h3>
             </div>
 
             <div class="col-mb-12 col-6">
