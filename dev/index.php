@@ -37,33 +37,114 @@
     </div>
 </section>
 
+
 <div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
     <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
 </div>
 
+
 <section class="image">
     <div class="container">
+
         <div class="col-group">
-            <!-- <div class="col-12"> -->
-
-                <!-- <div class="col-group"> -->
-                    <div class="col-mb-12 col-6">
-                        <p>elson mastering is an audio and music production studio owned and operated by engineer Scott Elson.</p>
-                        <p>While located in beautiful southern Maine, we collaborate with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
-                        <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
-                    </div>
-
-                    <div class="col-mb-12 col-6">
-                        <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
-                    </div>
-                <!-- </div> -->
-
-            <!-- </div> -->
+            <div class="col-mb-12">
+                <h2>Studio</h2>
+            </div>
         </div>
-        
-        
+
+        <div class="col-group">
+            <div class="col-mb-12 col-6">
+                <p>Everything about the studio environment matters. Our purpose-built mastering suite was designed for great acoustics.</p>
+
+                <p>Everything in the signal chain matters. Some tools add color while others are transparent, so we choose gear wisely - only using what’s needed and appropriate.</p>
+
+                <p>We use gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves, Sonnox and RME.</p>
+
+                <p>Analog. Digital. Vintage. Modern. We love it all and are always looking for another…..</p>
+
+                <p>With the experienced ears of a seasoned mastering engineer, it all comes together to create a critical listening space where your music can be the best it can possibly be.</p>
+
+                <p>Have a listen to our playlist and let the results speak for themselves.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+            </div>
+        </div>
     </div>
 </section>
+
+
+<div class="jarallax" data-jarallax data-speed="0.3" style="height:600px;">
+    <img class="jarallax-img" src="img/studio/studio_tmp.jpg" alt="Studio">
+</div>
+
+
+
+<section class="text">
+    <div class="container">
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <h2>Services</h2>
+                <p>major-studio experience and superior technical facilities, with a streamlined cost-effective business approach, communication skills with remote can have challenges</p>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-6">
+                <div class="service">
+                    <h3>Mastering</h3>
+                    <p>This is the final creative step in the audio post-production process. We'll fine tune the sonics and levels, address any technical issues or concerns, and make sure it sounds great across all systems and media formats.</p>
+                </div>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <div class="service">
+                    <h3>Mastered for iTunes</h3>
+                    <p>Apple makes tools available to ensure delivery of the highest quality master recordings possible into their ecosystem. We are able to preview your masters in Apple's AAC (Advanced Audio Coding) format and verify they will meet their requirements for delivery to iTunes.</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="col-group">
+            <div class="col-mb-12 col-6">
+                <div class="service">
+                    <h3>DDPi Masters</h3>
+                    <p>If you are making CDs, a DDPi (Disc Description Protocol) is the ideal format for delivery of your record to the replication facility. It's an absolutely error-free master that creates a superior sounding CD which is also more reliably played across the wide range of players.</p>
+                </div>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <div class="service">
+                    <h3>CD PreMasters (PMCD)</h3>
+                    <p>A physical PreMaster CD is typically used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. We can create and error check the physical disc to ensure a quality master. We can also create additionalCD reference discs for listening purposes only.</p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-group">
+            <div class="col-mb-12 col-6">
+                <div class="service">
+                    <h3>Digital Masters for Vinyl</h3>
+                    <p>There are further considerations higher resolution files that may need a different order due to tim elimits for ssides according to the target record diameter and play speed.  </p>
+                </div>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <div class="service">
+                    <h3>Transfers and Restoration</h3>
+                    <p>There have been an abundance of different recording mediums over the years. You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade.</p>
+                    <p>The first step to preserving that audio is transferrring to a digital file. From there it's possible to do remove unwanted hum, hiss, pops, and noise and enhnace the audio in many ways.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
 
 <!--
 <section class="left testimonial">

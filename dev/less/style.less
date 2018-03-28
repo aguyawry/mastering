@@ -20,6 +20,10 @@
 // @font-secondary:        ~"'Lato', Helvetica, sans-serif";
 // @font-secondary:        ~"'Roboto', Helvetica, sans-serif";
 
+
+//
+// Core HTML elements
+//
 html {
     box-sizing: border-box;
     font-size: 62.5%;
@@ -43,7 +47,6 @@ body {
     font-family: @font-primary;
     font-weight: normal;
 }
-
 
 h1, h2, h3, h4, h5 {
     font-family: @font-header;
@@ -105,11 +108,55 @@ hr {
     width: 80%;
 }
 
+iframe {
+    border: 1px solid #444;
+    min-height: 500px;
+}
 
+
+//
+// buttons
+//
+.btn-row {
+    margin-top: 50px;
+
+    .btn {
+        margin: 0 15px 25px 0;
+    }
+}
+
+.btn {
+    background: #425B6B;
+    border-radius: 25px;
+    color: #ffffff;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: @text-font-size + 0.2;
+    line-height: 1.25;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+
+    &.dark {
+
+    }
+    
+    &:hover {
+        // background: #1d9140;
+        // border-bottom: none;
+        // text-decoration: none;
+    }
+}
+
+
+//
 // header elements
+//
 header {
     background-color: black;
-    // margin: 0;
     padding: @padding-default 0;
 
     img {
@@ -164,7 +211,9 @@ header {
 }
 
 
-//menu related items
+//
+// menu related items
+//
 #menu {
     background-color: #efefef;
     border: 1px solid #ccc;
@@ -195,8 +244,9 @@ header {
 
 
 
-// *****
+//
 // sections
+//
 section {
     padding: 35px 0px;
 
@@ -215,20 +265,12 @@ section {
         background-color: #425B6B;
         color: white;   
     }
-
-    // &.testimonial {
-    //     // background-color: #eee;
-    //     color: @black;
-    // }
-    &.left { text-align: left; }
-    // &.center { text-align: center; }
 }
 
 
-
-iframe { border: 1px solid #444; }
-
-// testimonial stuff
+//
+// testimonials
+//
 blockquote {
     font-family: @font-primary;
     font-size: @text-font-size - 1;
@@ -294,40 +336,7 @@ blockquote {
 }
 
 
-// buttons
-.btn-row {
-    margin-top: 50px;
 
-    .btn {
-        margin: 0 15px 25px 0;
-    }
-}
-
-.btn {
-    background: #425B6B;
-    border-radius: 25px;
-    color: #ffffff;
-    display: inline-block;
-    font-family: sans-serif;
-    font-size: @text-font-size + 0.2;
-    line-height: 1.25;
-    padding: 10px 20px 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    user-select: none;
-    vertical-align: middle;
-    white-space: nowrap;
-
-    &.dark {
-
-    }
-    
-    &:hover {
-        // background: #1d9140;
-        // border-bottom: none;
-        // text-decoration: none;
-    }
-}
 
 
 // .contact-right {
