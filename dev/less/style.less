@@ -2,6 +2,7 @@
 
 // Variables
 @black:         #000000;
+@blue:          #425B6B;
 @burlywood:     #DEB887;
 @silver:        #C0C0C0;
 @yellow:        #C0C000;
@@ -9,9 +10,15 @@
 @cornsilk:      #FFF8DC;
 @white:         #FEFEFE;
 
-@background-color:      @black;
-@text-color:            @white;
-@link-color:            @white;
+@background-light:      #e8e7f375;
+@background-dark:       @blue;
+
+@text-light:            @white;
+@text-dark:             @black;
+
+@link-light:            @white;
+@link-dark:             @black;
+
 @border-color:          @silver;
 @text-font-size:        1.8rem;
 @padding-default:       15px;
@@ -43,7 +50,7 @@ body {
 
 body {
     background-color: transparent;
-    color: @text-color;
+    color: @text-dark;
     font-family: @font-primary;
     font-weight: normal;
 }
@@ -66,7 +73,7 @@ h3 {
 }
 
 p {
-    font-size: @text-font-size;
+    font-size: @text-font-size + 0.2;
     line-height: 1.6;
     margin: 0 0 15px;
 }
@@ -84,10 +91,10 @@ li {
 }
 
 a {
-    color: @link-color;
+    color: @link-dark;
     text-decoration: none;
 
-    &:visited { color: @link-color; }
+    &:visited { color: @link-dark; }
 
     @link-border: 1px solid #999;
     &.text-link {
@@ -119,9 +126,10 @@ iframe {
 //
 .btn-row {
     margin-top: 50px;
+    &.center { text-align: center; }
 
     .btn {
-        margin: 0 15px 25px 0;
+        margin: 0 25px 25px 0;
     }
 }
 
@@ -131,9 +139,9 @@ iframe {
     color: #ffffff;
     display: inline-block;
     font-family: sans-serif;
-    font-size: @text-font-size + 0.2;
+    font-size: @text-font-size + 0.4;
     line-height: 1.25;
-    padding: 10px 20px 10px 20px;
+    padding: 15px 25px;
     text-align: center;
     text-decoration: none;
     user-select: none;
@@ -149,6 +157,10 @@ iframe {
         // border-bottom: none;
         // text-decoration: none;
     }
+
+    &:visited {
+        color: #ffffff;
+    }
 }
 
 
@@ -157,6 +169,7 @@ iframe {
 //
 header {
     background-color: black;
+    color: @text-light;
     padding: @padding-default 0;
 
     img {
@@ -187,16 +200,18 @@ header {
         float: right;
         margin-top: 15px;
 
-        li {
-            display: inline-block;
-            padding: 15px;
-            &:last-child { padding-right: 0; }
-        }
-
         @media only screen and (max-width : @screenTablet) {
             display: none;
         }
     }
+
+    li {
+        display: inline-block;
+        padding: 15px;
+        &:last-child { padding-right: 0; }
+    }
+
+    a, a:visited { color: @text-light; }
 
     .toggle-button {
         float: right;
@@ -250,20 +265,20 @@ header {
 section {
     padding: 35px 0px;
 
-    &.text {
+    &.light {
         background-color: #e8e7f375;
-        color: black;   
+        color: @text-dark;   
+    }
+
+    &.dark {
+        background-color: #425B6B;
+        color: @text-light;   
     }
 
     &.parallax {
         background-color: transparent;
         height: 500px;
         width: 100%;
-    }
-
-    &.image {
-        background-color: #425B6B;
-        color: white;   
     }
 }
 
@@ -326,14 +341,14 @@ blockquote {
 }
 
 
-.hcard {
-    margin: 50px 0;
+// .hcard {
+//     margin: 50px 0;
 
-    a {
-        display: block;
-        margin: 0 0 10px;
-    }
-}
+//     a {
+//         display: block;
+//         margin: 0 0 10px;
+//     }
+// }
 
 
 
@@ -362,6 +377,14 @@ blockquote {
 //     .instagram { background: transparent url('../img/social/social.png') no-repeat -225px 0; }
 // }
 
-// footer p {
-//     font-size: @text-font-size - 0.6;
-// }
+footer {
+    background-color: @background-dark;
+    color: @text-light;
+    padding: 15px 0;
+
+    p {
+        font-size: @text-font-size - 0.4;
+        margin: 10px 0;
+        text-align: center;
+    }
+}
