@@ -91,14 +91,14 @@
         </div>
 
         <div class="col-group">
-            <div class="col-mb-12 col-6">
+            <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Mastering</h3>
-                    <p>This is the final creative step in the audio post-production process. We'll fine tune the sonics and levels, address any technical issues or concerns, and make sure it sounds great across all systems and media formats.</p>
+                    <p>This is the final creative step in the audio post-production process. We'll fine tune the sonics and dynamics, address any technical issues or concerns, and make sure it sounds great across all systems and media formats.</p>
                 </div>
             </div>
 
-            <div class="col-mb-12 col-6">
+            <div class="col-mb-12 col-5 col-offset-1">
                 <div class="service">
                     <h3>Mastered for iTunes</h3>
                     <p>Apple makes tools available to ensure delivery of the highest quality master recordings possible into their ecosystem. We are able to preview your masters in Apple's AAC (Advanced Audio Coding) format and verify they will meet their requirements for delivery to iTunes.</p>
@@ -108,14 +108,14 @@
 
         
         <div class="col-group">
-            <div class="col-mb-12 col-6">
+            <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>DDPi Masters</h3>
                     <p>If you are making CDs, a DDPi (Disc Description Protocol) is the ideal format for delivery of your record to the replication facility. It's an absolutely error-free master that creates a superior sounding CD which is also more reliably played across the wide range of players.</p>
                 </div>
             </div>
 
-            <div class="col-mb-12 col-6">
+            <div class="col-mb-12 col-5 col-offset-1">
                 <div class="service">
                     <h3>CD PreMasters (PMCD)</h3>
                     <p>A physical PreMaster CD is typically used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. We can create and error check the physical disc to ensure a quality master. We can also create additionalCD reference discs for listening purposes only.</p>
@@ -125,14 +125,14 @@
 
 
         <div class="col-group">
-            <div class="col-mb-12 col-6">
+            <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Digital Masters for Vinyl</h3>
                     <p>There are further considerations higher resolution files that may need a different order due to tim elimits for ssides according to the target record diameter and play speed.  </p>
                 </div>
             </div>
 
-            <div class="col-mb-12 col-6">
+            <div class="col-mb-12 col-5 col-offset-1">
                 <div class="service">
                     <h3>Transfers and Restoration</h3>
                     <p>There have been an abundance of different recording mediums over the years. You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade.</p>
