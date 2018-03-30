@@ -54,21 +54,21 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-6">
-                <p>Everything about the studio environment matters. Our purpose-built mastering suite was designed for great acoustics.</p>
+                <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
 
-                <p>Everything in the signal chain matters. Some tools add color while others are transparent, so we choose gear wisely - only using what’s needed and appropriate.</p>
+                <p>We filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves, Sonnox and RME to name a few.</p>
 
-                <p>We use gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves, Sonnox and RME.</p>
+                <p>Analog. Digital. Vintage. State of the art. We don’t discriminate and are always on the lookout for quality equipment.</p>
 
-                <p>Analog. Digital. Vintage. Modern. We love it all and are always looking for another…..</p>
+                <p>Everything in the signal chain matters. Some tools add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
 
-                <p>With the experienced ears of a seasoned mastering engineer, it all comes together to create a critical listening space where your music can be the best it can possibly be.</p>
+                <p>Add the experienced ears of a seasoned mastering engineer, and it all comes together to create a space where your music can be the best it can possibly be.</p>
 
-                <p>Have a listen to our playlist and let the results speak for themselves.</p>
+                <p>Have a listen to the artists and wide range of musical styles in our playlist. The results speak for themselves.</p>
             </div>
 
             <div class="col-mb-12 col-6">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm:" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
             </div>
         </div>
     </div>
