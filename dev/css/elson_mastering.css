@@ -1420,6 +1420,12 @@ section.parallax {
   height: 500px;
   width: 100%;
 }
+.service h3 {
+  margin: 20px 0 15px;
+}
+.service p {
+  font-size: 1.6rem;
+}
 blockquote {
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-size: 0.8rem;

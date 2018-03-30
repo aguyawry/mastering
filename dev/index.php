@@ -18,7 +18,7 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>elson mastering is dedicated to making quality audio mastering accessible and affordable to all artists regardless of where they are in their career.</p>
+                <p>elson mastering is dedicated to making high quality audio mastering accessible to all artists regardless of where they are in their career.</p>
 
                 <p>We collaborate with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
 
@@ -56,7 +56,7 @@
             <div class="col-mb-12 col-6">
                 <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
 
-                <p>We filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves, Sonnox and RME to name a few.</p>
+                <p>We've filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves, Sonnox and RME among others.</p>
 
                 <p>Analog. Digital. Vintage. State of the art. We don’t discriminate and are always on the lookout for quality equipment.</p>
 
@@ -94,7 +94,7 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Mastering</h3>
-                    <p>This is the final creative step in the audio post-production process. We'll fine tune the sonics and dynamics, address any technical issues or concerns, and make sure it sounds great across all systems and media formats.</p>
+                    <p>This is the final creative step in the audio post-production process. We'll fine tune the sonics and dynamics, address any technical issues, and make sure your music sounds great across all systems and media formats.</p>
                 </div>
             </div>
 
@@ -111,14 +111,14 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>DDPi Masters</h3>
-                    <p>If you are making CDs, a DDPi (Disc Description Protocol) is the ideal format for delivery of your record to the replication facility. It's an absolutely error-free master that creates a superior sounding CD which is also more reliably played across the wide range of players.</p>
+                    <p>If you are making CDs, a DDPi (Disc Description Protocol) is the ideal format for delivery of your record to the replication facility. It's an absolutely error-free master that creates a superior sounding CD which is also more reliably played across a wide range of players.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <div class="service">
                     <h3>CD PreMasters (PMCD)</h3>
-                    <p>A physical PreMaster CD is typically used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. We can create and error check the physical disc to ensure a quality master. We can also create additionalCD reference discs for listening purposes only.</p>
+                    <p>A physical PreMaster CD is typically used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. We can create and error check the physical disc to ensure a quality master. We can also create additional CD reference discs for listening purposes only.</p>
                 </div>
             </div>
         </div>
@@ -194,9 +194,12 @@
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <p>Please get in touch well before you are ready for mastering to ensure we can meet your timeline. Call, email or fill out our <a class="text-link" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
+                
                 <p>As a supporter of the independent music community, we offer competitive rates for independent projects. We'll do our best to work with your budget.</p>
+                
                 <p>Giving back to the community is important to us and we enjoy offering volunteer services when possible.</p>
-                <p>Join us on Facebook and other social media channels for regular updates from the studio. Send us your latest news and we'll pass it on.</p>
+                
+                <!-- <p>Join us on Facebook and other social media channels for regular updates from the studio. Send us your latest news and we'll pass it on.</p> -->
             </div>
 
             <div class="col-mb-12 col-offset-1 col-5">
