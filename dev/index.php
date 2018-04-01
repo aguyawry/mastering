@@ -20,16 +20,16 @@
             <div class="col-mb-12 col-6">
                 <p>elson mastering is dedicated to making high quality audio mastering accessible to all artists regardless of where they are in their career.</p>
 
-                <p>We collaborate with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
+                <p>Mastering engineer, Scott Elson, collaborates with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
 
-                <p>Our goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+                <p>His goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
 
-                <p>Get in touch to find out how we can help with your next project or send us a track for a free mastering sample.</p>
+                <p>Get in touch to find out how we can help with your next project or send us a track for a free mix evaluation.</p>
 
                 <div class="btn-row">
                     <p>
                         <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="" rel="external">Send Us A Track</a>
+                        <a class="btn" href="" rel="external">Upload a Track</a>
                     </p>
                 </div>
             </div>            
@@ -62,9 +62,9 @@
 
                 <p>Everything in the signal chain matters. Some tools add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
 
-                <p>Add the experienced ears of a seasoned mastering engineer, and it all comes together to create a space where your music can be the best it can possibly be.</p>
+                <p>Add the experienced ears of a seasoned mastering engineer, and it all comes together to create a space where your musical vision comes to life.</p>
 
-                <p>Have a listen to the artists and wide range of musical styles in our playlist. The results speak for themselves.</p>
+                <p>Have a listen to our playlist and the wide range of musical genres. The results speak for themselves.</p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -86,7 +86,13 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>services</h2>
-                <p>major-studio experience and superior technical facilities, with a streamlined cost-effective business approach, communication skills with remote can have challenges</p>
+                <p>Along with the services below, we are always happy to offer free mix assessments for our clients. While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix.</p>
+
+                <div class="btn-row center">
+                    <p>
+                        <a class="btn" href="" rel="external">Upload a Track</a>
+                    </p>
+                </div>
             </div>
         </div>
 
@@ -111,7 +117,7 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>DDPi Masters</h3>
-                    <p>If you are making CDs, a DDPi (Disc Description Protocol) is the ideal format for delivery of your record to the replication facility. It's an absolutely error-free master that creates a superior sounding CD which is also more reliably played across a wide range of players.</p>
+                    <p>If you are making CDs, a DDPi (Disc Description Protocol) is the ideal format for delivery of your record to the replication facility. It's an absolutely error-free master that creates a superior sounding CD which is also more reliable across a wide range of players.</p>
                 </div>
             </div>
 
@@ -128,19 +134,23 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Digital Masters for Vinyl</h3>
-                    <p>There are further considerations higher resolution files that may need a different order due to tim elimits for ssides according to the target record diameter and play speed.  </p>
+                    <p>If you're cutting vinyl, there are sonic considerations to take into account in order to make sure your record translates well to that medium. We can also deliver high resolution files to your cutting house formatted correctly for the length of each side.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <div class="service">
                     <h3>Transfers and Restoration</h3>
-                    <p>There have been an abundance of different recording mediums over the years. You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade.</p>
-                    <p>The first step to preserving that audio is transferrring to a digital file. From there it's possible to do remove unwanted hum, hiss, pops, and noise and enhnace the audio in many ways.</p>
+                    <p>You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring to a digital file. From there it's possible to do remove unwanted hum, hiss, pops, and noise and enhnace the audio in many ways.</p>
                 </div>
             </div>
         </div>
 
+        <div class="btn-row center">
+            <p>
+                <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+            </p>
+        </div>
     </div>
 </section>
 
@@ -193,7 +203,7 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>Please get in touch well before you are ready for mastering to ensure we can meet your timeline. Call, email or fill out our <a class="text-link" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
+                <p>Call, email or fill out our <a class="text-link" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
                 
                 <p>As a supporter of the independent music community, we offer competitive rates for independent projects. We'll do our best to work with your budget.</p>
                 
@@ -203,16 +213,12 @@
             </div>
 
             <div class="col-mb-12 col-offset-1 col-5">
-                <div class="btn-row center">
-                    <p>
-                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="" rel="external">Send Us A Track</a>
-                    </p>
-                </div>
-
                 <div class="hcard">
                     <p>
                         <a class="p-tel" href="tel:2073589146" title="Call elson mastering at 207.358.9146">207.358.9146</a>
+                    </p>
+
+                    <p>
                         <script type="text/javascript">
                         //<![CDATA[
                         <!--
@@ -227,6 +233,13 @@
                         //-->
                         //]]>
                         </script>
+                    </p>
+                </div>
+
+                <div class="btn-row center">
+                    <p>
+                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn" href="" rel="external">Upload a Track</a>
                     </p>
                 </div>
 

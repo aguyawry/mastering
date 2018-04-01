@@ -1300,6 +1300,9 @@ iframe {
 .btn-row.center {
   text-align: center;
 }
+.btn-row p {
+  margin: 0;
+}
 .btn-row .btn {
   margin: 0 25px 25px 0;
 }
@@ -1469,6 +1472,14 @@ blockquote::after {
 .attribution .credits {
   font-size: 1.5rem;
   line-height: 1.4;
+}
+.hcard {
+  margin: 50px 0;
+  text-align: center;
+}
+.hcard a {
+  display: block;
+  margin: 0 0 10px;
 }
 footer {
   background-color: #425B6B;
