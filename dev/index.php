@@ -100,7 +100,7 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Mastering</h3>
-                    <p>This is the final creative step in the audio post-production process. We'll fine tune the sonics and dynamics, address any technical issues, and make sure your music sounds great across all systems and media formats.</p>
+                    <p>This is the final creative step in the audio post-production process. We'll fine tune the sonics and dynamics, address any technical issues, and make sure your music sounds great across all systems and media formats. Projects come in all forms - singles, EPs, albums, soundtracks, compilations and even audio for video projects.</p>
                 </div>
             </div>
 
@@ -205,11 +205,9 @@
             <div class="col-mb-12 col-5">
                 <p>Call, email or fill out our <a class="text-link" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
                 
-                <p>As a supporter of the independent music community, we offer competitive rates for independent projects. We'll do our best to work with your budget.</p>
+                <p>As a supporter of the independent music community, we offer competitive rates for unsigned bands projects. We'll do our best to work with your budget.</p>
                 
                 <p>Giving back to the community is important to us and we enjoy offering volunteer services when possible.</p>
-                
-                <!-- <p>Join us on Facebook and other social media channels for regular updates from the studio. Send us your latest news and we'll pass it on.</p> -->
             </div>
 
             <div class="col-mb-12 col-offset-1 col-5">

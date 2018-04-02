@@ -1474,7 +1474,6 @@ blockquote::after {
   line-height: 1.4;
 }
 .hcard {
-  margin: 50px 0;
   text-align: center;
 }
 .hcard a {
