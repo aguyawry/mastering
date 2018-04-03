@@ -1269,18 +1269,7 @@ li:last-child {
   margin-bottom: 0;
 }
 a {
-  color: #000000;
   text-decoration: none;
-}
-a:visited {
-  color: #000000;
-}
-a.text-link {
-  border-bottom: 1px solid #999;
-}
-a.text-link:hover {
-  border-color: #C0C000;
-  color: #C0C000;
 }
 hr {
   background-color: #111;
@@ -1414,9 +1403,23 @@ section.light {
   background-color: #e8e7f375;
   color: #000000;
 }
+section.light a {
+  border-bottom: 1px solid #b3b3b3;
+  color: #000000;
+}
+section.light a:hover {
+  border-color: #000000;
+}
 section.dark {
   background-color: #425B6B;
   color: #FEFEFE;
+}
+section.dark a {
+  border-bottom: 1px solid #8b8b8b;
+  color: #FEFEFE;
+}
+section.dark a:hover {
+  border-color: #FEFEFE;
 }
 section.parallax {
   background-color: transparent;
@@ -1476,7 +1479,9 @@ blockquote::after {
 .hcard {
   text-align: center;
 }
-.hcard a {
+.hcard .p-tel,
+.hcard .u-email {
+  border: none;
   display: block;
   margin: 0 0 10px;
 }

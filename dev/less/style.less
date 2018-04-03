@@ -91,19 +91,9 @@ li {
 }
 
 a {
-    color: @link-dark;
+    // color: @link-dark;
     text-decoration: none;
-
-    &:visited { color: @link-dark; }
-
-    @link-border: 1px solid #999;
-    &.text-link {
-        border-bottom: @link-border;
-        &:hover { 
-            border-color: #C0C000;
-            color: #C0C000;
-        }
-    }
+    // &:visited { color: @link-dark; }
 }
 
 hr {
@@ -270,11 +260,27 @@ section {
     &.light {
         background-color: #e8e7f375;
         color: @text-dark;   
+
+        a {
+            border-bottom: 1px solid lighten(@link-dark, 70%);
+            color: @link-dark;
+            &:hover { 
+                border-color: @link-dark;
+            }
+        }
     }
 
     &.dark {
         background-color: #425B6B;
-        color: @text-light;   
+        color: @text-light;
+
+        a {
+            border-bottom: 1px solid darken(@link-light, 45%);
+            color: @link-light;
+            &:hover { 
+                border-color: @link-light;
+            }
+        }
     }
 
     &.parallax {
@@ -357,7 +363,9 @@ blockquote {
 .hcard {
     text-align: center;
 
-    a {
+    .p-tel,
+    .u-email {
+        border: none;
         display: block;
         margin: 0 0 10px;
     }

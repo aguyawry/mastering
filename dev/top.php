@@ -60,10 +60,10 @@
                         </div>
 
                         <ul>
-                            <li><a href="">about</a></li>
-                            <li><a href="">services</a></li>
-                            <li><a href="">scott</a></li>
-                            <li><a href="">contact</a></li>
+                            <li><a href="#studio">studio</a></li>
+                            <li><a href="#services">services</a></li>
+                            <li><a href="#scott">scott</a></li>
+                            <li><a href="#contact">contact</a></li>
                         </ul>
 
                         <a href="#" class="toggle-button">&vellip;</a>

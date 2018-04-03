@@ -16,9 +16,10 @@
         <div id="sidr">
             <nav id="menu">
                 <ul>
-                    <li><a href="#container1">Home</a></li>
-                    <li><a href="#gear-section">Gear</a></li>
-                    <li><a href="#contact-section">Contact</a></li>
+                    <li><a href="#studio">studio</a></li>
+                    <li><a href="#services">services</a></li>
+                    <li><a href="#scott">scott</a></li>
+                    <li><a href="#contact">contact</a></li>
                 </ul>
             </nav>
         </div>

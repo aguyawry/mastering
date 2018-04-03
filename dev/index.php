@@ -43,7 +43,7 @@
 </div>
 
 
-<section class="dark">
+<section id="studio" class="dark">
     <div class="container">
 
         <div class="col-group">
@@ -80,7 +80,7 @@
 </div>
 
 
-<section class="light">
+<section id="services" class="light">
     <div class="container">
 
         <div class="col-group">
@@ -160,7 +160,7 @@
 </div>
 
 
-<section class="dark">
+<section id="scott" class="dark">
     <div class="container">
 
         <div class="col-group">
@@ -171,17 +171,18 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-6">
-                <p>Scott loves music. brings a unique combination of technical expertise and creative feel to every record he is part of. He believes every project is unique and deserves the utmost care as he builds upon the hard work already put in by many other talented people.</p>
+                <p>Scott grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led to the guitar, ongoing band memberships and an inclination to capture the music that surrounded him.</p>
 
-                <p>He is both an engineer and a musician with Electrical Engineering degrees from Virginia Tech and a Music degree from Berklee College of Music - a foundation tailored to the needs of audio and music production.</p>
+                <p>After completing degrees in both <a href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he soon began assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.
+                </p>
 
-                <p>Scott joined Bob Ludwig at Gateway Mastering in 2001 a staff engineer, initially doing editing and creation of final production masters. He soon began assisting in daily mastering sessions and eventually starting taking on mastering clients of his own. He now works as an independent engineer making quality mastering accessible to artists of every stature no matter where they are in their career.</p>
+                <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
 
                 <p>Scott is a member of both the Audio Engineering Society and The Recording Academy’s  Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
             </div>
 
             <div class="col-mb-12 col-6">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+                <img src="img/brand/cover-background.jpg" width="100%">
             </div>
         </div>
     </div>
@@ -193,7 +194,7 @@
 </div>
 
 
-<section class="light">
+<section id="contact" class="light">
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12">
@@ -203,9 +204,9 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>Call, email or fill out our <a class="text-link" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
+                <p>Every project is unique. Call, email or fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
                 
-                <p>As a supporter of the independent music community, we offer competitive rates for unsigned bands projects. We'll do our best to work with your budget.</p>
+                <p>As a supporter of the independent music community, we offer competitive rates for unsigned bands. We'll do our best to work with your budget.</p>
                 
                 <p>Giving back to the community is important to us and we enjoy offering volunteer services when possible.</p>
             </div>
