@@ -6,7 +6,7 @@
     include "top.php";
 ?>
 
-<section class="light">
+<section id="intro" class="light">
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12 col-6">
@@ -20,13 +20,13 @@
             <div class="col-mb-12 col-6">
                 <p>elson mastering is dedicated to making high quality audio mastering accessible to all artists regardless of where they are in their career.</p>
 
-                <p>Mastering engineer, Scott Elson, collaborates with artists, producers, engineers and labels from around the world, and from a wide range of musical genres.</p>
+                <p>Mastering engineer Scott Elson's goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
 
-                <p>His goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+                <p>He collaborates with artists, producers, engineers and labels from all parts of the world, and from a wide range of musical genres.</p>
 
                 <p>Get in touch to find out how we can help with your next project or send us a track for a free mix evaluation.</p>
 
-                <div class="btn-row">
+                <div class="btn-row center">
                     <p>
                         <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                         <a class="btn" href="" rel="external">Upload a Track</a>
@@ -56,7 +56,7 @@
             <div class="col-mb-12 col-6">
                 <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
 
-                <p>We've filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves, Sonnox and RME among others.</p>
+                <p>We've filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves and Sonnox among others.</p>
 
                 <p>Analog. Digital. Vintage. State of the art. We don’t discriminate and are always on the lookout for quality equipment.</p>
 
@@ -75,8 +75,8 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:600px;">
-    <img class="jarallax-img" src="img/studio/studio_tmp.jpg" alt="Studio">
+<div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
+    <img class="jarallax-img" src="img/studio/studio_background.jpg" alt="Studio">
 </div>
 
 
@@ -156,7 +156,7 @@
 
 
 <div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
-    <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
+    <img class="jarallax-img" src="img/brand/cover-background2.jpg" alt="">
 </div>
 
 
@@ -173,12 +173,12 @@
             <div class="col-mb-12 col-6">
                 <p>Scott grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led to the guitar, ongoing band memberships and an inclination to capture the music that surrounded him.</p>
 
-                <p>After completing degrees in both <a href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he soon began assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.
+                <p>After completing degrees in both <a href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he sas soon assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.
                 </p>
 
                 <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
 
-                <p>Scott is a member of both the Audio Engineering Society and The Recording Academy’s  Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
+                <p>Scott is a member of both the Audio Engineering Society and The Recording Academy’s Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -212,6 +212,14 @@
             </div>
 
             <div class="col-mb-12 col-offset-1 col-5">
+                <div class="btn-row center">
+                    <p>
+                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn" href="" rel="external">Upload a Track</a>
+                    </p>
+                </div>
+
+
                 <div class="hcard">
                     <p>
                         <a class="p-tel" href="tel:2073589146" title="Call elson mastering at 207.358.9146">207.358.9146</a>
@@ -235,12 +243,7 @@
                     </p>
                 </div>
 
-                <div class="btn-row center">
-                    <p>
-                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="" rel="external">Upload a Track</a>
-                    </p>
-                </div>
+
 
                 <!-- <blockquote cite="https://coveredinbees.net/">
                     <p>Scott is incredible to work with. Super nice dude, and very professional.</p>

@@ -1284,7 +1284,7 @@ iframe {
   min-height: 625px;
 }
 .btn-row {
-  margin-top: 50px;
+  margin: 30px 0;
 }
 .btn-row.center {
   text-align: center;
@@ -1293,7 +1293,7 @@ iframe {
   margin: 0;
 }
 .btn-row .btn {
-  margin: 0 25px 25px 0;
+  margin: 20px;
 }
 .btn {
   background: #425B6B;
@@ -1334,9 +1334,21 @@ header h1 {
   line-height: 1.2;
   margin: 0;
 }
+@media only screen and (min-width: 768px) {
+  header h1 {
+    font-size: 3rem;
+  }
+}
 header .tagline {
   margin: 0;
-  font-size: 1.6rem;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 2rem;
+  font-weight: 200;
+}
+@media only screen and (min-width: 768px) {
+  header .tagline {
+    font-size: 2.4rem;
+  }
 }
 header ul {
   float: right;
@@ -1349,6 +1361,8 @@ header ul {
 }
 header li {
   display: inline-block;
+  font-size: 2rem;
+  font-weight: 300;
   padding: 15px;
 }
 header li:last-child {
@@ -1370,8 +1384,8 @@ header .toggle-button {
   }
 }
 #menu {
-  background-color: #efefef;
-  border: 1px solid #ccc;
+  background-color: #111;
+  border: 1px solid white;
   height: 100%;
   padding: 10px;
 }
@@ -1384,9 +1398,9 @@ header .toggle-button {
   border: none;
 }
 #menu a {
-  color: #444;
+  color: white;
   display: block;
-  font-weight: 500;
+  font-weight: 200;
   margin: 10px 0;
   padding: 10px;
   width: 100%;
@@ -1426,55 +1440,19 @@ section.parallax {
   height: 500px;
   width: 100%;
 }
+@media only screen and (min-width: 768px) {
+  #intro h2 {
+    margin-bottom: 40px;
+  }
+  #intro h3 {
+    margin: 45px 0;
+  }
+}
 .service h3 {
   margin: 20px 0 15px;
 }
 .service p {
   font-size: 1.6rem;
-}
-blockquote {
-  font-family: 'Open Sans', Helvetica, sans-serif;
-  font-size: 0.8rem;
-  font-style: italic;
-  position: relative;
-  margin: 30px 0 0;
-}
-blockquote :last-child {
-  margin-bottom: 3px;
-}
-blockquote::before,
-blockquote::after {
-  font-family: Georgia, serif;
-  left: -5px;
-  line-height: 1;
-  margin-bottom: 0;
-  font-size: 7rem;
-  position: absolute;
-}
-blockquote::before {
-  content: "\201C";
-  top: -35px;
-}
-blockquote::after {
-  content: "\201D";
-}
-.attribution {
-  margin: 60px 0 0;
-  font-style: normal;
-}
-.attribution p {
-  margin-bottom: 7px;
-}
-.attribution .author {
-  line-height: 1.1;
-}
-.attribution .name {
-  font-size: 2.1rem;
-  font-weight: normal;
-}
-.attribution .credits {
-  font-size: 1.5rem;
-  line-height: 1.4;
 }
 .hcard {
   text-align: center;
