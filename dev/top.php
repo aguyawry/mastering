@@ -52,12 +52,14 @@
             <div class="container">
                 <div class="col-group">
                     <div class="col-mb-12">
-                        <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
+                        <a href="/">
+                            <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
 
-                        <div id="title">    
-                            <h1>elson mastering</h1>
-                            <p class="tagline">art in audio</p>
-                        </div>
+                            <div id="title">    
+                                <h1>elson mastering</h1>
+                                <p class="tagline">art in audio</p>
+                            </div>
+                        </a>
 
                         <ul>
                             <li><a href="#studio">studio</a></li>
