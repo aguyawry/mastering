@@ -86,7 +86,7 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>services</h2>
-                <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer free mix assessments for our clients. Upload a track via our DropBox account below to get the process started.</p>
+                <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer free mix assessments for our clients. Upload a track via our DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
                     <p>
@@ -189,8 +189,20 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
-    <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
+<div class="jarallax" data-jarallax data-speed="0.3" data-type="scroll-opacity" style="height:500px; z-index:-1;">
+    <img class="jarallax-img" src="img/studio/manley_tmp.jpg" alt="">
+    <!-- <div data-jarallax-element="100">
+    <blockquote cite="https://coveredinbees.net/">
+                    <p>Scott is incredible to work with. Super nice dude, and very professional.</p>
+                    <p>Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
+                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">Tristan Gallagher</p>
+                    <p class="author title">Covered in Bees</p>
+                </div>
+    </div> -->
 </div>
 
 
