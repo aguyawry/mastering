@@ -76,7 +76,7 @@
 
 
 <div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
-    <img class="jarallax-img" src="img/studio/equip_collage.jpg" alt="Studio">
+    <img class="jarallax-img" src="img/studio/studio_background4.jpg" alt="Studio">
 </div>
 
 
@@ -189,8 +189,8 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" data-type="scroll-opacity" style="height:500px; z-index:-1;">
-    <img class="jarallax-img" src="img/studio/manley_tmp.jpg" alt="">
+<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
+    <img class="jarallax-img" src="img/studio/studio_background2.jpg" alt="">
     <!-- <div data-jarallax-element="100">
     <blockquote cite="https://coveredinbees.net/">
                     <p>Scott is incredible to work with. Super nice dude, and very professional.</p>
