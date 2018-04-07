@@ -1417,22 +1417,22 @@ section.light {
   background-color: #e8e7f375;
   color: #000000;
 }
-section.light a {
+section.light .text {
   border-bottom: 1px solid #b3b3b3;
   color: #000000;
 }
-section.light a:hover {
+section.light .text:hover {
   border-color: #000000;
 }
 section.dark {
   background-color: #425B6B;
   color: #FEFEFE;
 }
-section.dark a {
+section.dark .text {
   border-bottom: 1px solid #8b8b8b;
   color: #FEFEFE;
 }
-section.dark a:hover {
+section.dark .text:hover {
   border-color: #FEFEFE;
 }
 section.parallax {
@@ -1460,6 +1460,7 @@ section.parallax {
 .hcard .p-tel,
 .hcard .u-email {
   border: none;
+  color: #000000;
   display: block;
   margin: 0 0 10px;
 }

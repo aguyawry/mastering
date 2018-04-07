@@ -26,8 +26,16 @@ $(document).ready( function() {
         return false;
     });
 
+    // smooth scroll
     $('header a, #sidr a').smoothScroll({
         speed: 1000
     });
+
+    // headroom - show hide header
+    // var myElement = document.querySelector('header');
+    // var headroom  = new Headroom(myElement, {
+    //     'offset': 110
+    // });
+    // headroom.init(); 
 
 });

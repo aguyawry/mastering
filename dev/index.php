@@ -173,7 +173,7 @@
             <div class="col-mb-12 col-6">
                 <p>Scott grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led to the guitar, ongoing band memberships and an inclination to capture the music that surrounded him.</p>
 
-                <p>After completing degrees in both <a href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he sas soon assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.
+                <p>After completing degrees in both <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a class="text" href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he sas soon assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.
                 </p>
 
                 <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
@@ -210,13 +210,13 @@
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>contact us</h2>
+                <h2>contact</h2>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>Every project is unique. Call, email or fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
+                <p>Every project is unique. Call, email or fill out our <a class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
                 
                 <p>As a supporter of the independent music community, we offer competitive rates for unsigned bands. We'll do our best to work with your budget.</p>
                 

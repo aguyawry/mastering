@@ -165,6 +165,12 @@ header {
     color: @text-light;
     padding: @padding-default 0;
 
+    // position: fixed;
+    // z-index: 10;
+    // right: 0;
+    // left: 0;
+    // top: 0;
+
     img {
         display: inline-block;
         height: 75px;
@@ -227,7 +233,15 @@ header {
         @media only screen and (min-width : @screenTablet) {
             display: none;
         }
-    }    
+    }
+
+    // &.headroom {
+    //     transition: transform .25s ease-in-out;
+    //     will-change: transform;
+    // }
+
+    // &.headroom--pinned { transform: translateY(0); }
+    // &.headroom--unpinned { transform: translateY(-100%); }
 }
 
 
@@ -274,7 +288,7 @@ section {
         background-color: #e8e7f375;
         color: @text-dark;   
 
-        a {
+        .text {
             border-bottom: 1px solid lighten(@link-dark, 70%);
             color: @link-dark;
             &:hover { 
@@ -287,7 +301,7 @@ section {
         background-color: #425B6B;
         color: @text-light;
 
-        a {
+        .text {
             border-bottom: 1px solid darken(@link-light, 45%);
             color: @link-light;
             &:hover { 
@@ -334,6 +348,7 @@ section {
     .p-tel,
     .u-email {
         border: none;
+        color: @text-dark;
         display: block;
         margin: 0 0 10px;
     }
