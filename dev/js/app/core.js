@@ -26,4 +26,8 @@ $(document).ready( function() {
         return false;
     });
 
+    $('header a, #sidr a').smoothScroll({
+        speed: 1000
+    });
+
 });

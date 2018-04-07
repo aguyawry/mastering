@@ -30,6 +30,9 @@
         <script src="js/helper.js"></script>
         <script src="bower/sidr/dist/jquery.sidr.min.js"></script>
         <script src="bower/jarallax/dist/jarallax.min.js"></script>
+        <script src="bower/jquery-smooth-scroll/jquery.smooth-scroll.min.js"></script>
+
+        
         <!-- <script src="bower/jarallax/dist/jarallax-element.min.js"></script> -->
         <script src="js/app/core.js"></script>
         <!-- endbuild -->

@@ -76,7 +76,7 @@
 
 
 <div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
-    <img class="jarallax-img" src="img/studio/studio_background4.jpg" alt="Studio">
+    <img class="jarallax-img" src="img/studio/studio_background1.jpg" alt="Studio">
 </div>
 
 

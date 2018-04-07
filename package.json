@@ -28,5 +28,9 @@
     "postinstall": "bower install && gulp build-less",
     "start": "php -S localhost:8000"
   },
-  "version": "1.2.0"
+  "version": "1.2.0",
+  "dependencies": {
+    "npm": "^5.8.0",
+    "update": "^0.7.4"
+  }
 }
