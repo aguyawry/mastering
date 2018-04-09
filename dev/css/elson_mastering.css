@@ -1317,6 +1317,21 @@ header {
   background-color: black;
   color: #FEFEFE;
   padding: 15px 0;
+  position: fixed;
+  z-index: 10;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+header.headroom {
+  transition: transform 0.25s ease-in-out;
+  will-change: transform;
+}
+header.headroom--pinned {
+  transform: translateY(0);
+}
+header.headroom--unpinned {
+  transform: translateY(-100%);
 }
 header img {
   display: inline-block;

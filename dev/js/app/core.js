@@ -17,8 +17,9 @@ $(document).ready( function() {
         }
     });
 
-    $('#menu a').on('click', function () {
+    $('#menu a').on('click', function (e) {
         $.sidr('close');
+        e.preventDefault();
     } );
 
     // links open in external tabs/windows
@@ -33,10 +34,10 @@ $(document).ready( function() {
     });
 
     // headroom - show hide header
-    // var myElement = document.querySelector('header');
-    // var headroom  = new Headroom(myElement, {
-    //     'offset': 110
-    // });
-    // headroom.init(); 
+    var myElement = document.querySelector('header');
+    var headroom  = new Headroom(myElement, {
+        'offset': 110
+    });
+    headroom.init(); 
 
 });
