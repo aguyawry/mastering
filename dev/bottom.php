@@ -16,6 +16,7 @@
         <div id="sidr">
             <nav id="menu">
                 <ul>
+                    <li><a class="close" href="#"><span>X</span></a></li>
                     <li><a href="#studio">studio</a></li>
                     <li><a href="#services">services</a></li>
                     <li><a href="#scott">scott</a></li>

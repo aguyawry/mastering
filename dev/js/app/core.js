@@ -8,6 +8,7 @@ $(document).ready( function() {
     // side menu
     $('.toggle-button').sidr({
         side: 'right',
+        displace: false,
         onOpen: function() {
             $('.toggle-button').text('x');
         },
