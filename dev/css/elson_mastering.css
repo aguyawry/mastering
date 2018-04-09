@@ -1472,6 +1472,9 @@ section.parallax {
   height: 500px;
   width: 100%;
 }
+#intro {
+  padding-top: 140px;
+}
 @media only screen and (min-width: 768px) {
   #intro h2 {
     margin-bottom: 40px;
