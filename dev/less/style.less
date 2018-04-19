@@ -21,7 +21,6 @@
 
 @border-color:          @silver;
 @text-font-size:        1.8rem;
-@padding-default:       15px;
 @font-primary:          ~"'Open Sans', Helvetica, sans-serif";
 @font-header:           ~"'Helvetica Neue', Helvetica, sans-serif";
 // @font-secondary:        ~"'Lato', Helvetica, sans-serif";
@@ -163,7 +162,7 @@ iframe {
 header {
     background-color: black;
     color: @text-light;
-    padding: @padding-default 0;
+    padding: 5px 0;
 
     // headroom specific styles
     position: fixed;
@@ -236,7 +235,7 @@ header {
     .toggle-button {
         float: right;
         font-size: @text-font-size + 2.2m;
-        padding: 5px 8px;
+        padding: 8px;
         vertical-align: top;
 
         @media only screen and (min-width : @screenTablet) {
@@ -341,12 +340,13 @@ section {
 //
 // intro section 
 #intro {
+    padding-top: 110px;
+
     @media only screen and (min-width : @screenTablet) {
+        padding-top: 135px;
         h2 { margin-bottom: 40px; }
         h3 { margin: 45px 0; }
     }
-
-    padding-top: 140px;
 }
 
 
@@ -463,7 +463,16 @@ section {
 footer {
     background-color: @background-dark;
     color: @text-light;
-    padding: 15px 0;
+    padding: 0 0 15px;
+
+    ul {
+        background-color: #233038;
+        padding: 5px 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    li { display: inline-block; }
 
     p {
         font-size: @text-font-size - 0.4;

@@ -56,7 +56,7 @@
             <div class="col-mb-12 col-6">
                 <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
 
-                <p>We've filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, iZotope, Waves and Sonnox among others.</p>
+                <p>We've filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Waves and Sonnox among others.</p>
 
                 <p>Analog. Digital. Vintage. State of the art. We don’t discriminate and are always on the lookout for quality equipment.</p>
 

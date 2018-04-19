@@ -1316,7 +1316,7 @@ iframe {
 header {
   background-color: black;
   color: #FEFEFE;
-  padding: 15px 0;
+  padding: 5px 0;
   position: fixed;
   z-index: 10;
   right: 0;
@@ -1390,7 +1390,7 @@ header a:visited {
 header .toggle-button {
   float: right;
   font-size: 4rem;
-  padding: 5px 8px;
+  padding: 8px;
   vertical-align: top;
 }
 @media only screen and (min-width: 768px) {
@@ -1473,9 +1473,12 @@ section.parallax {
   width: 100%;
 }
 #intro {
-  padding-top: 140px;
+  padding-top: 110px;
 }
 @media only screen and (min-width: 768px) {
+  #intro {
+    padding-top: 135px;
+  }
   #intro h2 {
     margin-bottom: 40px;
   }
@@ -1502,7 +1505,16 @@ section.parallax {
 footer {
   background-color: #425B6B;
   color: #FEFEFE;
-  padding: 15px 0;
+  padding: 0 0 15px;
+}
+footer ul {
+  background-color: #233038;
+  padding: 5px 0;
+  text-align: center;
+  width: 100%;
+}
+footer li {
+  display: inline-block;
 }
 footer p {
   font-size: 1.4rem;
