@@ -1503,18 +1503,22 @@ section.parallax {
   margin: 0 0 10px;
 }
 footer {
-  background-color: #425B6B;
+  background-color: #000000;
   color: #FEFEFE;
   padding: 0 0 15px;
 }
 footer ul {
-  background-color: #233038;
+  background-color: #425B6B;
   padding: 5px 0;
   text-align: center;
   width: 100%;
 }
 footer li {
   display: inline-block;
+}
+footer li a {
+  display: block;
+  text-indent: -9999px;
 }
 footer p {
   font-size: 1.4rem;

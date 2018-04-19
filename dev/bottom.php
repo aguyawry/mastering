@@ -1,11 +1,10 @@
         <footer>
-
-                <ul id="social">
-                    <li><a href="" rel="external"><img src="" alt="elson mastering on facebook"></a></li>
-                    <li><a href="" rel="external"><img src="" alt="elson mstering on twitter"></a></li>
-                    <li><a href="" rel="external"><img src="" alt="elson mastering on instagram"></a></li>
-                    <li><a href="" rel="external"><img src="" alt="elson mastering at the recording academy"></a></li>
-                </ul>
+            <ul id="social">
+                <li><a href="" rel="external">elson mastering on facebook</a></li>
+                <li><a href="" rel="external">elson mstering on twitter</a></li>
+                <li><a href="" rel="external">elson mastering on instagram"></a></li>
+                <li><a href="" rel="external">elson mastering at the recording academy</a></li>
+            </ul>
 
             <div class="container">
                 <div class="col-group">

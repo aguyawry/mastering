@@ -461,18 +461,25 @@ section {
 // }
 
 footer {
-    background-color: @background-dark;
+    background-color: @black;
     color: @text-light;
     padding: 0 0 15px;
 
     ul {
-        background-color: #233038;
+        background-color: @blue;
         padding: 5px 0;
         text-align: center;
         width: 100%;
     }
 
-    li { display: inline-block; }
+    li {
+        display: inline-block;
+
+        a {
+            display: block;
+            text-indent: -9999px;
+        }
+    }
 
     p {
         font-size: @text-font-size - 0.4;
