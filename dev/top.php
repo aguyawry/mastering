@@ -34,8 +34,6 @@
 
         <!-- fonts -->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
-        <!-- <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'> -->
-        <!-- <link href='http://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'> -->
 
         <!-- build:css css/style.css -->
         <link rel="stylesheet" href="css/elson_mastering.css">

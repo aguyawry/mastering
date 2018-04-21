@@ -38,7 +38,7 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
+<div class="jarallax" data-jarallax data-speed="0.3">
     <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
 </div>
 
@@ -75,7 +75,7 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
+<div class="jarallax" data-jarallax data-speed="0.3" data-img-position="20% 10%">
     <img class="jarallax-img" src="img/studio/VU.jpg" alt="VU Meters">
 </div>
 
@@ -155,7 +155,7 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
+<div class="jarallax" data-jarallax data-speed="0.3">
     <img class="jarallax-img" src="img/brand/cover-background2.jpg" alt="">
 </div>
 
@@ -178,18 +178,18 @@
 
                 <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
 
-                <p>Scott is a member of both the Audio Engineering Society and The Recording Academy’s Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
+                <p>Scott is a member of both the <a class="text" href="http://www.aes.org/" rel="external">Audio Engineering Society</a> and <a class="text" href="https://www.grammy.com/recording-academy" rel="external">The Recording Academy’s</a> Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
             </div>
 
             <div class="col-mb-12 col-6">
-                <img src="img/brand/cover-background.jpg" width="100%">
+                <img src="img/studio/scott_1100.jpg" alt="Scott Elson">
             </div>
         </div>
     </div>
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" data-object-position="30% 30%" style="height:500px;">
+<div class="jarallax" data-jarallax data-speed="0.3" data-img-position="35% 0%">
     <img class="jarallax-img" src="img/studio/manley.jpg" alt="Manley Massive Passive Equalizer">
 </div>
 

@@ -36,7 +36,8 @@ $(document).ready( function() {
     // headroom - show hide header
     var myElement = document.querySelector('header');
     var headroom  = new Headroom(myElement, {
-        'offset': 110
+        'offset': 135,
+        'tolerance': 5
     });
     headroom.init(); 
 
