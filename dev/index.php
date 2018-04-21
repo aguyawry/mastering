@@ -38,7 +38,7 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
+<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
     <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
 </div>
 
@@ -75,8 +75,8 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
-    <img class="jarallax-img" src="img/studio/studio_background1.jpg" alt="Studio">
+<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
+    <img class="jarallax-img" src="img/studio/VU.jpg" alt="VU Meters">
 </div>
 
 
@@ -155,7 +155,7 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:400px;">
+<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
     <img class="jarallax-img" src="img/brand/cover-background2.jpg" alt="">
 </div>
 
@@ -189,20 +189,8 @@
 </section>
 
 
-<div class="jarallax" data-jarallax data-speed="0.3" style="height:500px;">
-    <img class="jarallax-img" src="img/studio/studio_background2.jpg" alt="">
-    <!-- <div data-jarallax-element="100">
-    <blockquote cite="https://coveredinbees.net/">
-                    <p>Scott is incredible to work with. Super nice dude, and very professional.</p>
-                    <p>Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
-                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
-                </blockquote>
-
-                <div class="attribution">
-                    <p class="author name">Tristan Gallagher</p>
-                    <p class="author title">Covered in Bees</p>
-                </div>
-    </div> -->
+<div class="jarallax" data-jarallax data-speed="0.3" data-object-position="30% 30%" style="height:500px;">
+    <img class="jarallax-img" src="img/studio/manley.jpg" alt="Manley Massive Passive Equalizer">
 </div>
 
 
@@ -254,19 +242,6 @@
                         </script>
                     </p>
                 </div>
-
-
-
-                <!-- <blockquote cite="https://coveredinbees.net/">
-                    <p>Scott is incredible to work with. Super nice dude, and very professional.</p>
-                    <p>Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
-                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
-                </blockquote>
-
-                <div class="attribution">
-                    <p class="author name">Tristan Gallagher</p>
-                    <p class="author title">Covered in Bees</p>
-                </div> -->
 
             </div>
         </div>
