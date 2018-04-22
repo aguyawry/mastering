@@ -33,7 +33,7 @@
         <link rel="apple-touch-icon-precomposed" href="img/touch/apple-touch-icon-57x57-precomposed.png">
 
         <!-- fonts -->
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans: 400,300' rel='stylesheet' type='text/css'>
 
         <!-- build:css css/style.css -->
         <link rel="stylesheet" href="css/elson_mastering.css">
