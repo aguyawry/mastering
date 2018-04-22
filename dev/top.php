@@ -34,8 +34,6 @@
 
         <!-- fonts -->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
-        <!-- <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'> -->
-        <!-- <link href='http://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'> -->
 
         <!-- build:css css/style.css -->
         <link rel="stylesheet" href="css/elson_mastering.css">
@@ -48,13 +46,28 @@
 
 
     <body>
-        <a href="#" class="toggle-button">&vellip;</a>
+        <header>
+            <div class="container">
+                <div class="col-group">
+                    <div class="col-mb-12">
+                        <a href="/">
+                            <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
 
-        <div canvas="container">
-            <div id="container1">
+                            <div id="title">    
+                                <h1>elson mastering</h1>
+                                <p class="tagline">art in audio</p>
+                            </div>
+                        </a>
 
-                <header>
-                    <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
-                    <h1>elson mastering</h1>
-                    <p class="tagline">art in audio</p>
-                </header>
+                        <ul>
+                            <li><a href="#studio">studio</a></li>
+                            <li><a href="#services">services</a></li>
+                            <li><a href="#scott">scott</a></li>
+                            <li><a href="#contact">contact</a></li>
+                        </ul>
+
+                        <a href="#" class="toggle-button">&vellip;</a>
+                    </div>
+                </div>
+            </div>
+        </header>
