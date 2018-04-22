@@ -76,7 +76,7 @@
 
 
 <div class="jarallax" data-jarallax data-speed="0.3" data-img-position="20% 10%">
-    <img class="jarallax-img" src="img/studio/VU.jpg" alt="VU Meters">
+    <img class="jarallax-img" src="img/studio/vu.jpg" alt="VU Meters">
 </div>
 
 
