@@ -5,9 +5,15 @@ RewriteEngine On
 # Use PHP5.4 as default
 AddHandler application/x-httpd-php54 .php
 
+# Non-existant pages to index
+Options +SymLinksIfOwnerMatch 
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
 
 # Error pages
-ErrorDocument 404 /404.php
+ErrorDocument 404 http://example.com/
+
 
 
 # Redirect requests from /index.php to root
