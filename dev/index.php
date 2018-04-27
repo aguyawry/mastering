@@ -106,10 +106,17 @@
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <div class="service">
+                    <h3>Digital Masters for Vinyl</h3>
+                    <p>If you're cutting vinyl, there are sonic considerations to take into account in order to make sure your record translates well to that medium. We can also deliver high resolution files to your cutting house formatted correctly for the length of each side.</p>
+                </div>
+            </div>
+
+<!--             <div class="col-mb-12 col-5 col-offset-1">
+                <div class="service">
                     <h3>Mastered for iTunes</h3>
                     <p>Apple makes tools available to ensure delivery of the highest quality master recordings possible into their ecosystem. We are able to preview your masters in Apple's AAC (Advanced Audio Coding) format and verify they will meet their requirements for delivery to iTunes.</p>
                 </div>
-            </div>
+            </div> -->
         </div>
 
         
@@ -131,14 +138,14 @@
 
 
         <div class="col-group">
-            <div class="col-mb-12 col-5">
+<!--             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Digital Masters for Vinyl</h3>
                     <p>If you're cutting vinyl, there are sonic considerations to take into account in order to make sure your record translates well to that medium. We can also deliver high resolution files to your cutting house formatted correctly for the length of each side.</p>
                 </div>
-            </div>
+            </div> -->
 
-            <div class="col-mb-12 col-5 col-offset-1">
+            <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Transfers and Restoration</h3>
                     <p>You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring to a digital file. From there it's possible to do remove unwanted hum, hiss, pops, and noise and enhnace the audio in many ways.</p>
