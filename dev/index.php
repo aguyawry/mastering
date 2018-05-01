@@ -24,15 +24,31 @@
 
                 <p>He collaborates with artists, producers, engineers and labels from all parts of the world, and from a wide range of musical genres.</p>
 
-                <p>Get in touch to find out how we can help with your next project or send us a track for a free mix evaluation.</p>
+                <p>Get in touch to find out how he can help with your next project or send him a track for a free mix evaluation.</p>
+            </div>
 
+            <div class="col-mb-12">
                 <div class="btn-row center">
                     <p>
                         <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                         <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
                     </p>
                 </div>
-            </div>            
+            </div>
+
+            <div class="col-mb-12">
+                <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
+                    <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
+                    <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
+                    <p>Scott is a powerful ally and has become a friend I count on to check my work and make it better.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">Ken Hutton</p>
+                    <p class="author title">Engineer, Producer</p>
+                    <p class="author credits">Mark Knopfler, Tim McGraw, Suzy Bogguss, Sawyer Brown</p>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -56,11 +72,11 @@
             <div class="col-mb-12 col-6">
                 <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
 
+                <p>Everything in the signal chain matters. Some tools add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
+
                 <p>We've filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Waves and Sonnox among others.</p>
 
                 <p>Analog. Digital. Vintage. State of the art. We don’t discriminate and are always on the lookout for quality equipment.</p>
-
-                <p>Everything in the signal chain matters. Some tools add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
 
                 <p>Add the experienced ears of a seasoned mastering engineer, and it all comes together to create a space where your musical vision comes to life.</p>
 
@@ -69,6 +85,17 @@
 
             <div class="col-mb-12 col-6">
                 <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm:" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+            </div>
+
+            <div class="col-mb-12">
+                <blockquote cite="https://www.johnratcliff.com/">
+                    <p>I have worked with Scott on several occasions in the last 12 months. He has an excellent "ear" for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">John Ratcliff</p>
+                    <p class="author title">Discovered, managed and produced a-ha<br>who have now sold in excess of 100 million records</p>
+                </div>
             </div>
         </div>
     </div>
@@ -104,7 +131,7 @@
                 </div>
             </div>
 
-            <div class="col-mb-12 col-5 col-offset-1">
+            <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Digital Masters for Vinyl</h3>
                     <p>If you're cutting vinyl, there are sonic considerations to take into account in order to make sure your record translates well to that medium. We can also deliver high resolution files to your cutting house formatted correctly for the length of each side.</p>
@@ -128,7 +155,7 @@
                 </div>
             </div>
 
-            <div class="col-mb-12 col-5 col-offset-1">
+            <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>CD PreMasters (PMCD)</h3>
                     <p>A physical PreMaster CD is typically used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. We can create and error check the physical disc to ensure a quality master. We can also create additional CD reference discs for listening purposes only.</p>
@@ -148,7 +175,7 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Transfers and Restoration</h3>
-                    <p>You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring to a digital file. From there it's possible to do remove unwanted hum, hiss, pops, and noise and enhnace the audio in many ways.</p>
+                    <p>You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring to a digital file. From there it's possible to do remove unwanted hum, hiss, pops and noise, and enhnace the audio in many ways.</p>
                 </div>
             </div>
         </div>
@@ -158,6 +185,22 @@
                 <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
             </p>
         </div>
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <blockquote cite="https://coveredinbees.net/">
+                    <p>Scott is incredible to work with. Super nice dude and very professional. Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
+                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">Tristan Gallagher</p>
+                    <p class="author title">Multi-Instrumentalist, Producer</p>
+                    <p class="author credits">Covered in Bees, Man-Witch, Eggbot</p>
+                </div>
+            </div>
+        </div>
+
     </div>
 </section>
 
@@ -190,6 +233,17 @@
 
             <div class="col-mb-12 col-6">
                 <img src="img/studio/scott_1100.jpg" alt="Scott Elson">
+
+                <blockquote cite="https://coveredinbees.net/">
+                    <p>Scott has done an excellent job mastering our songs. He understands the sonic challenges that electronic music can present, especially when integrated with more traditional instruments.</p>
+                    <p>He is friendly, comfortable to work with and has authentic enthusiasm for the music. We couldn’t be more satisified.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">Bill Machon</p>
+                    <p class="author title">Engineer, Producer, Multi-Instrumentalist</p>
+                    <p class="author credits">Echoes On Track</p>
+                </div>
             </div>
         </div>
     </div>
@@ -259,27 +313,6 @@
 
 
 <!--
-<section class="left testimonial">
-    <div class="page">
-        <div class="col-group">
-            <div class="col-12">
-                <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
-                    <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music.</p>
-                    <p>I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
-                    <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
-                    <p>Scott is a powerful ally and has become a friend I count on to check my work and make it better.</p>
-                </blockquote>
-
-                <div class="attribution">
-                    <p class="author name">Ken Hutton</p>
-                    <p class="author title">Engineer, Producer</p>
-                    <p class="author credits">Mark Knopfler, Tim McGraw, Suzy Bogguss, Sawyer Brown</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 
 <section class="left testimonial">
     <div class="page">
