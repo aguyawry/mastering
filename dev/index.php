@@ -28,15 +28,6 @@
             </div>
 
             <div class="col-mb-12">
-                <div class="btn-row center">
-                    <p>
-                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-mb-12">
                 <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
                     <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
                     <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
@@ -49,6 +40,16 @@
                     <p class="author credits">Mark Knopfler, Tim McGraw, Suzy Bogguss, Sawyer Brown</p>
                 </div>
             </div>
+
+            <div class="col-mb-12">
+                <div class="btn-row center">
+                    <p>
+                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
+                    </p>
+                </div>
+            </div>
+            
         </div>
     </div>
 </section>
