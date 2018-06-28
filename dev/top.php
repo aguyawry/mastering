@@ -60,8 +60,8 @@
                         </a>
 
                         <ul>
-                            <li><a href="#studio">studio</a></li>
                             <li><a href="#services">services</a></li>
+                            <li><a href="#studio">studio</a></li>
                             <li><a href="#scott">scott</a></li>
                             <li><a href="#contact">contact</a></li>
                         </ul>

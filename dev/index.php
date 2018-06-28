@@ -1,12 +1,12 @@
 <?php
     $page = "home";
     $title = "mastering studio | elson mastering";
-    $description = "elson mastering provides high-quality audio mastering services to artists, labels and music producers throughout the world.";
-    $keywords = "scott elson, mastering, audio mastering, music, audio encoding, music production, audio restoration, transfers, archives, forensic audio, maine";
+    $description = "elson mastering provides high-quality music mastering services to artists, labels and music producers throughout the world.";
+    $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, remote mastering, internet mastering, music production, audio restoration, transfers, archives, maine";
     include "top.php";
 ?>
 
-<section id="intro" class="light">
+<section id="intro" class="dark">
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12 col-6">
@@ -18,13 +18,23 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>elson mastering is dedicated to making high quality audio mastering accessible to all artists regardless of where they are in their career.</p>
+                <p>elson mastering is an audio mastering studio located in Southern Maine, USA.</p>
+                <p>We specialize in providing high quality music mastering services across a wide range of musical genres.</p>
 
-                <p>Mastering engineer Scott Elson's goal is to make each client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+                <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+                <p>The result is music that sounds exceptional delivered in any format and ultimately deepens the connection between artist and listener.</p>
 
-                <p>He collaborates with artists, producers, engineers and labels from all parts of the world, and from a wide range of musical genres.</p>
+                <p>While many of our clients are local, we regularly collaborate with artists, producers, engineers and labels in all parts of the world.</p>
+                <p>Get in touch to find out how we can help with your next project and send us a track for a mix evaluation or mastering sample.</p>
+            </div>
 
-                <p>Get in touch to find out how he can help with your next project or send him a track for a free mix evaluation.</p>
+            <div class="col-mb-12">
+                <div class="btn-row center">
+                    <p>
+                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
+                    </p>
+                </div>
             </div>
 
             <div class="col-mb-12">
@@ -40,15 +50,6 @@
                     <p class="author credits">Mark Knopfler, Tim McGraw, Suzy Bogguss, Sawyer Brown</p>
                 </div>
             </div>
-
-            <div class="col-mb-12">
-                <div class="btn-row center">
-                    <p>
-                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    </p>
-                </div>
-            </div>
             
         </div>
     </div>
@@ -57,54 +58,6 @@
 
 <div class="jarallax" data-jarallax data-speed="0.3">
     <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
-</div>
-
-
-<section id="studio" class="dark">
-    <div class="container">
-
-        <div class="col-group">
-            <div class="col-mb-12">
-                <h2>studio</h2>
-            </div>
-        </div>
-
-        <div class="col-group">
-            <div class="col-mb-12 col-6">
-                <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
-
-                <p>Everything in the signal chain matters. Some tools add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
-
-                <p>We've filled it with choice gear from the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Waves and Sonnox among others.</p>
-
-                <p>Analog. Digital. Vintage. State of the art. We don’t discriminate and are always on the lookout for quality equipment.</p>
-
-                <p>Add the experienced ears of a seasoned mastering engineer, and it all comes together to create a space where your musical vision comes to life.</p>
-
-                <p>Have a listen to our playlist and the wide range of musical genres. The results speak for themselves.</p>
-            </div>
-
-            <div class="col-mb-12 col-6">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm:" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
-            </div>
-
-            <div class="col-mb-12">
-                <blockquote cite="https://www.johnratcliff.com/">
-                    <p>I have worked with Scott on several occasions in the last 12 months. He has an excellent "ear" for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
-                </blockquote>
-
-                <div class="attribution">
-                    <p class="author name">John Ratcliff</p>
-                    <p class="author title">Discovered, managed and produced a-ha<br>who have now sold in excess of 100 million records</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<div class="jarallax" data-jarallax data-speed="0.3" data-img-position="20% 10%">
-    <img class="jarallax-img" src="img/studio/vu.jpg" alt="VU Meters">
 </div>
 
 
@@ -118,6 +71,7 @@
 
                 <div class="btn-row center">
                     <p>
+                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                         <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
                     </p>
                 </div>
@@ -190,14 +144,60 @@
             </div>
         </div>
 
-
-        <div class="btn-row center">
-            <p>
-                <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-            </p>
-        </div>        
     </div>
 </section>
+
+
+<div class="jarallax" data-jarallax data-speed="0.3" data-img-position="20% 10%">
+    <img class="jarallax-img" src="img/studio/vu.jpg" alt="VU Meters">
+</div>
+
+
+<section id="studio" class="dark">
+    <div class="container">
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <h2>studio</h2>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-6">
+                <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
+
+                <p>We believe everything in the mastering signal chain matters, and everything works together as an instrument to influence the music.</p>
+                
+                <p>Some tools add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
+
+                <p>Analog, digital, vintage or state of the art - quality gear comes in many forms and is judged by how it sounds, not by what it costs.</p>
+
+                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Waves and Sonnox among others.</p>
+
+                <p>Of course, having great gear means nothing without also having the experienced ears of a seasoned mastering engineer such as Scott.</p>
+                
+                <p>It all comes together to create an space where art meets audio - and music comes to life.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm:" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+            </div>
+
+            <div class="col-mb-12">
+                <blockquote cite="https://www.johnratcliff.com/">
+                    <p>I have worked with Scott on several occasions in the last 12 months. He has an excellent "ear" for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">John Ratcliff</p>
+                    <p class="author title">Producer, Musician</p>
+                    <p class="author credits">a-ha, Joshua Jones</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 <div class="jarallax" data-jarallax data-speed="0.3">
@@ -205,7 +205,7 @@
 </div>
 
 
-<section id="scott" class="dark">
+<section id="scott" class="light">
     <div class="container">
 
         <div class="col-group">
@@ -222,6 +222,8 @@
                 </p>
 
                 <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
+
+                <p>Over the years, artists at every stage in their career have trusted Scott to put the finishing touches on their deepest musical expressions. His commitment to always serve the music comes through in every project.</p>
 
                 <p>Scott is a member of both the <a class="text" href="http://www.aes.org/" rel="external">Audio Engineering Society</a> and <a class="text" href="https://www.grammy.com/recording-academy" rel="external">The Recording Academy’s</a> Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
             </div>
@@ -250,7 +252,7 @@
 </div>
 
 
-<section id="contact" class="light">
+<section id="contact" class="dark">
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12">
@@ -303,32 +305,6 @@
         </div>
     </div>
 </section>
-
-
-
-
-<!--
-
-<section class="left testimonial">
-    <div class="page">
-        <div class="col-group">
-            <div class="col-12">
-                <blockquote cite="https://coveredinbees.net/">
-                    <p>Scott is incredible to work with. Super nice dude, and very professional.</p>
-                    <p>Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
-                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
-                </blockquote>
-
-                <div class="attribution">
-                    <p class="author name">Tristan Gallagher</p>
-                    <p class="author title">Covered in Bees</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-                        -->
 
 
 <?php

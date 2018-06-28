@@ -10,7 +10,7 @@
 @cornsilk:      #FFF8DC;
 @white:         #FEFEFE;
 
-@background-light:      #e8e7f375;
+@background-light:      #e0e0e0;
 @background-dark:       @blue;
 
 @text-light:            @white;
@@ -84,7 +84,7 @@ h3 {
 }
 
 p {
-    font-size: @text-font-size + 0.2;
+    font-size: @text-font-size + 0.1;
     line-height: 1.6;
     margin: 0 0 15px;
 }
@@ -121,15 +121,15 @@ iframe {
     min-height: 625px;
 
     @media only screen and (min-width : @screenTablet) {
-        min-height: 960px;
+        min-height: 1000px;
     }
 
     @media only screen and (min-width : @screenDesktop) {
-        min-height: 750px;
+        min-height: 725px;
     }
 
     @media only screen and (min-width : @screenLarge) {
-        min-height: 625px;
+        min-height: 725px;
     }
 }
 
@@ -154,7 +154,7 @@ iframe {
 }
 
 .btn {
-    background: #425B6B;
+    background: @blue;
     border-radius: 25px;
     color: #ffffff;
     display: inline-block;
@@ -164,12 +164,19 @@ iframe {
     padding: 15px 25px;
     text-align: center;
     text-decoration: none;
+    transition: background-color 0.3s ease;
     user-select: none;
     vertical-align: middle;
     white-space: nowrap;
 
-    &.dark {
+    .dark & {
+        background: lighten(@blue, 5%);
+        border: 1px solid white;
+        color: white;
 
+        &:hover {
+            background: lighten(@blue, 10%);
+        }
     }
     
     &:hover {
@@ -179,7 +186,7 @@ iframe {
     }
 
     &:visited {
-        color: #ffffff;
+        // color: #ffffff;
     }
 }
 
@@ -331,8 +338,15 @@ header {
 section {
     padding: 35px 0px;
 
+
+    img {
+        border: 1px solid @border-color;
+        border-radius: 3px;
+        width: 100%;
+    }
+
     &.light {
-        background-color: #e8e7f375;
+        background-color: @background-light;
         color: @text-dark;   
 
         .text {
@@ -345,7 +359,7 @@ section {
     }
 
     &.dark {
-        background-color: #425B6B;
+        background-color: @blue;
         color: @text-light;
 
         .text {
@@ -356,11 +370,6 @@ section {
             }
         }
 
-        img {
-            border: 1px solid @border-color;
-            border-radius: 3px;
-            width: 100%;
-        }
 
         hr {
             background-color: @white;
@@ -383,8 +392,8 @@ section {
 
     @media only screen and (min-width : @screenTablet) {
         padding-top: 135px;
-        h2 { margin-bottom: 40px; }
-        h3 { margin: 45px 0; }
+        h2 { margin-bottom: 55px; }
+        h3 { margin: 60px 0; }
     }
 }
 
@@ -404,7 +413,7 @@ section {
     .p-tel,
     .u-email {
         border: none;
-        color: @text-dark;
+        color: @text-light;
         display: block;
         margin: 0 0 10px;
     }
