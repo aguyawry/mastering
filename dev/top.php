@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <!-- build:js_top js/top.js -->
+        <script src="js/app/analytics.js"></script>
+        <!-- endbuild -->
+
         <!-- order of meta and title tags here matters! -->
 
         <!-- charset declaration should come in the first 1024 bytes and before <title> -->
@@ -38,14 +42,15 @@
         <!-- build:css css/style.css -->
         <link rel="stylesheet" href="css/elson_mastering.css">
         <!-- endbuild -->
-
-        <!-- build:js_top js/top.js -->
-        <script src="js/app/analytics.js"></script>
-        <!-- endbuild -->
     </head>
 
 
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3PRKT"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
         <header>
             <div class="container">
                 <div class="col-group">
