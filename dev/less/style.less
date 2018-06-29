@@ -87,6 +87,11 @@ p {
     font-size: @text-font-size + 0.1;
     line-height: 1.6;
     margin: 0 0 15px;
+    text-align: center;
+
+    @media only screen and (min-width : @screenTablet) {
+        text-align: left;
+    }
 }
 
 ul { 
@@ -101,11 +106,7 @@ li {
     &:last-child { margin-bottom: 0; }
 }
 
-a {
-    // color: @link-dark;
-    text-decoration: none;
-    // &:visited { color: @link-dark; }
-}
+a { text-decoration: none; }
 
 hr {
     background-color: #111;
@@ -196,7 +197,9 @@ iframe {
 //
 header {
     background-color: black;
+    border-bottom: 1px solid @border-color;
     color: @text-light;
+    height: 100px;
     padding: 5px 0;
 
     // headroom specific styles
@@ -214,6 +217,11 @@ header {
     &.headroom--pinned { transform: translateY(0); }
     &.headroom--unpinned { transform: translateY(-100%); }    
 
+    #brand {
+        display: inline-block;
+        margin-top: 7px;
+    }
+
     img {
         display: inline-block;
         height: 75px;
@@ -225,6 +233,8 @@ header {
         display: inline-block;
         text-align: center;
         vertical-align: middle;
+
+        p { text-align: center; }
     }
 
     h1 {
@@ -261,8 +271,12 @@ header {
         display: inline-block;
         font-size: @text-font-size + 0.2;
         font-weight: 300;
-        padding: 15px;
+        padding: 15px 12px;
         &:last-child { padding-right: 0; }
+
+        @media only screen and (min-width : @screenDesktop) {
+            padding: 15px 20px;
+        }
     }
 
     a, a:visited { color: @text-light; }
@@ -290,9 +304,10 @@ header {
     padding: 10px;
 
     li {
-        border-bottom: 1px solid #ccc;
+        border-bottom: 1px solid #444;
         margin-bottom: 0;
         text-align: left;
+        &:first-child,
         &:last-child { border: none; }
     }
     
@@ -391,7 +406,7 @@ section {
     padding-top: 110px;
 
     @media only screen and (min-width : @screenTablet) {
-        padding-top: 135px;
+        padding-top: 145px;
         h2 { margin-bottom: 55px; }
         h3 { margin: 60px 0; }
     }
@@ -481,32 +496,9 @@ blockquote {
 }
 
 
-
-// .contact-right {
-//     text-align: center;
-// }
-
-// .social {
-//     li {
-//         display: inline-block;
-//         margin: 0 25px 0 0;
-//         &:last-child { margin-right: 0; }
-//     }
-
-//     a {
-//         display: block;
-//         height: 50px;
-//         text-indent: -9999px;
-//         width: 50px;
-//     }
-//     .facebook { background: transparent url('../img/social/social.png') no-repeat 0 0; }
-//     .twitter { background: transparent url('../img/social/social.png') no-repeat -75px 0; }
-//     .grammy { background: transparent url('../img/social/social.png') no-repeat -150px 0; }
-//     .instagram { background: transparent url('../img/social/social.png') no-repeat -225px 0; }
-// }
-
 footer {
     background-color: @black;
+    border-top: 1px solid @border-color;
     color: @text-light;
     padding: 0 0 15px;
 

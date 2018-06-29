@@ -30,10 +30,10 @@
 
             <div class="col-mb-12">
                 <div class="btn-row center">
-                    <p>
+                    <!-- <p> -->
                         <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                         <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    </p>
+                    <!-- </p> -->
                 </div>
             </div>
 
@@ -70,10 +70,10 @@
                 <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer free mix assessments for our clients. Upload a track via our DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
-                    <p>
+                    <!-- <p> -->
                         <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                         <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    </p>
+                    <!-- </p> -->
                 </div>
             </div>
         </div>
@@ -271,10 +271,10 @@
 
             <div class="col-mb-12 col-offset-1 col-5">
                 <div class="btn-row center">
-                    <p>
+                    <!-- <p> -->
                         <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                         <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    </p>
+                    <!-- </p> -->
                 </div>
 
 
