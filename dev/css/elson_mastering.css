@@ -1354,7 +1354,7 @@ iframe {
   border: 1px solid white;
   color: white;
 }
-.dark .btn:hover {
+.btn:hover {
   background: #55768b;
 }
 header {
@@ -1557,7 +1557,7 @@ section.parallax {
 .service h3 {
   margin: 20px 0 15px;
 }
-.hcard {
+.hcard p {
   text-align: center;
 }
 .hcard .p-tel,

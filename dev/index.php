@@ -18,21 +18,22 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>elson mastering is an audio mastering studio located in Southern Maine, USA.</p>
-                <p>We specialize in providing high quality music mastering services across a wide range of musical genres.</p>
+                <p>elson mastering is an audio mastering studio specializing in providing high quality music mastering services across a wide range of musical genres.</p>
 
                 <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+
                 <p>The result is music that sounds exceptional delivered in any format and ultimately deepens the connection between artist and listener.</p>
 
-                <p>While many of our clients are local, we regularly collaborate with artists, producers, engineers and labels in all parts of the world.</p>
-                <p>Get in touch to find out how we can help with your next project and send us a track for a mix evaluation or mastering sample.</p>
+                <p>We regularly collaborate with artists, producers, engineers and labels in all parts of the world.</p>
+
+                <p>Get in touch to find out how we can help with your next project and send us a track for a complimentary mix evaluation or mastering sample.</p>
             </div>
 
             <div class="col-mb-12">
                 <div class="btn-row center">
                     <!-- <p> -->
-                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
+                        <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn an-btn-upload" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
                     <!-- </p> -->
                 </div>
             </div>
@@ -71,8 +72,8 @@
 
                 <div class="btn-row center">
                     <!-- <p> -->
-                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
+                        <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn an-btn-upload" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
                     <!-- </p> -->
                 </div>
             </div>
@@ -185,7 +186,7 @@
 
             <div class="col-mb-12">
                 <blockquote cite="https://www.johnratcliff.com/">
-                    <p>I have worked with Scott on several occasions in the last 12 months. He has an excellent "ear" for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
+                    <p>I have worked with Scott on several occasions in the last 12 months. He has an excellent ear for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
                 </blockquote>
 
                 <div class="attribution">
@@ -272,8 +273,8 @@
             <div class="col-mb-12 col-offset-1 col-5">
                 <div class="btn-row center">
                     <!-- <p> -->
-                        <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
+                        <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                        <a class="btn an-btn-upload" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
                     <!-- </p> -->
                 </div>
 
