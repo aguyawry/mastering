@@ -1305,17 +1305,17 @@ iframe {
 }
 @media only screen and (min-width: 768px) {
   iframe {
-    min-height: 1000px;
+    min-height: 760px;
   }
 }
 @media only screen and (min-width: 992px) {
   iframe {
-    min-height: 725px;
+    min-height: 525px;
   }
 }
 @media only screen and (min-width: 1200px) {
   iframe {
-    min-height: 725px;
+    min-height: 525px;
   }
 }
 .jarallax {
@@ -1510,7 +1510,7 @@ section img {
   width: 100%;
 }
 section.light {
-  background-color: #e0e0e0;
+  background-color: #fdfdfd;
   color: #000000;
 }
 section.light .text {
@@ -1549,6 +1549,7 @@ section.parallax {
   }
   #intro h2 {
     margin-bottom: 55px;
+    text-align: center;
   }
   #intro h3 {
     margin: 60px 0;

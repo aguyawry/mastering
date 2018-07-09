@@ -9,24 +9,21 @@
 <section id="intro" class="dark">
     <div class="container">
         <div class="col-group">
-            <div class="col-mb-12 col-6">
+
+            <div class="col-mb-12">
                 <h2>Your music is your story.</h2>
                 <h2>We’re all ears.</h2>
-                <h3>Superior mastering.</h3>
+                <!-- <h3>Superior mastering.</h3>
                 <h3>For anyone.</h3>
-                <h3>Anywhere.</h3>
+                <h3>Anywhere.</h3> -->
             </div>
 
-            <div class="col-mb-12 col-6">
-                <p>elson mastering is an audio mastering studio specializing in providing high quality music mastering services across a wide range of musical genres.</p>
+            <div class="col-mb-12">
+                <p>elson mastering specializes in providing high-quality audio mastering services across a wide variety of musical genres.</p>
 
-                <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+                <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality. The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>
 
-                <p>The result is music that sounds exceptional delivered in any format and ultimately deepens the connection between artist and listener.</p>
-
-                <p>We regularly collaborate with artists, producers, engineers and labels in all parts of the world.</p>
-
-                <p>Get in touch to find out how we can help with your next project and send us a track for a complimentary mix evaluation or mastering sample.</p>
+                <p>We regularly collaborate with artists, producers, engineers and labels in all parts of the world, and deliver audio ready for any format. Get in touch to find out how we can help with your next project, and send us a track for a complimentary mix evaluation or mastering sample.</p>
             </div>
 
             <div class="col-mb-12">
@@ -68,7 +65,9 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>services</h2>
-                <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer free mix assessments for our clients. Upload a track via our DropBox account to get the process started.</p>
+                <p>Mastering is a partnership between the mastering engineer and the client. At elson mastering, we care about the finished product as much as you do, and will stop at nothing to get it right.</p>
+                
+                <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer complementary mix assessments for potential clients. Upload a track via our DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
                     <!-- <p> -->
@@ -165,19 +164,13 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-6">
-                <p>Our purpose-built mastering suite was designed for great acoustics and provides an accurate environment for making informed sonic decisions.</p>
+                <p>Our purpose-built mastering suite offers startlingly accurate acoustics, giving us the perfect environment to make informed sonic decisions about how make your music shine.</p>
 
-                <p>We believe everything in the mastering signal chain matters, and everything works together as an instrument to influence the music.</p>
+                <p>Every tool in our mastering signal chain matters. Whether the gear is analog, digital, vintage or state of the art, each one has been hand-picked for what it can bring to the table.</p>
+
+                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Waves and Sonnox among others. Some add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
                 
-                <p>Some tools add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
-
-                <p>Analog, digital, vintage or state of the art - quality gear comes in many forms and is judged by how it sounds, not by what it costs.</p>
-
-                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Waves and Sonnox among others.</p>
-
-                <p>Of course, having great gear means nothing without also having the experienced ears of a seasoned mastering engineer such as Scott.</p>
-                
-                <p>It all comes together to create an space where art meets audio - and music comes to life.</p>
+                <p>It all comes together to create an space where art meets audio and music comes to life.</p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -186,7 +179,7 @@
 
             <div class="col-mb-12">
                 <blockquote cite="https://www.johnratcliff.com/">
-                    <p>I have worked with Scott on several occasions in the last 12 months. He has an excellent ear for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
+                    <p>I have worked with Scott on several occasions. He has an excellent ear for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
                 </blockquote>
 
                 <div class="attribution">
@@ -267,7 +260,7 @@
                 
                 <p>As a supporter of the independent music community, we offer competitive rates for unsigned bands. We'll do our best to work with your budget.</p>
                 
-                <p>Giving back to the community is important to us and we enjoy offering volunteer services when possible.</p>
+                <p>We also have a large network of talented musicians and producers, so please reach out if we can help make a connection.</p>
             </div>
 
             <div class="col-mb-12 col-offset-1 col-5">
