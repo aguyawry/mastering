@@ -82,14 +82,14 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Mastering</h3>
-                    <p>Mastering is the final creative step in the audio post-production process. We'll fine tune the sonic balance, address any technical issues, and make sure your music sounds great across all systems and media formats. Projects come in many forms - singles, EPs, albums, soundtracks, compilations and even audio for video projects.</p>
+                    <p>Mastering is the final creative step in the audio post-production process. We'll fine tune the sonic balance, address any technical issues, and make sure your music sounds great across all systems, media formats and digital delivery services. Our mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Mastered for iTunes</h3>
-                    <p>To be officially badged as <a href="https://www.apple.com/itunes/mastered-for-itunes/" class="text" rel="external">Mastered for iTunes</a>, the masters delivered to Apple must be created by an engineer on their official Mastered for iTunes Provider List. This ensures the engineer has followed Apple's protocols and the audio has been prepared for encoding in their AAC file format without error.</p>
+                    <p>We are an Apple sanctioned <a href="https://www.apple.com/itunes/mastered-for-itunes/" class="text" rel="external">Mastered for iTunes (MFiT)</a> studio. For a release to be officially badged as Mastered for iTunes, the masters delivered to Apple must be created by an engineer on their official Mastered for iTunes Provider List. This ensures the engineer has followed Apple's protocols and the audio has been prepared for encoding in their AAC file format without error.</p>
                 </div>
             </div>
         </div>
@@ -98,15 +98,15 @@
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <div class="service">
-                    <h3>DDPi Masters</h3>
-                    <p>If you are making CDs, a DDPi (Disc Description Protocol) is the ideal format for delivery of your record to the replication facility. It's an absolutely error-free master that creates a superior sounding CD which is also more reliable across a wide range of players.</p>
+                <h3>Vinyl Cutting Masters</h3>
+                    <p>We often deliver high resolution masters to vinyl cutting houses properly formatted and documented for each side of a record. We can also identify and address potential sonic issues specific to vinyl such as excessive sibilance or high end, low frequency imaging problems, and considerations in track order due to the complexity of the music.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
-                    <h3>CD PreMasters (PMCD)</h3>
-                    <p>A physical PreMaster CD is typically used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. We can create and error check the physical disc to ensure a quality master. We can also create additional CD reference discs for listening purposes only.</p>
+                    <h3>DDPi Masters</h3>
+                    <p>For clients making Compact Discs, we can create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players. Clients can download the same DDP image from us and listen to it with our software player.</p>
                 </div>
             </div>
         </div>
@@ -115,15 +115,15 @@
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <div class="service">
-                    <h3>Digital Masters for Vinyl</h3>
-                    <p>If you're cutting vinyl, there are sonic considerations to take into account in order to make sure your record translates well to the medium. We can also deliver high resolution files to your cutting house formatted correctly for the length of each side.</p>
+                    <h3>CD PreMasters</h3>
+                    <p>A physical PreMaster CD (PMCD) may be used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. If a DDPi Master isn't an option, we can create a CD PreMaster and error check the physical layer of the disc to ensure its quality. We can also create additional CD reference discs for listening purposes only.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Transfers and Restoration</h3>
-                    <p>You may not be able to play your cassettes or DATs that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring to a digital file. From there it's possible to do remove unwanted hum, hiss, pops and noise, and enhnace the audio in many ways.</p>
+                    <p>You may not be able to play your cassettes, DATs or vinyl records that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring it to a digital file. From there it's possible to do remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
                 </div>
             </div>
         </div>
@@ -168,7 +168,7 @@
 
                 <p>Every tool in our mastering signal chain matters. Whether the gear is analog, digital, vintage or state of the art, each one has been hand-picked for what it can bring to the table.</p>
 
-                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Waves and Sonnox among others. Some add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
+                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Dangerous Music, Waves and Sonnox among others. Some add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
                 
                 <p>It all comes together to create an space where art meets audio and music comes to life.</p>
             </div>
@@ -217,7 +217,7 @@
 
                 <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
 
-                <p>Over the years, artists at every stage in their career have trusted Scott to put the finishing touches on their deepest musical expressions. His commitment to always serve the music comes through in every project.</p>
+                <p>Over the years, artists at every stage in their career have trusted Scott to put the finishing touches on their records. His commitment to always serve the music comes through in every project.</p>
 
                 <p>Scott is a member of both the <a class="text" href="http://www.aes.org/" rel="external">Audio Engineering Society</a> and <a class="text" href="https://www.grammy.com/recording-academy" rel="external">The Recording Academy’s</a> Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
             </div>
