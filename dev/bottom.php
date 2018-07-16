@@ -1,9 +1,9 @@
         <footer>
             <ul id="social">
-                <li><a href="" rel="external">scott elson at the recording academy</a></li>
-                <li><a href="" rel="external">scott elson at the Audio Engineering Society</a></li>
-                <li><a href="" rel="external">elson mastering on facebook</a></li>
-                <li><a href="" rel="external">elson mastering on instagram"></a></li>
+                <li><a class="aes" href="http://www.aes.org/aes/scottelson" rel="external">scott elson at the Audio Engineering Society</a></li>
+                <li><a class="ra" href="https://www.grammy.com/recording-academy" rel="external">scott elson at the Recording Academy</a></li>
+                <li><a class="fb" href="https://www.facebook.com/elsonmastering/" rel="external">elson mastering on facebook</a></li>
+                <li><a class="ig" href="https://www.instagram.com/elsonmastering/" rel="external">elson mastering on instagram"></a></li>
                 
             </ul>
 

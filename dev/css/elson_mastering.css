@@ -1619,17 +1619,48 @@ footer {
   padding: 0 0 15px;
 }
 footer ul {
-  background-color: #425B6B;
-  padding: 5px 0;
+  margin: 30px 0 20px;
   text-align: center;
   width: 100%;
 }
 footer li {
   display: inline-block;
+  margin: 0 30px 0 0;
+}
+footer li:last-child {
+  margin-right: 0;
 }
 footer li a {
   display: block;
+  height: 50px;
   text-indent: -9999px;
+  width: 50px;
+  background-image: url('../img/social/social.png');
+  background-size: cover;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  footer li a {
+    background-image: url('../img/social/social@2x.png');
+    background-size: cover;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (min-device-pixel-ratio: 3) {
+  footer li a {
+    background-image: url('../img/social/social@3x.png');
+    background-size: cover;
+  }
+}
+footer li a.aes {
+  background-position: 0 0;
+}
+footer li a.ra {
+  background-position: -75px 0;
+}
+footer li a.fb {
+  background-position: -150px 0;
+}
+footer li a.ig {
+  background-position: -225px 0;
 }
 footer p {
   font-size: 1.4rem;

@@ -500,18 +500,27 @@ footer {
     padding: 0 0 15px;
 
     ul {
-        background-color: @blue;
-        padding: 5px 0;
+        margin: 30px 0 20px;
         text-align: center;
         width: 100%;
     }
 
     li {
         display: inline-block;
+        margin: 0 30px 0 0;
+        &:last-child { margin-right: 0; }
 
         a {
             display: block;
+            height: 50px;
             text-indent: -9999px;
+            width: 50px;
+            .hi-res-bgs('../img/social/', 'social');
+
+            &.aes { background-position: 0 0; }
+            &.ra { background-position: -75px 0; }
+            &.fb { background-position: -150px 0; }
+            &.ig { background-position: -225px 0; }
         }
     }
 
