@@ -1,10 +1,11 @@
         <footer>
-<!--             <ul id="social">
+            <ul id="social">
+                <li><a href="" rel="external">scott elson at the recording academy</a></li>
+                <li><a href="" rel="external">scott elson at the Audio Engineering Society</a></li>
                 <li><a href="" rel="external">elson mastering on facebook</a></li>
-                <li><a href="" rel="external">elson mstering on twitter</a></li>
                 <li><a href="" rel="external">elson mastering on instagram"></a></li>
-                <li><a href="" rel="external">elson mastering at the recording academy</a></li>
-            </ul> -->
+                
+            </ul>
 
             <div class="container">
                 <div class="col-group">
