@@ -103,7 +103,6 @@ ul {
 li {
     font-size: @text-font-size;
     margin: 0 0 20px;
-    &:last-child { margin-bottom: 0; }
 }
 
 a { text-decoration: none; }
@@ -500,15 +499,19 @@ footer {
     padding: 0 0 15px;
 
     ul {
-        margin: 30px 0 20px;
+        margin: 30px 0 0;
         text-align: center;
         width: 100%;
     }
 
     li {
         display: inline-block;
-        margin: 0 30px 0 0;
+        margin: 0 20px 20px 0;
         &:last-child { margin-right: 0; }
+
+        @media only screen and (min-width : @screenTablet) {
+            margin-right: 40px;
+        }
 
         a {
             display: block;
@@ -521,6 +524,7 @@ footer {
             &.ra { background-position: -75px 0; }
             &.fb { background-position: -150px 0; }
             &.ig { background-position: -225px 0; }
+            &.li { background-position: -300px 0; }
         }
     }
 

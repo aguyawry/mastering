@@ -4,7 +4,7 @@
                 <li><a class="ra" href="https://www.grammy.com/recording-academy" rel="external">scott elson at the Recording Academy</a></li>
                 <li><a class="fb" href="https://www.facebook.com/elsonmastering/" rel="external">elson mastering on facebook</a></li>
                 <li><a class="ig" href="https://www.instagram.com/elsonmastering/" rel="external">elson mastering on instagram"></a></li>
-                
+                <li><a class="li" href="https://www.linkedin.com/in/scottelson/" rel="external">scott elson on LinkedIn"></a></li>
             </ul>
 
             <div class="container">

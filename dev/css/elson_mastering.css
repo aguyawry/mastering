@@ -1285,9 +1285,6 @@ li {
   font-size: 1.8rem;
   margin: 0 0 20px;
 }
-li:last-child {
-  margin-bottom: 0;
-}
 a {
   text-decoration: none;
 }
@@ -1619,16 +1616,21 @@ footer {
   padding: 0 0 15px;
 }
 footer ul {
-  margin: 30px 0 20px;
+  margin: 30px 0 0;
   text-align: center;
   width: 100%;
 }
 footer li {
   display: inline-block;
-  margin: 0 30px 0 0;
+  margin: 0 20px 20px 0;
 }
 footer li:last-child {
   margin-right: 0;
+}
+@media only screen and (min-width: 768px) {
+  footer li {
+    margin-right: 40px;
+  }
 }
 footer li a {
   display: block;
@@ -1661,6 +1663,9 @@ footer li a.fb {
 }
 footer li a.ig {
   background-position: -225px 0;
+}
+footer li a.li {
+  background-position: -300px 0;
 }
 footer p {
   font-size: 1.4rem;
