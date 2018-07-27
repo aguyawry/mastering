@@ -5,16 +5,23 @@ RewriteEngine On
 # Use PHP5.4 as default
 AddHandler application/x-httpd-php54 .php
 
+# Force https
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+<IfModule mod_headers.c>
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
+
+
 # Non-existant pages to index
 Options +SymLinksIfOwnerMatch 
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 
-# Error pages
-ErrorDocument 404 http://example.com/
-
-
+# Error pages - don't need this due to the above
+#ErrorDocument 404 http://example.com/
 
 # Redirect requests from /index.php to root
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php
