@@ -28,10 +28,8 @@
 
             <div class="col-mb-12">
                 <div class="btn-row center">
-                    <!-- <p> -->
-                        <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn an-btn-upload" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    <!-- </p> -->
+                    <!-- <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a> -->
+                    <a class="btn an-btn-upload" href="upload-track.php">Upload a Track</a>
                 </div>
             </div>
 
@@ -70,10 +68,8 @@
                 <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer complementary mix assessments for potential clients. Upload a track via our DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
-                    <!-- <p> -->
-                        <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn an-btn-upload" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    <!-- </p> -->
+                    <!-- <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a> -->
+                    <a class="btn an-btn-upload" href="upload-track.php">Upload a Track</a>
                 </div>
             </div>
         </div>
@@ -265,10 +261,8 @@
 
             <div class="col-mb-12 col-offset-1 col-5">
                 <div class="btn-row center">
-                    <!-- <p> -->
-                        <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                        <a class="btn an-btn-upload" href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">Upload a Track</a>
-                    <!-- </p> -->
+                    <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                    <a class="btn an-btn-upload" href="upload-track.php">Upload a Track</a>
                 </div>
 
 
