@@ -9,15 +9,18 @@
 <section id="intro" class="dark">
     <div class="container">
 
-        <div class="col-group">
-            <div class="col-mb-12">
-                <h2>Upload A Track</h2>
-            </div>
-        </div>
-
         <div class="col-group">        
             <div class="col-mb-12 col-6 col-offset-3">
-                <p>Uploading your file is quick and secure. Clicking the button below will take you to our upload page at DropBox. From there, all you need to do is:</p>
+                <h2>Ready to send us<br>your music?</h2>
+                <h2>We can't wait to<br>hear it!</h2>
+            </div>
+        </div>
+                
+        <div class="col-group">        
+            <div class="col-mb-12 col-6 col-offset-3">
+                <p>Uploading your file is quick and secure. Clicking the button below will take you to our upload page at DropBox.<p>
+                
+                <p>From there, all you need to do is:</p>
 
                 <ol>
                     <li>Choose a file to upload.</li>
@@ -34,12 +37,21 @@
             </div>
         </div>
 
+    </div>
+</section>
+
+
+<section class="dark">
+    <div class="container">
+
         <div class="col-group">        
             <div class="col-mb-12 col-6 col-offset-3">
                 <h3>What happens next?</h3>
-                <p>We'll be notified of your upload, will download your music and then give it a listen. If we have any questions, we'll reach out to discuss your goals, mix concerns or any sonic references you may have in mind.<p>
+                <p>We'll get notified of your upload, will download your music and give it a listen. If we have any questions, we'll reach out to discuss your goals, mix concerns or any sonic references you may have in mind.<p>
                 
-                <p>Within 2 to 3 business days, you'll recieve an email containing a link to download a sample of your mastered track. You'll have the option to puchase and download the entire master.</p>
+                <p>Within 2 to 3 business days, you'll recieve an email containing a link to download a sample of your mastered track. If you like what you hear, you'll have the option to purchase and download the entire master.</p>
+
+                <p>If you have any questions or additional mix notes to send, just email <?php include "email.php";?>.
             </div>
         </div>
 

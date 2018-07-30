@@ -11,8 +11,8 @@
         <div class="col-group">
 
             <div class="col-mb-12">
-                <h2>Your music is your story.</h2>
-                <h2>We’re all ears.</h2>
+                <h2 class="tagline">Your music is your story.</h2>
+                <h2 class="tagline">We’re all ears.</h2>
                 <!-- <h3>Superior mastering.</h3>
                 <h3>For anyone.</h3>
                 <h3>Anywhere.</h3> -->
@@ -261,8 +261,8 @@
 
             <div class="col-mb-12 col-offset-1 col-5">
                 <div class="btn-row center">
-                    <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                     <a class="btn an-btn-upload" href="upload-track.php">Upload a Track</a>
+                    <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                 </div>
 
 
@@ -271,22 +271,7 @@
                         <a class="p-tel" href="tel:2073589146" title="Call elson mastering at 207.358.9146">207.358.9146</a>
                     </p>
 
-                    <p>
-                        <script type="text/javascript">
-                        //<![CDATA[
-                        <!--
-                        var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
-                        "=55){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
-                        ".substr(0,ol);}f(\")911,\\\"QYSND[500\\\\L^410\\\\710\\\\<p:22(<,$78:<!=571" +
-                        "0\\\\!$(>>:ve230\\\\(+ l&.VLXHH[TVXEYQs]XTZZ^620\\\\D^EAFK700\\\\x630\\\\DD" +
-                        "Rw>?@wsxur;`6O/bcnbn,j6+ ij`pjpv.n\\\\320\\\\130\\\\620\\\\710\\\\230\\\\72" +
-                        "0\\\\320\\\\\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o" +
-                        ";721=%y{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"     ;
-                        while(x=eval(x));
-                        //-->
-                        //]]>
-                        </script>
-                    </p>
+                    <p><?php include "email.php";?></p>
                 </div>
 
             </div>

@@ -1246,7 +1246,6 @@ h2 {
   font-size: 4.5rem;
   line-height: 1.2;
   margin: 0 0 30px;
-  text-align: center;
 }
 @media only screen and (min-width: 768px) {
   h2 {
@@ -1258,7 +1257,6 @@ h3 {
   font-size: 2.8rem;
   margin: 0 0 25px;
   line-height: 1.1;
-  text-align: center;
 }
 @media only screen and (min-width: 768px) {
   h3 {
@@ -1270,7 +1268,6 @@ p {
   font-size: 1.9rem;
   line-height: 1.6;
   margin: 0 0 15px;
-  text-align: center;
 }
 @media only screen and (min-width: 768px) {
   p {
@@ -1334,7 +1331,6 @@ iframe {
 .btn {
   background: #425B6B;
   border-radius: 25px;
-  color: #ffffff;
   display: inline-block;
   font-family: sans-serif;
   font-size: 2.2rem;
@@ -1346,6 +1342,9 @@ iframe {
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
+}
+.light .btn {
+  color: white;
 }
 .dark .btn {
   background: #4c687b;
@@ -1502,6 +1501,9 @@ header .toggle-button {
 section {
   padding: 35px 0px;
 }
+section:first-of-type {
+  padding-top: 110px;
+}
 section img {
   border: 1px solid #C0C0C0;
   border-radius: 3px;
@@ -1511,22 +1513,22 @@ section.light {
   background-color: #fdfdfd;
   color: #000000;
 }
-section.light .text {
+section.light a {
   border-bottom: 1px solid #b3b3b3;
   color: #000000;
 }
-section.light .text:hover {
+section.light a:hover {
   border-color: #000000;
 }
 section.dark {
   background-color: #425B6B;
   color: #FEFEFE;
 }
-section.dark .text {
+section.dark a {
   border-bottom: 1px solid #8b8b8b;
   color: #FEFEFE;
 }
-section.dark .text:hover {
+section.dark a:hover {
   border-color: #FEFEFE;
 }
 section.dark hr {
@@ -1538,8 +1540,8 @@ section.parallax {
   height: 500px;
   width: 100%;
 }
-#intro {
-  padding-top: 110px;
+#intro h2 {
+  text-align: center;
 }
 @media only screen and (min-width: 768px) {
   #intro {
@@ -1547,7 +1549,6 @@ section.parallax {
   }
   #intro h2 {
     margin-bottom: 40px;
-    text-align: center;
   }
   #intro h3 {
     margin: 60px 0;
@@ -1561,9 +1562,7 @@ section.parallax {
 }
 .hcard .p-tel,
 .hcard .u-email {
-  border: none;
-  color: #FEFEFE;
-  display: block;
+  display: inline-block;
   margin: 0 0 10px;
 }
 blockquote {
@@ -1634,6 +1633,8 @@ footer li:last-child {
   }
 }
 footer li a {
+  color: transparent;
+  border-bottom: none;
   display: block;
   height: 50px;
   text-indent: -9999px;
@@ -1672,5 +1673,12 @@ footer p {
   font-size: 1.4rem;
   margin: 10px 0;
   text-align: center;
+}
+footer a {
+  color: white;
+  border-bottom: 1px solid #8b8b8b;
+}
+footer a:hover {
+  border-color: #FEFEFE;
 }
 /* tablets and up */

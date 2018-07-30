@@ -63,7 +63,6 @@ h2 {
     font-size: @text-font-size + 2.7;
     line-height: 1.2;
     margin: 0 0 30px;
-    text-align: center;
 
     @media only screen and (min-width : @screenTablet) {
         font-size: @text-font-size + 3;
@@ -75,7 +74,6 @@ h3 {
     font-size: @text-font-size + 1;
     margin: 0 0 25px;
     line-height: 1.1;
-    text-align: center;
 
     @media only screen and (min-width : @screenTablet) {
         font-size: @text-font-size + 1.8;
@@ -87,7 +85,7 @@ p {
     font-size: @text-font-size + 0.1;
     line-height: 1.6;
     margin: 0 0 15px;
-    text-align: center;
+    // text-align: center;
 
     @media only screen and (min-width : @screenTablet) {
         text-align: left;
@@ -105,7 +103,9 @@ li {
     margin: 0 0 20px;
 }
 
-a { text-decoration: none; }
+a { 
+    text-decoration: none;
+}
 
 hr {
     background-color: #111;
@@ -156,7 +156,6 @@ iframe {
 .btn {
     background: @blue;
     border-radius: 25px;
-    color: #ffffff;
     display: inline-block;
     font-family: sans-serif;
     font-size: @text-font-size + 0.4;
@@ -168,6 +167,10 @@ iframe {
     user-select: none;
     vertical-align: middle;
     white-space: nowrap;
+
+    .light & {
+        color: white;
+    }
 
     .dark & {
         background: lighten(@blue, 5%);
@@ -346,6 +349,10 @@ header {
 section {
     padding: 35px 0px;
 
+    &:first-of-type {
+        padding-top: 110px;
+    }
+
 
     img {
         border: 1px solid @border-color;
@@ -357,7 +364,8 @@ section {
         background-color: @background-light;
         color: @text-dark;   
 
-        .text {
+        a {
+        // .text {
             border-bottom: 1px solid lighten(@link-dark, 70%);
             color: @link-dark;
             &:hover { 
@@ -370,7 +378,8 @@ section {
         background-color: @blue;
         color: @text-light;
 
-        .text {
+        // .text {
+        a {
             border-bottom: 1px solid darken(@link-light, 45%);
             color: @link-light;
             &:hover { 
@@ -396,14 +405,14 @@ section {
 //
 // intro section 
 #intro {
-    padding-top: 110px;
+
+    h2 { text-align: center; }
 
     @media only screen and (min-width : @screenTablet) {
         padding-top: 145px;
-        h2 {
-            margin-bottom: 40px;
-            text-align: center;
-        }
+        
+        h2 { margin-bottom: 40px; }
+
         h3 { margin: 60px 0; }
     }
 }
@@ -411,9 +420,7 @@ section {
 
 .service {
 
-    h3 {
-        margin: 20px 0 15px;
-    }
+    h3 { margin: 20px 0 15px; }
 }
 
 
@@ -423,9 +430,9 @@ section {
 
     .p-tel,
     .u-email {
-        border: none;
-        color: @text-light;
-        display: block;
+        // border: none;
+        // color: @text-light;
+        display: inline-block;
         margin: 0 0 10px;
     }
 }
@@ -514,6 +521,8 @@ footer {
         }
 
         a {
+            color: transparent;
+            border-bottom: none;
             display: block;
             height: 50px;
             text-indent: -9999px;
@@ -532,5 +541,13 @@ footer {
         font-size: @text-font-size - 0.4;
         margin: 10px 0;
         text-align: center;
+    }
+
+    a {
+        color: white;
+        border-bottom: 1px solid darken(@link-light, 45%);
+        &:hover { 
+            border-color: @link-light;
+        }
     }
 }
