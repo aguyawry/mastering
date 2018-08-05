@@ -18,6 +18,7 @@
         <title><?php echo $title ?></title>
         <meta name="description" content="<?php echo $description ?>">
         <meta name="keywords" content="<?php echo $keywords ?>">
+        <meta name="robots" content="<?php echo $robots ?>">
 
         <!-- specify viewport. use only for responsive sites -->
         <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->

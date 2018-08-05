@@ -3,6 +3,7 @@
     $title = "upload your music | elson mastering";
     $description = "Upload your music to elson mastering";
     $keywords = "scott elson, upload music for mastering, music mastering, audio mastering, mastered for iTunes, remote mastering, internet mastering, music production, audio restoration, transfers, archives, maine";
+    $robots = "noindex, nofollow, noarchive, nosnippet, noodp";
     include "top.php";
 ?>
 
@@ -18,7 +19,7 @@
                 
         <div class="col-group">        
             <div class="col-mb-12 col-6 col-offset-3">
-                <p>Uploading your file is quick and secure. Clicking the button below will take you to our upload page at DropBox.<p>
+                <p>Uploading your track is quick and secure. Clicking the button below will take you to our upload page at DropBox.<p>
                 
                 <p>From there, all you need to do is:</p>
 
@@ -28,6 +29,8 @@
                     <li>Click the Upload button.</li>
                 </ol>
 
+                <p>Please send your track at the same sample rate and bit depth of your mix. Please do not sample rate convert your file or reduce the bit depth.</p>
+                <p>Ideally WAV or AIFF files at a 24 bit resolution are best, but we can most likely work with whatever you send!</p>
             </div>
         </div>
 
