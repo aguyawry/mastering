@@ -125,7 +125,9 @@ gulp.task('build-move', function() {
         'dev/*.xml',
         'dev/*.ico',
         'dev/*.txt',
-        'dev/.htaccess'
+        'dev/.htaccess',
+        'dev/*.json',
+        'dev/Procfile'
     ];
 
     // the base option sets the relative root for the set of files,
