@@ -24,14 +24,10 @@
 
                 <p>elson mastering specializes in providing high-quality audio mastering services across a wide variety of musical genres.</p>
 
-                <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality. The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>
+                <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality. The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>                
 
                 <p>We regularly collaborate with artists, producers, engineers and labels in all parts of the world, and deliver audio ready for any format. Get in touch to find out how we can help with your next project, and send us a track for a complimentary mix evaluation or mastering sample.</p>
             </div>
-
-            <!-- <div class="col-mb-12 col-ld-6"> -->
-                
-            <!-- </div> -->
 
             <div class="col-mb-12">
                 <div class="btn-row center">
@@ -213,7 +209,7 @@
             <div class="col-mb-12">
                 <p>Scott grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led to the guitar, ongoing band memberships and an inclination to capture the music that surrounded him.</p>
 
-                <img class="floater" src="img/studio/scott_chair.jpg" alt="Scott Elson - Audio Mastering">                
+                <img class="floater" src="img/studio/scott_chair.jpg" alt="Scott Elson - Audio Mastering">
 
                 <p>After completing degrees in both <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a class="text" href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.</p>
 
