@@ -1506,7 +1506,7 @@ section:first-of-type {
 }
 section img {
   border: 1px solid #C0C0C0;
-  border-radius: 10px;
+  border-radius: 5px;
   margin: 0 auto 20px;
   width: 100%;
 }
