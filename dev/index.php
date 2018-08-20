@@ -20,6 +20,8 @@
             </div>
 
             <div class="col-mb-12">
+                <img src="img/studio/scott_1100.jpg" alt="Scott Elson">
+
                 <p>elson mastering specializes in providing high-quality audio mastering services across a wide variety of musical genres.</p>
 
                 <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality. The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>
@@ -27,10 +29,13 @@
                 <p>We regularly collaborate with artists, producers, engineers and labels in all parts of the world, and deliver audio ready for any format. Get in touch to find out how we can help with your next project, and send us a track for a complimentary mix evaluation or mastering sample.</p>
             </div>
 
+            <!-- <div class="col-mb-12 col-ld-6"> -->
+                
+            <!-- </div> -->
+
             <div class="col-mb-12">
                 <div class="btn-row center">
-                    <!-- <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a> -->
-                    <a class="btn an-btn-upload" href="upload-track.php">Upload a Track</a>
+                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
                 </div>
             </div>
 
@@ -69,8 +74,7 @@
                 <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer complementary mix assessments for potential clients. Upload a track via our DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
-                    <!-- <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a> -->
-                    <a class="btn an-btn-upload" href="upload-track.php">Upload a Track</a>
+                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
                 </div>
             </div>
         </div>
@@ -206,11 +210,12 @@
         </div>
 
         <div class="col-group">
-            <div class="col-mb-12 col-6">
+            <div class="col-mb-12">
                 <p>Scott grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led to the guitar, ongoing band memberships and an inclination to capture the music that surrounded him.</p>
 
-                <p>After completing degrees in both <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a class="text" href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.
-                </p>
+                <img class="floater" src="img/studio/scott_chair.jpg" alt="Scott Elson - Audio Mastering">                
+
+                <p>After completing degrees in both <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a class="text" href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.</p>
 
                 <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
 
@@ -219,9 +224,7 @@
                 <p>Scott is a member of both the <a class="text" href="http://www.aes.org/" rel="external">Audio Engineering Society</a> and <a class="text" href="https://www.grammy.com/recording-academy" rel="external">The Recording Academy’s</a> Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
             </div>
 
-            <div class="col-mb-12 col-6">
-                <img src="img/studio/scott_1100.jpg" alt="Scott Elson">
-
+            <div class="col-mb-12 col-col-ld-12">
                 <blockquote cite="https://coveredinbees.net/">
                     <p>Scott has done an excellent job mastering our songs. He understands the sonic challenges that electronic music can present, especially when integrated with more traditional instruments.</p>
                     <p>He is friendly, comfortable to work with and has authentic enthusiasm for the music. We couldn’t be more satisified.</p>
@@ -262,7 +265,7 @@
 
             <div class="col-mb-12 col-offset-1 col-5">
                 <div class="btn-row center">
-                    <a class="btn an-btn-upload" href="upload-track.php">Upload a Track</a>
+                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
                     <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                 </div>
 

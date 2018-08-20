@@ -1502,12 +1502,20 @@ section {
   padding: 35px 0px;
 }
 section:first-of-type {
-  padding-top: 110px;
+  padding-top: 125px;
 }
 section img {
   border: 1px solid #C0C0C0;
-  border-radius: 3px;
+  border-radius: 10px;
+  margin: 0 auto 20px;
   width: 100%;
+}
+@media only screen and (min-width: 992px) {
+  section img {
+    float: right;
+    margin: 10px 0 10px 5%;
+    width: 45%;
+  }
 }
 section.light {
   background-color: #fdfdfd;
@@ -1525,7 +1533,7 @@ section.dark {
   color: #FEFEFE;
 }
 section.dark a {
-  border-bottom: 1px solid #8b8b8b;
+  border-bottom: 1px solid #bebebe;
   color: #FEFEFE;
 }
 section.dark a:hover {
@@ -1592,9 +1600,21 @@ blockquote::before {
 blockquote::after {
   content: "\201D";
 }
+@media only screen and (min-width: 992px) {
+  blockquote {
+    max-width: 85%;
+    margin: 50px auto 0;
+  }
+}
 .attribution {
   margin: 60px 0 0;
   font-style: normal;
+}
+@media only screen and (min-width: 992px) {
+  .attribution {
+    max-width: 85%;
+    margin: 60px auto 0;
+  }
 }
 .attribution p {
   margin-bottom: 7px;
