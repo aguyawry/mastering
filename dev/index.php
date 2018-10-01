@@ -165,7 +165,7 @@
 
                 <p>Every tool in our mastering signal chain matters. Whether the gear is analog, digital, vintage or state of the art, each one has been hand-picked for what it can bring to the table.</p>
 
-                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Dangerous Music, Waves and Sonnox among others. Some add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
+                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Dangerous Music and Sonnox among others. Some add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
                 
                 <p>It all comes together to create an space where art meets audio and music comes to life.</p>
             </div>

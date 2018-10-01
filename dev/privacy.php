@@ -71,14 +71,10 @@
     </div>
 </section>
 
-<?php
- /*
-    Compiled from:
+<!-- Compiled from:
     https://www.bbb.org/greater-san-francisco/for-businesses/toolkits1/sample-privacy-policy/
     https://connectio.io/privacy-policy-generator/
- */
-?>
-
+--> 
 
 <?php
     include "bottom.php";
