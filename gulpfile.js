@@ -126,7 +126,7 @@ gulp.task('build-move', function() {
         'dev/*.ico',
         'dev/*.txt',
         'dev/.htaccess',
-        'dev/*.json',
+        // 'dev/*.json',
         'dev/Procfile'
     ];
 
