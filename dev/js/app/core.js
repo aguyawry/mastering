@@ -30,6 +30,7 @@ $(document).ready( function() {
 
     // smooth scroll
     $('header a, #sidr a').smoothScroll({
+        offset: -75,
         speed: 1000
     });
 

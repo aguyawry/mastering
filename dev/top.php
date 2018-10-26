@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+
+    <?php
+        function siteURL()
+        {
+            $root = (!empty($_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . '/';
+            return $root;
+        }
+        define('SITE_URL', siteURL() );
+    ?>
+
         <!-- build:js_top js/top.js -->
         <script src="js/app/analytics.js"></script>
         <!-- endbuild -->
@@ -51,7 +61,7 @@
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3PRKT"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
-        
+
         <header>
             <div class="container">
                 <div class="col-group">
@@ -59,17 +69,17 @@
                         <a id="brand" href="/">
                             <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
 
-                            <div id="title">    
+                            <div id="title">
                                 <h1>elson mastering</h1>
                                 <p class="tagline">art in audio</p>
                             </div>
                         </a>
 
                         <ul>
-                            <li><a href="#services">services</a></li>
-                            <li><a href="#studio">studio</a></li>
-                            <li><a href="#scott">scott</a></li>
-                            <li><a href="#contact">contact</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#services">services</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#studio">studio</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#scott">scott</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>
                         </ul>
 
                         <a href="#" class="toggle-button">&vellip;</a>

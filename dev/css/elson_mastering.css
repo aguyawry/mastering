@@ -1232,7 +1232,7 @@ body {
   background-color: transparent;
   color: #000000;
   font-family: 'Open Sans', Helvetica, sans-serif;
-  font-weight: normal;
+  font-weight: 300;
 }
 h1,
 h2,
@@ -1285,6 +1285,7 @@ ul.list-bullet {
 }
 li {
   font-size: 1.8rem;
+  line-height: 1.6;
   margin: 0 0 20px;
 }
 a {

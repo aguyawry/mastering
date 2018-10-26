@@ -1,9 +1,52 @@
+Options +FollowSymLinks -MultiViews
 DirectoryIndex index.php
+ErrorDocument 404 /index.php
+ErrorDocument 500 /index.php
+
+# Turn mod_rewrite on
 RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+## Hide .php extension snippet
+# To externally redirect /dir/foo.php to /dir/foo
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R,L]
 
 
-# Use PHP5.4 as default
-AddHandler application/x-httpd-php54 .php
+# To internally forward /dir/foo to /dir/foo.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ $1.php [L]
+# RewriteRule ^(.*)$ /index.php?/$1 [L]
+
+
+
+
+
+# FallbackResource /
+
+# Error pages - don't need this due to the above
+
+# RewriteRule ^(.*?)/?$ $1.php [L]
+
+
+# To remove www header
+# RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+# RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+
+## Hide .php extension
+# To externally redirect /dir/file.php to /dir/file
+# RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+# RewriteRule ^ /%1 [R=302,L,NE]
+
+# New Hide php extension
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_FILENAME}\.php -f
+# RewriteRule ^(.*)$ $1.php
+
 
 # Force https
 # RewriteEngine on
@@ -14,44 +57,14 @@ AddHandler application/x-httpd-php54 .php
 # </IfModule>
 
 
-# Non-existant pages to index
-Options +SymLinksIfOwnerMatch 
-RewriteCond %{REQUEST_FILENAME} !-f 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-
 # Error pages - don't need this due to the above
 #ErrorDocument 404 http://example.com/
 
-# Redirect requests from /index.php to root
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php
-RewriteRule ^index\.php$ / [L,R=301]
-
-# Redirect requests from /index to root
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index
-RewriteRule ^index$ / [L,R=301]
-
-
-# Redirect www to non-www
-#RewriteCond %{HTTP_HOST} ^www\.elsonmastering\.com$
-#RewriteRule ^/?$ "http\:\/\/elsonmastering\.com\/" [R=301,L]
-
 
 # Remove trailing slash
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{THE_REQUEST} \s(.+?)/+[?\s]
-RewriteRule ^(.+?)/$ /$1 [R=301,L]
-
-
-## Hide .php extension
-# To externally redirect /dir/file.php to /dir/file
-RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
-RewriteRule ^ /%1 [R=302,L,NE]
-
-# To internally forward /dir/file to /dir/file.php
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{DOCUMENT_ROOT}/$1\.php -f [NC]
-RewriteRule ^(.+?)/?$ /$1.php [L]
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{THE_REQUEST} \s(.+?)/+[?\s]
+# RewriteRule ^(.+?)/$ /$1 [R=301,L]
 
 
 
