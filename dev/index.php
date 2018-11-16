@@ -58,6 +58,83 @@
     <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
 </div>
 
+<section id="why" class="light">
+    <div class="container">
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <h2>why you need mastering</h2>
+                <p>You've been inspired to channel your creativity into songs, capturing </p>
+                
+                 <p>After taking them a step further with arranging and some poduction, you've captured your xxxxx by recording them and utlimately have mixes that now sound like what you envisoned</p>
+
+                 <p>Mastering can not only take those songs and make them sound better, but .... Here's how.<p>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-5">
+                <div class="service">
+                    <h3>Fresh Ears</h3>
+                    <p>Artists, producers and mixers can lose their objectivity after working on singles or albums for a long time. They count on me to bring fresh ears and an unbiased opinion to the project, with a simple focus on what's best for the music.</p>
+
+                    <p>Over time, it's common for established clients to reach out for guidance before they even starting recording. They leverage me as a trusted advisor throughout the project.</p>
+
+                    <p>Fresh ears also means that as a mastering engieer, I listen to lots of music across many generes in short periods of time. That allows me to have a pulse on current trends in both sonics and music production.</p>
+                </div>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-2">
+                <div class="service">
+                    <h3>Cohesive Albums</h3>
+                    <p>It's common for artists to record albums over a period of many months, in different studios with various recording and mixing engineers. Mixes can also end up in different file formats and on any number of physical mediums.</p>
+
+                    <p>Because of this, songs will naturally sound different. It's my job to address both the sonics and dynamics of each track individually, but also make sure they work in relation to each other, and within the context of an entire album.</p>
+
+                    <p>The result is a cohesive experience that engages the listener from start to finish.</p>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="col-group">
+            <div class="col-mb-12 col-5">
+                <div class="service">
+                <h3>Quality Tools</h3>
+                    <p>Many home or project studios may suffer from poor room acoustics. Even with the best gear money can buy, bad acoustics 
+                    
+                    With more and more records being made in home studios, the importance of mastering becomes even more critical. Acoustic imbalaances and </p>
+
+                    <p>Yes, I've got many flavors of equalizers, compressors and other gear that can create sonic magic, but I've also got an acoustically accurate listening environment and full range speakers that offer incredible clarity.</p>
+                </div>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-2">
+                <div class="service">
+                    <h3>Prep for Distribution</h3>
+                    <p>For clients making Compact Discs, we can create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players. Clients can download the same DDP image from us and listen to it with our software player.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <blockquote cite="https://coveredinbees.net/">
+                    <p>Scott is incredible to work with. Super nice dude and very professional. Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
+                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
+                </blockquote>
+
+                <div class="attribution">
+                    <p class="author name">Tristan Gallagher</p>
+                    <p class="author title">Multi-Instrumentalist, Producer</p>
+                    <p class="author credits">Covered in Bees, Man-Witch, Eggbot</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
 
 <section id="services" class="light">
     <div class="container">
