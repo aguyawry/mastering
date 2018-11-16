@@ -22,11 +22,11 @@
             <div class="col-mb-12">
                 <img src="img/studio/scott_1100.jpg" alt="Scott Elson">
 
-                <p>elson mastering specializes in providing high-quality audio mastering services across a wide variety of musical genres.</p>
+                <p>elson mastering specializes in providing high-quality audio mastering across a wide variety of musical genres.</p>
 
                 <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality. The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>                
 
-                <p>We regularly collaborate with artists, producers, engineers and labels in all parts of the world, and deliver audio ready for any format. Get in touch to find out how we can help with your next project, and send us a track for a complimentary mix evaluation or mastering sample.</p>
+                <p>Scott regularly collaborates with artists, producers and engineers from all parts of the world to deliver audio that is ready for any format. Get in touch to find out how he can help make your next record sound the best it possibly can.</p>
             </div>
 
             <div class="col-mb-12">
