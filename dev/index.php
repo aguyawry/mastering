@@ -64,7 +64,7 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>why you need mastering</h2>
-                <p>You've been inspired to channel your creativity into songs, capturing </p>
+                <p>You've been inspired to pour you heart and soul into creating... into songs, capturing </p>
                 
                  <p>After taking them a step further with arranging and some poduction, you've captured your xxxxx by recording them and utlimately have mixes that now sound like what you envisoned</p>
 
@@ -76,20 +76,20 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Fresh Ears</h3>
-                    <p>Artists, producers and mixers can lose their objectivity after working on singles or albums for a long time. They count on me to bring fresh ears and an unbiased opinion to the project, with a simple focus on what's best for the music.</p>
+                    <p>Artists, producers and mixers can lose their objectivity after working on records for a long time. They count on me to bring fresh ears and an unbiased opinion to the project, with a simple focus on what's best for the music.</p>
+
+                    <p>Fresh ears also means that as a mastering engieer, I get to listen to a lot of music across many genres in short periods of time. That allows me to have a pulse on a wide range of music production styles.</p>
 
                     <p>Over time, it's common for established clients to reach out for guidance before they even starting recording. They leverage me as a trusted advisor throughout the project.</p>
-
-                    <p>Fresh ears also means that as a mastering engieer, I listen to lots of music across many generes in short periods of time. That allows me to have a pulse on current trends in both sonics and music production.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Cohesive Albums</h3>
-                    <p>It's common for artists to record albums over a period of many months, in different studios with various recording and mixing engineers. Mixes can also end up in different file formats and on any number of physical mediums.</p>
+                    <p>It's common for artists to record albums over the course of many months, in different studios, and with various recording and mixing engineers. Mixes can also be delivered to mastering in every file format imaginable and on a variety of physical mediums.</p>
 
-                    <p>Because of this, songs will naturally sound different. It's my job to address both the sonics and dynamics of each track individually, but also make sure they work in relation to each other, and within the context of an entire album.</p>
+                    <p>Because of this, each mix will naturally sound different. It's my job to address both the sonics and dynamics of each track individually, but also make sure they work in relation to each other, and within the context of an entire album.</p>
 
                     <p>The result is a cohesive experience that engages the listener from start to finish.</p>
                 </div>
@@ -100,19 +100,23 @@
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <div class="service">
-                <h3>Quality Tools</h3>
-                    <p>Many home or project studios may suffer from poor room acoustics. Even with the best gear money can buy, bad acoustics 
+                <h3>The Studio</h3>
+                    <p>Many records are now being made in home or project studios with unreliable acoustics, making the importance of mastering even more critical.</p>
                     
-                    With more and more records being made in home studios, the importance of mastering becomes even more critical. Acoustic imbalaances and </p>
+                    <p>My purpose-built studio provides an acoustically precise environment where accurate sonic decisions are made. My clean signal path and full range speakers produce incredible clarity, and often reveal issues clients may not have heard.</p>
 
-                    <p>Yes, I've got many flavors of equalizers, compressors and other gear that can create sonic magic, but I've also got an acoustically accurate listening environment and full range speakers that offer incredible clarity.</p>
+                    <p>Everything in my mastering signal chain matters. Some gear adds color while some is transparent, so I wield it wisely - only using what's needed and appropriate. Whether it's analog, digital, vintage or state of the art, each peice of gear is hand-picked for what it can bring to the music.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Prep for Distribution</h3>
-                    <p>For clients making Compact Discs, we can create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players. Clients can download the same DDP image from us and listen to it with our software player.</p>
+                    <p>Mastering is the final step in the creative process and the first step in the manufacturing process. The goal is to not only create the best sounding masters of your music, but to also get them in the correct format for distribution.</p>
+                    
+                    <p>Mastering is often done at high resolution, and for some target formats like Vinyl and Mastered for iTunes, high resolution files are ideal or even required. Clients targeting streaming services or compact discs typically need lower resolution files.</p>
+
+                    <p>No matter what you need, I can create the right file in the right format from your masters. I also quality control everything that leaves the studio to make sure it's error free.</p>
                 </div>
             </div>
         </div>
