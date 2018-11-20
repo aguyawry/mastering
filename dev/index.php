@@ -64,11 +64,9 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>why you need mastering</h2>
-                <p>You've been inspired to pour you heart and soul into creating... into songs, capturing </p>
+                <p>Mastering is a blend of technology, psychoacoustics, musical intuition, and experienced ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
                 
-                 <p>After taking them a step further with arranging and some poduction, you've captured your xxxxx by recording them and utlimately have mixes that now sound like what you envisoned</p>
-
-                 <p>Mastering can not only take those songs and make them sound better, but .... Here's how.<p>
+                <p>While there are software plugins with mastering presets available, and even automated services based on artificial intelligence, here are some reasons you should have your music mastered by an experienced human like me.</p>
             </div>
         </div>
 
@@ -78,9 +76,9 @@
                     <h3>Fresh Ears</h3>
                     <p>Artists, producers and mixers can lose their objectivity after working on records for a long time. They count on me to bring fresh ears and an unbiased opinion to the project, with a simple focus on what's best for the music.</p>
 
-                    <p>Fresh ears also means that as a mastering engieer, I get to listen to a lot of music across many genres in short periods of time. That allows me to have a pulse on a wide range of music production styles.</p>
+                    <p>Fresh ears also means that as a mastering engieer, I listen to a lot of music across many genres in short periods of time. That allows me to have a pulse on a wide range of music production styles.</p>
 
-                    <p>Over time, it's common for established clients to reach out for guidance before they even starting recording. They leverage me as a trusted advisor throughout the project.</p>
+                    <p>Over time, it's common for established clients to reach out for sonic guidance throughout their project. I become a trusted advisor and sounding board from inception.</p>
                 </div>
             </div>
 
@@ -114,9 +112,9 @@
                     <h3>Prep for Distribution</h3>
                     <p>Mastering is the final step in the creative process and the first step in the manufacturing process. The goal is to not only create the best sounding masters of your music, but to also get them in the correct format for distribution.</p>
                     
-                    <p>Mastering is often done at high resolution, and for some target formats like Vinyl and Mastered for iTunes, high resolution files are ideal or even required. Clients targeting streaming services or compact discs typically need lower resolution files.</p>
+                    <p>Mastering is often done at high resolution, and for some formats like Vinyl and Mastered for iTunes, high resolution files are ideal or even required. Clients targeting streaming services or compact discs typically need lower resolution files.</p>
 
-                    <p>No matter what you need, I can create the right file in the right format from your masters. I also quality control everything that leaves the studio to make sure it's error free.</p>
+                    <p>No matter where your music is headed, I can create the right file in the right format from your masters. I also quality control everything that leaves the studio to make sure it's error free.</p>
                 </div>
             </div>
         </div>
