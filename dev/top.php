@@ -76,8 +76,8 @@
                         </a>
 
                         <ul>
+                            <li><a href="<?php echo SITE_URL ?>#why">why</a></li>
                             <li><a href="<?php echo SITE_URL ?>#services">services</a></li>
-                            <li><a href="<?php echo SITE_URL ?>#studio">studio</a></li>
                             <li><a href="<?php echo SITE_URL ?>#scott">scott</a></li>
                             <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>
                         </ul>

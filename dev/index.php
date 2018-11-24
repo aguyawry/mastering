@@ -13,7 +13,7 @@
 
             <div class="col-mb-12">
                 <h2 class="tagline">Your music is your story.</h2>
-                <h2 class="tagline">We’re all ears.</h2>
+                <h2 class="tagline">I'm all ears.</h2>
                 <!-- <h3>Superior mastering.</h3>
                 <h3>For anyone.</h3>
                 <h3>Anywhere.</h3> -->
@@ -22,11 +22,15 @@
             <div class="col-mb-12">
                 <img src="img/studio/scott_1100.jpg" alt="Scott Elson">
 
-                <p>elson mastering specializes in providing high-quality audio mastering across a wide variety of musical genres.</p>
+                <p>Welcome to elson mastering.</p>
+                
+                <p>I'm Scott Elson - an audio mastering engineer who collaborates with artists, producers and engineers from a wide range of musical genres located in all parts of the world.</p>
 
-                <p>Mastering engineer Scott Elson is dedicated to making every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality. The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>                
-
-                <p>Scott regularly collaborates with artists, producers and engineers from all parts of the world to deliver audio that is ready for any format. Get in touch to find out how he can help make your next record sound the best it possibly can.</p>
+                <p>My goal is to make every client’s artistic vision a sonic reality by bringing out the absolute best in musicality and sound quality.</p>
+                
+                <p>The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>
+                
+                <p>Get in touch to find out how I can help make your next record sound the best it possibly can.</p>
             </div>
 
             <div class="col-mb-12">
@@ -64,9 +68,9 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>why you need mastering</h2>
-                <p>Mastering is a blend of technology, psychoacoustics, musical intuition, and experienced ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
+                <p>Mastering is a blend of musical intuition, psychoacoustics, technology, and seasoned ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
                 
-                <p>While there are software plugins with mastering presets available, and even automated services based on artificial intelligence, here are some reasons you should have your music mastered by an experienced human like me.</p>
+                <p>While there are plenty of plugins with mastering presets available, and even automated services leveraging artificial intelligence, here are some reasons you should have your music mastered by an experienced human like me.</p>
             </div>
         </div>
 
@@ -138,15 +142,23 @@
 </section>
 
 
-<section id="services" class="light">
+<div class="jarallax" data-jarallax data-speed="0.3" data-img-position="20% 10%">
+    <img class="jarallax-img" src="img/studio/vu.jpg" alt="VU Meters">
+</div>
+
+
+<section id="services" class="dark">
     <div class="container">
 
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>services</h2>
-                <p>Mastering is a partnership between the mastering engineer and the client. At elson mastering, we care about the finished product as much as you do, and will stop at nothing to get it right.</p>
                 
-                <p>While a lot can be accomplished in mastering, the best place to start is with a well-balanced mix. Along with the services below, we are always happy to offer complementary mix assessments for potential clients. Upload a track via our DropBox account to get the process started.</p>
+                <p>While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix.</p>
+                
+                <p>Along with the services below, I am always happy to offer complementary mix assessments for potential clients.</p>
+
+                <p>Upload a track via my DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
                     <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
@@ -158,14 +170,14 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Mastering</h3>
-                    <p>Mastering is the final creative step in the audio post-production process. We'll fine tune the sonic balance, address any technical issues, and make sure your music sounds great across all systems, media formats and digital delivery services. Our mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video.</p>
+                    <p>Mastering is the final creative step in the audio post-production process. I'll fine tune the sonic balance, address any technical issues, and make sure your music sounds great across all systems, media formats and digital delivery services. My mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Mastered for iTunes</h3>
-                    <p>We are an Apple sanctioned <a href="https://www.apple.com/itunes/mastered-for-itunes/" class="text" rel="external">Mastered for iTunes (MFiT)</a> studio. For a release to be officially badged as Mastered for iTunes, the masters delivered to Apple must be created by an engineer on their official Mastered for iTunes Provider List. This ensures the engineer has followed Apple's protocols and the audio has been prepared for encoding in their AAC file format without error.</p>
+                    <p>I am an Apple sanctioned <a href="https://www.apple.com/itunes/mastered-for-itunes/" class="text" rel="external">Mastered for iTunes (MFiT)</a> engineer. For a release to be officially badged as Mastered for iTunes, the masters delivered to Apple must be created by an engineer on their official Mastered for iTunes Provider List. This ensures the engineer has followed Apple's protocols and the audio has been prepared for encoding in their AAC file format without error.</p>
                 </div>
             </div>
         </div>
@@ -175,14 +187,14 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                 <h3>Vinyl Cutting Masters</h3>
-                    <p>We often deliver high resolution masters to vinyl cutting houses properly formatted and documented for each side of a record. We can also identify and address potential sonic issues specific to vinyl such as excessive sibilance or high end, low frequency imaging problems, and considerations in track order due to the complexity of the music.</p>
+                    <p>I often deliver high resolution masters to vinyl cutting houses properly formatted and documented for each side of a record. I can also identify and address potential sonic issues specific to vinyl such as excessive sibilance or high end, low frequency imaging problems, and considerations in track order due to the complexity of the music.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
-                    <h3>DDPi Masters</h3>
-                    <p>For clients making Compact Discs, we can create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players. Clients can download the same DDP image from us and listen to it with our software player.</p>
+                    <h3>Transfers and Restoration</h3>
+                    <p>You may not be able to play your cassettes, DATs or vinyl records that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring it to a digital file. From there it's possible to do remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
                 </div>
             </div>
         </div>
@@ -191,15 +203,15 @@
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <div class="service">
-                    <h3>CD PreMasters</h3>
-                    <p>A physical PreMaster CD (PMCD) may be used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. If a DDPi Master isn't an option, we can create a CD PreMaster and error check the physical layer of the disc to ensure its quality. We can also create additional CD reference discs for listening purposes only.</p>
+                    <h3>DDPi Masters</h3>
+                    <p>For clients making Compact Discs, I can create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players. Clients can download the same DDP image from me and listen to it with my software player.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
-                    <h3>Transfers and Restoration</h3>
-                    <p>You may not be able to play your cassettes, DATs or vinyl records that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring it to a digital file. From there it's possible to do remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
+                    <h3>CD PreMasters</h3>
+                    <p>A physical PreMaster CD (PMCD) may be used in CD duplicaton where smaller runs of discs are being produced by burning and not stamping. If a DDPi Master isn't an option, I can create a CD PreMaster and error check the physical layer of the disc to ensure its quality. I can also create additional CD reference discs for listening purposes only.</p>
                 </div>
             </div>
         </div>
@@ -223,7 +235,8 @@
     </div>
 </section>
 
-
+<?php
+/*
 <div class="jarallax" data-jarallax data-speed="0.3" data-img-position="20% 10%">
     <img class="jarallax-img" src="img/studio/vu.jpg" alt="VU Meters">
 </div>
@@ -267,8 +280,8 @@
         </div>
     </div>
 </section>
-
-
+*/
+?>
 
 <div class="jarallax" data-jarallax data-speed="0.3">
     <img class="jarallax-img" src="img/brand/cover-background2.jpg" alt="">
@@ -280,23 +293,23 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>scott elson</h2>
+                <h2>scott</h2>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12">
-                <p>Scott grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led to the guitar, ongoing band memberships and an inclination to capture the music that surrounded him.</p>
+                <p>I grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led me to the guitar, ongoing band memberships and an inclination to capture the music that surrounded me.</p>
 
                 <img class="floater" src="img/studio/scott_chair.jpg" alt="Scott Elson - Audio Mastering">
 
-                <p>After completing degrees in both <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a class="text" href="https://www.berklee.edu/" rel="external">Music</a>, Scott joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. His initial duties consisted of digital editing and creation of final production masters, but he was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of his own.</p>
+                <p>After completing degrees in both <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a class="text" href="https://www.berklee.edu/" rel="external">Music</a>, I joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. My initial duties consisted of digital editing and creation of final production masters, but I was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of my own.</p>
 
-                <p>Scott founded elson mastering with the goal of making quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, he brings a unique combination of technical expertise and creative feel to every record he is a part of.</p>
+                <p>I founded elson mastering with the goal of making high-quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, I bring a unique combination of technical expertise and creative feel to every record I am a part of.</p>
 
-                <p>Over the years, artists at every stage in their career have trusted Scott to put the finishing touches on their records. His commitment to always serve the music comes through in every project.</p>
+                <p>Over the years, artists at every stage in their career have trusted me to put the finishing touches on their records. My commitment to always serve the music comes through in every project.</p>
 
-                <p>Scott is a member of both the <a class="text" href="http://www.aes.org/" rel="external">Audio Engineering Society</a> and <a class="text" href="https://www.grammy.com/recording-academy" rel="external">The Recording Academy’s</a> Producers and Engineers Wing where he votes in the annual Grammy Awards.</p>
+                <p>I am a member of both the <a class="text" href="http://www.aes.org/" rel="external">Audio Engineering Society</a> and <a class="text" href="https://www.grammy.com/recording-academy" rel="external">The Recording Academy’s</a> <a class="text" href="https://www.grammy.com/recording-academy/membership/recording-academy/about/chapters/producers-engineers-wing" rel="external">Producers and Engineers Wing</a> where I vote in the annual <a class="text" href="https://www.grammy.com/" rel="external">Grammy Awards</a>.</p>
             </div>
 
             <div class="col-mb-12 col-col-ld-12">
@@ -331,11 +344,11 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>Every project is unique. Call, email or fill out our <a class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">inquiry form</a> to get a quote and start the booking process.</p>
+                <p>Every project is unique. Call, email or fill out my <a class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">project inquiry form</a> to get a quote and start the booking process.</p>
                 
-                <p>As a supporter of the independent music community, we offer competitive rates for unsigned bands. We'll do our best to work with your budget.</p>
+                <p>As a supporter of the independent music community, I offer competitive rates for unsigned bands. I'll do my best to work with your budget.</p>
                 
-                <p>We also have a large network of talented musicians and producers, so please reach out if we can help make a connection.</p>
+                <p>I also have a large network of talented musicians and producers, so please reach out if I can help make a connection.</p>
             </div>
 
             <div class="col-mb-12 col-offset-1 col-5">
