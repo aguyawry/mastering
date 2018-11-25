@@ -1300,22 +1300,19 @@ hr {
   width: 80%;
 }
 iframe {
-  border: 1px solid #444;
-  min-height: 625px;
-}
-@media only screen and (min-width: 768px) {
-  iframe {
-    min-height: 760px;
-  }
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 600px;
+  min-width: 100%;
 }
 @media only screen and (min-width: 992px) {
   iframe {
-    min-height: 525px;
+    height: 943px;
   }
 }
 @media only screen and (min-width: 1200px) {
   iframe {
-    min-height: 525px;
+    height: 763px;
   }
 }
 .jarallax {

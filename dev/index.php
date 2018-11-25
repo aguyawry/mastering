@@ -153,12 +153,12 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h2>services</h2>
-                
-                <p>While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix.</p>
-                
-                <p>Along with the services below, I am always happy to offer complementary mix assessments for potential clients.</p>
 
-                <p>Upload a track via my DropBox account to get the process started.</p>
+                <p>My services are focused in two main areas - audio enhancement to create high-quality masters, and preparation of those masters for different distribution formats.</p>
+                
+                <p>While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix. Along with the services below, I am always happy to offer complementary mix assessments for potential clients.</p>
+
+                <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. Upload a track via my DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
                     <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
@@ -170,14 +170,14 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>Mastering</h3>
-                    <p>Mastering is the final creative step in the audio post-production process. I'll fine tune the sonic balance, address any technical issues, and make sure your music sounds great across all systems, media formats and digital delivery services. My mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video.</p>
+                    <p>Mastering is the final creative step in the audio post-production process. I'll fine tune the sonic balance of your mixes, address any technical issues, and make sure your music sounds great when played on any system and in any format. I can also work with submixes or stems of your tracks if you have concerns about delivering the right mix for mastering.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Mastered for iTunes</h3>
-                    <p>I am an Apple sanctioned <a href="https://www.apple.com/itunes/mastered-for-itunes/" class="text" rel="external">Mastered for iTunes (MFiT)</a> engineer. For a release to be officially badged as Mastered for iTunes, the masters delivered to Apple must be created by an engineer on their official Mastered for iTunes Provider List. This ensures the engineer has followed Apple's protocols and the audio has been prepared for encoding in their AAC file format without error.</p>
+                    <p>I am an Apple approved <a href="https://www.apple.com/itunes/mastered-for-itunes/" class="text" rel="external">Mastered for iTunes (MFiT)</a> engineer. For a release to be officially badged as Mastered for iTunes, the masters delivered to Apple must be created by an engineer on their official Mastered for iTunes Provider List. This ensures the engineer has followed Apple's protocols and the audio has been prepared for encoding in their AAC file format without error.</p>
                 </div>
             </div>
         </div>
@@ -298,11 +298,14 @@
         </div>
 
         <div class="col-group">
-            <div class="col-mb-12">
+            <div class="col-12 col-dt-6">
+                <!-- <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm:" frameborder="0" allowtransparency="true"></iframe> -->
+
+                
                 <p>I grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led me to the guitar, ongoing band memberships and an inclination to capture the music that surrounded me.</p>
 
-                <img class="floater" src="img/studio/scott_chair.jpg" alt="Scott Elson - Audio Mastering">
-
+                <!-- <img src="img/studio/scott_chair.jpg" alt="Scott Elson - Audio Mastering"> -->
+                
                 <p>After completing degrees in both <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> and <a class="text" href="https://www.berklee.edu/" rel="external">Music</a>, I joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios in 2001 as a staff engineer. My initial duties consisted of digital editing and creation of final production masters, but I was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of my own.</p>
 
                 <p>I founded elson mastering with the goal of making high-quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, I bring a unique combination of technical expertise and creative feel to every record I am a part of.</p>
@@ -310,6 +313,10 @@
                 <p>Over the years, artists at every stage in their career have trusted me to put the finishing touches on their records. My commitment to always serve the music comes through in every project.</p>
 
                 <p>I am a member of both the <a class="text" href="http://www.aes.org/" rel="external">Audio Engineering Society</a> and <a class="text" href="https://www.grammy.com/recording-academy" rel="external">The Recording Academy’s</a> <a class="text" href="https://www.grammy.com/recording-academy/membership/recording-academy/about/chapters/producers-engineers-wing" rel="external">Producers and Engineers Wing</a> where I vote in the annual <a class="text" href="https://www.grammy.com/" rel="external">Grammy Awards</a>.</p>
+            </div>
+
+            <div class="col-12 col-dt-5 col-dt-offset-1">
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:s5q4izow8slvdvg67mx9ne535:playlist:6r76CYDHrMVI8oJ7yhauDq:" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
             </div>
 
             <div class="col-mb-12 col-col-ld-12">
