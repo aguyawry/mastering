@@ -34,12 +34,6 @@
             </div>
 
             <div class="col-mb-12">
-                <div class="btn-row center">
-                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
-                </div>
-            </div>
-
-            <div class="col-mb-12">
                 <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
                     <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
                     <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
@@ -53,6 +47,12 @@
                 </div>
             </div>
             
+            <div class="col-mb-12">
+                <div class="btn-row center">
+                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
@@ -235,53 +235,6 @@
     </div>
 </section>
 
-<?php
-/*
-<div class="jarallax" data-jarallax data-speed="0.3" data-img-position="20% 10%">
-    <img class="jarallax-img" src="img/studio/vu.jpg" alt="VU Meters">
-</div>
-
-
-<section id="studio" class="dark">
-    <div class="container">
-
-        <div class="col-group">
-            <div class="col-mb-12">
-                <h2>studio</h2>
-            </div>
-        </div>
-
-        <div class="col-group">
-            <div class="col-mb-12 col-6">
-                <p>Our purpose-built mastering suite offers startlingly accurate acoustics, giving us the perfect environment to make informed sonic decisions about how make your music shine.</p>
-
-                <p>Every tool in our mastering signal chain matters. Whether the gear is analog, digital, vintage or state of the art, each one has been hand-picked for what it can bring to the table.</p>
-
-                <p>Some of our favorite tools are made by the likes of PMC, Bryston, Mytek, Manley, SSL, iZotope, Dangerous Music and Sonnox among others. Some add color while others are transparent, so we wield gear wisely - only using what’s needed and appropriate.</p>
-                
-                <p>It all comes together to create an space where art meets audio and music comes to life.</p>
-            </div>
-
-            <div class="col-mb-12 col-6">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm:" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
-            </div>
-
-            <div class="col-mb-12">
-                <blockquote cite="https://www.johnratcliff.com/">
-                    <p>I have worked with Scott on several occasions. He has an excellent ear for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
-                </blockquote>
-
-                <div class="attribution">
-                    <p class="author name">John Ratcliff</p>
-                    <p class="author title">Producer, Musician</p>
-                    <p class="author credits">a-ha, Joshua Jones</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-*/
-?>
 
 <div class="jarallax" data-jarallax data-speed="0.3">
     <img class="jarallax-img" src="img/brand/cover-background2.jpg" alt="">
@@ -299,9 +252,6 @@
 
         <div class="col-group">
             <div class="col-12 col-dt-6">
-                <!-- <iframe src="https://open.spotify.com/embed?uri=spotify:user:aguyawry:playlist:3bUJjfKzTqFwfu2uOxmhsm:" frameborder="0" allowtransparency="true"></iframe> -->
-
-                
                 <p>I grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led me to the guitar, ongoing band memberships and an inclination to capture the music that surrounded me.</p>
 
                 <!-- <img src="img/studio/scott_chair.jpg" alt="Scott Elson - Audio Mastering"> -->
