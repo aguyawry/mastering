@@ -70,7 +70,7 @@
                 <h2>why you need mastering</h2>
                 <p>Mastering is a blend of musical intuition, psychoacoustics, technology, and seasoned ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
                 
-                <p>While there are plenty of plugins with mastering presets available, and even automated services leveraging artificial intelligence, here are some reasons you should have your music mastered by an experienced human like me.</p>
+                <p>There are plenty of plugins with mastering presets available, and even automated services leveraging artificial intelligence, but here are some reasons you should have your music mastered by an experienced human like me.</p>
             </div>
         </div>
 
@@ -80,20 +80,16 @@
                     <h3>Fresh Ears</h3>
                     <p>Artists, producers and mixers can lose their objectivity after working on records for a long time. They count on me to bring fresh ears and an unbiased opinion to the project, with a simple focus on what's best for the music.</p>
 
-                    <p>Fresh ears also means that as a mastering engieer, I listen to a lot of music across many genres in short periods of time. That allows me to have a pulse on a wide range of music production styles.</p>
-
-                    <p>Over time, it's common for established clients to reach out for sonic guidance throughout their project. I become a trusted advisor and sounding board from inception.</p>
+                    <p>Fresh ears also means that as a mastering engieer, I listen to a lot of music across many genres in short periods of time. That allows me to have a pulse on a wide range of music production styles and sonic treatments.</p>
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Cohesive Albums</h3>
-                    <p>It's common for artists to record albums over the course of many months, in different studios, and with various recording and mixing engineers. Mixes can also be delivered to mastering in every file format imaginable and on a variety of physical mediums.</p>
+                    <p>It's common for artists to record albums over the course of many months, in many studios, and with many engineers. Because of this, each mix will naturally sound different.</p>
 
-                    <p>Because of this, each mix will naturally sound different. It's my job to address both the sonics and dynamics of each track individually, but also make sure they work in relation to each other, and within the context of an entire album.</p>
-
-                    <p>The result is a cohesive experience that engages the listener from start to finish.</p>
+                    <p>It's my job to address the sonics and dynamics of each track individually, making sure they work in relation to each other, and within the context of an entire album. The result is a cohesive experience that engages the listener from start to finish.</p>
                 </div>
             </div>
         </div>
@@ -103,11 +99,11 @@
             <div class="col-mb-12 col-5">
                 <div class="service">
                 <h3>The Studio</h3>
-                    <p>Many records are now being made in home or project studios with unreliable acoustics, making the importance of mastering even more critical.</p>
+                    <p>Many records are now made in home or project studios with unreliable acoustics, making the importance of mastering even more critical.</p>
                     
                     <p>My purpose-built studio provides an acoustically precise environment where accurate sonic decisions are made. My clean signal path and full range speakers produce incredible clarity, and often reveal issues clients may not have heard.</p>
 
-                    <p>Everything in my mastering signal chain matters. Some gear adds color while some is transparent, so I wield it wisely - only using what's needed and appropriate. Whether it's analog, digital, vintage or state of the art, each peice of gear is hand-picked for what it can bring to the music.</p>
+                    <p>Some gear adds color while some is transparent. I only use what's needed and appropriate. Whether it's analog, digital, vintage or state of the art, each peice of gear is hand-picked for what it can bring to the music.</p>
                 </div>
             </div>
 
@@ -116,9 +112,7 @@
                     <h3>Prep for Distribution</h3>
                     <p>Mastering is the final step in the creative process and the first step in the manufacturing process. The goal is to not only create the best sounding masters of your music, but to also get them in the correct format for distribution.</p>
                     
-                    <p>Mastering is often done at high resolution, and for some formats like Vinyl and Mastered for iTunes, high resolution files are ideal or even required. Clients targeting streaming services or compact discs typically need lower resolution files.</p>
-
-                    <p>No matter where your music is headed, I can create the right file in the right format from your masters. I also quality control everything that leaves the studio to make sure it's error free.</p>
+                    <p>Mastering is usually done at high resolution, but masters often need conversion and further preparation for delivery. No matter where your music is headed, I can create the right file in the right format from your masters. I also quality control everything that leaves the studio to make sure it's error free.</p>
                 </div>
             </div>
         </div>
