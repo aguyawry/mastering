@@ -14,9 +14,9 @@
             <div class="col-mb-12">
                 <h2>rates</h2>
 
-                <p>Please find rates for services below. I realize every project is unique and I will do my best to work with your budget, so don't hesitate to reach out.<p>
+                <p>Please find rates for services below. I realize every project is unique and I will do my best to work with your budget, so don't hesitate to reach out. If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
 
-                <h3>Mastering</h3>
+                <h3>mastering</h3>
 
                 <p>All mastering rates include:</p>
             </div>
@@ -24,9 +24,9 @@
             <div class="col-mb-12 col-6">
 
                 <ul class="list-bullet">
-                    <li><strong>Mix Assessments</strong><br>The best place to start in mastering is with a good mix. If you are unsure about your mixes, I am happy to give them a listen and provide feedback on potential enhancements.</li>
+                    <li><strong>Mix Assessments</strong><br>The best masters start with the best mixes. If you are unsure about your mixes, I am happy to give them a listen and provide feedback on potential enhancements.</li>
 
-                    <li><strong>File Transfers</strong><br>You can easily send your mixes to me by uploading them via my DropBox account. I'll deliver all mastered audio the same way.</li>
+                    <li><strong>File Transfers</strong><br>You can easily send your mixes to me by <a href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">uploading them via my secure DropBox account</a>. I deliver all mastered audio via DropBox as well.</li>
 
                     <li><strong>Session Set Up</strong><br>The time it takes to set up my gear and prepare your audio for the mastering session.</li>
 
@@ -36,13 +36,13 @@
 
             <div class="col-mb-12 col-6">
                 <ul class="list-bullet">
-                    <li><strong>Sample Rate / Bit Depth Conversions</strong><br>It's possible you'll need different file formats for various purposes - like 44.1 kHz / 16 bit files for streaming services or 48 kHz / 24 bit for video.</li>
+                    <li><strong>Format Conversions</strong><br>It's possible you'll need different file formats for various purposes - like 44.1 kHz / 16 bit files for streaming services or 48 kHz / 24 bit for video.</li>
 
-                    <li><strong>Two Rounds of Revisions</strong><br>Most projects don't require revisions, but I'll include up to 2 revisions per track. Further revisions are billed hourly at $150/hr.</li>
+                    <li><strong>Free Revisions</strong><br>Most projects don't require revisions, but if you do want to tweak something, all revisions are free as long as they are requested within 30 days of masters being delivered. Further revisions are billed hourly at attended mastering rates.</li>
 
-                    <li><strong>Archives</strong><br>While I highly recommend making mutliple copies of your mastered audio and keeping them in different places, I'll keep your audio archived for two years just in case.</li>
+                    <li><strong>Archives</strong><br>While I highly recommend making multiple copies of your mastered audio and keeping them in different places, I'll keep your audio archived for a minimum of two years.</li>
 
-                    <li><strong>Communications</strong><br>Email correspondence, video chat, phone calls...</li>
+                    <li><strong>Communications</strong><br>Emails, video chats, phone calls...</li>
                 </ul>
             </div>
         </div>
@@ -55,67 +55,67 @@
             </div>
 
             <div class="col-mb-12 col-6">    
-                <p>Unattended mastering is billed per audio minute, with a 5 audio minute minimum.</p>
-                <p><strong>Example 1</strong><br>
-                New client, 30 minutes of audio, standard mastering:<br>
-                30 minutes x $15 per audio minute = $450
-                </p>
+                <p>Unattended mastering is billed per audio-minute, with a 5 audio-minute minimum.</p>
 
-                <p><strong>Example 2</strong><br>
-                Returning client, 3 minutes of audio, stem mastering<br>
-                5 minutes (minimum) x $18 per audio minute = $90
-                </p>
-            </div>
-
-            <div class="col-mb-12 col-6">
                 <table>
                     <tr>
-                        <td colspan='2'><strong>Standard Mastering</strong></td>
-                    </tr>
-                    <tr>
                         <td>&bull; New Clients</td>
-                        <td>$15</td>
+                        <td>$14</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td>$13</td>
+                        <td>$12</td>
                     </tr>
                     <tr>
-                        <td>&bull; TV / Instrumentals / Radio Edits</td>
+                        <td>&bull; TV Tracks / Instrumentals / Radio Edits</td>
                         <td>$4</td>
                     </tr>
                     <tr>
                         <td>&nbsp;</td>
                     </tr>
-                    <tr>
-                        <td colspan='2'><strong>Stem Mastering</strong></td>
-                    </tr>
-                    <tr>
-                        <td>&bull; New Clients</td>
-                        <td>$20</td>
-                    </tr>
-                    <tr>
-                        <td>&bull; Returning Clients</td>
-                        <td>$18</td>
-                    </tr>
-                    <tr>
-                        <td>&bull; TV / Instrumentals / Radio Edits</td>
-                        <td>$6</td>
-                    </tr>
                 </table>
+
+                <p>Please contact me if you are interested in Stem Mastering.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <ul class="list-bullet">
+                    <li>The Client is the person or entity who is paying the bill. This could be the artist, producer, label or other.</li>
+                    <li>TV Tracks, Instrumentals and Radio Edits are assumed to be derived from the same mixes as their full mix counterparts and will get the same basic treatment in mastering.</li>
+                    <li>Mix changes requesting the same mastering settings are treated as revisions.</li>
+                </ul>
             </div>
         </div>
 
-        <div class="col-group">    
-            <div class="col-mb-12">
-                <p><small><sup>1</sup> The Client is the person or entity who is paying the bill. This could be the artist, producer, label or other.</small></p>
-            </div>
-        </div>
 
         <div class="col-group">    
             <div class="col-mb-12">
                 <h4>Attended Mastering</h4>
-                <p>Attended mastering sessions are billed hourly at $150/hr.</p>
+                <p>Attended mastering sessions are billed hourly at $150/hr for new clients and $130/hr for returning clients.</p>
+            </div>
+        </div>
+
+        <div class="col-group">    
+            <div class="col-mb-12">
+                <h4>Mastered for iTunes</h4>
+                <p>Additional $4 per audio minute. Your mixes must be delivered to mastering in a 24 bit format.</p>
+                <p>All Mastered for iTunes tracks will be encoded using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are also auditioned to make sure there are no audible distortions induced from the process.</p>
+                <p>You do not need Mastered for iTunes files to release your music on iTunes - only if you want your release to have the "Mastered for iTunes" badge.</p>
+
+            </div>
+        </div>
+
+        <div class="col-group">    
+            <div class="col-mb-12">
+                <h4>Restoration</h4>
+                <p>Audio restoration projects can vary greatly in scope and are quoted per project. Please get in touch to discuss your specific audio restoration needs.</p>
+            </div>
+          </div>
+
+        <div class="col-group">    
+            <div class="col-mb-12">
+                <h4>Digital Editing</h4>
+                <p>Audio restoration projects can vary greatly in scope and are quoted per project. Please get in touch to discuss your specific audio restoration needs.</p>
             </div>
         </div>
 
