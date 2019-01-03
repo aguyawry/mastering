@@ -152,7 +152,7 @@
                 
                 <p>While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix. Along with the services below, I am always happy to offer complementary mix assessments for potential clients.</p>
 
-                <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. Upload a track via my DropBox account to get the process started.</p>
+                <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. Upload a track via my secure DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
                     <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>

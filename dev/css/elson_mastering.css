@@ -1266,7 +1266,7 @@ h3 {
 }
 h4 {
   font-size: 2.8rem;
-  margin: 50px 0 25px;
+  margin: 35px 0 25px;
   line-height: 1.1;
 }
 @media only screen and (min-width: 768px) {
@@ -1331,6 +1331,11 @@ td {
   font-size: 1.8rem;
   padding: 3px 15px;
   text-align: left;
+}
+th.currency,
+td.currency {
+  padding-right: 0;
+  text-align: right;
 }
 .jarallax {
   height: 500px;
