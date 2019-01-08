@@ -188,7 +188,7 @@
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>Transfers and Restoration</h3>
-                    <p>You may not be able to play your cassettes, DATs or vinyl records that have been sitting in the closet for a decade. The first step to preserving that audio is transferrring it to a digital file. From there it's possible to do remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
+                    <p>You may not be able to play your cassettes, DATs or vinyl records that have been sitting in the closet for a decade. The first step to preserving that audio is transferring it to a digital file. From there it's possible to remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
                 </div>
             </div>
         </div>

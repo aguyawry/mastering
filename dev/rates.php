@@ -31,14 +31,16 @@
                     <li><strong>Session Set Up</strong><br>The time it takes to set up my gear and prepare your audio for the mastering session.</li>
 
                     <li><strong>High Resolution Files</strong><br>All mastering is done at high resolution. Any other file formats you need will be created from these high resolution masters.</li>
+
+                    <li><strong>Format Conversions</strong><br>It's possible you'll need different file formats for various purposes - like 44.1 kHz / 16 bit files for streaming services or 48 kHz / 24 bit for video.</li>
                 </ul>
             </div>
 
             <div class="col-mb-12 col-6">
                 <ul class="list-bullet">
-                    <li><strong>Format Conversions</strong><br>It's possible you'll need different file formats for various purposes - like 44.1 kHz / 16 bit files for streaming services or 48 kHz / 24 bit for video.</li>
-
                     <li><strong>Revisions</strong><br>Most projects don't require revisions, but if you do want to tweak something, all revisions are free as long as they are requested within 30 days of masters being delivered. Further revisions are billed hourly at attended mastering rates.</li>
+
+                    <li><strong>Quality Control</strong><br>ldskgh lsgfh slf lksh lasflkashdl fks dfkls dlfksl dfkjh lskfh lksfdh lksdhfsd f flkjsdhfl kdsjhfl kd fkjsfl kjshdf lkshfl ksjdhf </li>
 
                     <li><strong>Archives</strong><br>While I highly recommend making multiple copies of your mastered audio and keeping them in different places, I'll keep your audio archived for a minimum of two years.</li>
 
@@ -159,55 +161,69 @@
         </div>
 
 
-
-
-
         <div class="col-group">    
             <div class="col-mb-12">
                 <h3>production masters</h3>
-                <p>Once mastering is complete and all your mastered audio has been approved, I can then make 
-                    
-                your audio may need further preparation for distribution depending on the target formats.</p>
+                <p>Once mastering is complete and all your mastered audio has been approved, your audio may need further preparation or verification depending on the target distribution format.</p>
+
+                <p>Production services below are billed at $25 + $1 per audio-minute USD.</p>
             </div>
 
             <div class="col-mb-12">
                 <h4>Mastered for iTunes</h4>
                 
-                <p>Additional $3 USD per audio-minute.</p>
+                <p>You do not need Mastered for iTunes files to release your music on iTunes - only if you want your release to have the "Mastered for iTunes" badge.</p>
+                
+                <p>I follow Apple's protocols required for mastering engineers by encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are also auditioned to make sure there are no audible distortions induced from encoding.</p>
+
+                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be delivered at 24 bit for sending to iTunes.</p>
+            </div>
+
+
+            <div class="col-mb-12">
+                <h4>Vinyl Production Masters</h4>
                 
                 <p>You do not need Mastered for iTunes files to release your music on iTunes - only if you want your release to have the "Mastered for iTunes" badge.</p>
                 
-                <p>I follow Apple's protocols for mastering engineers by encoding all Mastered for iTunes tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are also auditioned to make sure there are no audible distortions induced from encoding.</p>
+                <p>I follow Apple's protocols required for mastering engineers by encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are also auditioned to make sure there are no audible distortions induced from encoding.</p>
 
-                <p>Your mixes must be delivered to mastering in a 24 bit format. Mastered audio will be delivered at 24 bit for sending to iTunes.</p>
+                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be delivered at 24 bit for sending to iTunes.</p>
+            </div>
+
+
+            <div class="col-mb-12">
+                <h4>DDPi Masters for Compact Disc</h4>
+                
+                <p>For clients making Compact Discs, I create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players.</p>
+
+                <p>Tracks will be sequenced in your desired order with the appropriate gaps, fades or crossfades. Any optional metadata such as ISRC codes and CD-Text information can also be added. This is all then combined into a digital image of the Compact Disc.</p>
+                
+                <p>Clients can download the exact same image and listen to it with my included software player, which also allows them to burn their own reference discs.</p>
             </div>
 
             <div class="col-mb-12">
-                <h4>DDPi Masters</h4>
+                <h4>Premaster CDs</h4>
                 
-                <p>For clients making Compact Discs, I can create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players.</p>
-                
-                <p>Clients can download the exact same same DDP image from me and listen to it with my software player.</p>
-            </div>
-
-            <div class="col-mb-12">
-                <h4>CD Premasters</h4>
-                
-                <p>Foo</p>
+                <p>A PreMaster CD (PMCD) is a specially formatted, recordable Compact Disc designed to be sent to a CD pressing plant for replication. I do not recommend using this format for making Compact Discs, but in some cases it may be necessary.</p>
             </div>
         </div>
 
         <div class="col-group">    
             <div class="col-mb-12">
                 <h3>restoration</h3>
-                <p>Audio restoration projects can vary greatly in scope and are quoted per project. Please get in touch to discuss your specific audio restoration needs.</p>
+                <p>Audio restoration projects can vary greatly in scope and are quoted per project.</p>
+                
+                <p>The first step to restoring and preserving audio is transferring it to a digital file. From there it's possible to remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
+                    
+                <p>Please get in touch to discuss your specific audio restoration needs.</p>
             </div>
         </div>
 
         <div class="col-group">    
             <div class="col-mb-12">
                 <h3>digital editing</h3>
-                <p></p>
+                <p>$60 USD per hour billed in quarter-hour increments.</p>
+                <p>General extensive editing of audio. Examples include creating shorter versions of tracks for radio, or editing together different versions of the same track (vocal up mix, instrumental, main mix...) to create an entirely new version or sometimes create "clean" versions.</p>
             </div>
         </div>
 
