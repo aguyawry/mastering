@@ -14,7 +14,7 @@
             <div class="col-mb-12">
                 <h2>rates</h2>
 
-                <p>Please find rates and details of my services below. I realize every project is unique and I will do my best to work with your budget, so don't hesitate to reach out. If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
+                <p>Please find rates along with details of my services below. I realize every project is unique and I will do my best to work with your budget, so don't hesitate to reach out. If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
 
                 <h3>mastering</h3>
                 
@@ -140,13 +140,17 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>In most cases, your mastered audio will work for both digital distribution and vinyl, but mastering for vinyl does require special consideration in order to bring out the full warmth and sonic range of the format.</p>
+                <p>I strive to create dynamic and sonically balanced tracks, so it's possible your mastered audio will work for both digital distribution and vinyl.</p>
+                    
+                <p>However, mastering for vinyl does require special consideration in order to bring out the full warmth and sonic range of the format.</p>
 
                 <p>At the end of the day, listening to records is a mechanical process, so there are many variables at play.</p>
 
                 <p>If you do need separate mastering for vinyl, it's typically a variation on the settings that were used for digital distribution, so there is already a sonic starting point.</p>
 
-                <p>While many of the issues noted here are addressed during the normal mastering process, some of them are also stylistic elements found in certain musical generes. They could be reasons you may need separate masters for vinyl.</p>
+                <p>While many of the issues noted here are addressed during the normal mastering process, some of them are also stylistic elements found in certain musical generes.</p>
+                
+                <p>They could be reasons you may need separate masters for vinyl.</p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -161,60 +165,122 @@
         </div>
 
 
-        <div class="col-group">    
+        <div class="col-group">
             <div class="col-mb-12">
                 <h3>production masters</h3>
-                <p>Once mastering is complete and all your mastered audio has been approved, your audio may need further preparation or verification depending on the target distribution format.</p>
+            </div>
 
+            <div class="col-mb-12 col-6">    
+                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation or verification depending on the target distribution format.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
                 <p>Production services below are billed at $25 + $1 per audio-minute USD.</p>
             </div>
+        </div>
 
+
+        <div class="col-group">
             <div class="col-mb-12">
                 <h4>Mastered for iTunes</h4>
-                
-                <p>You do not need Mastered for iTunes files to release your music on iTunes - only if you want your release to have the "Mastered for iTunes" badge.</p>
-                
-                <p>I follow Apple's protocols required for mastering engineers by encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are also auditioned to make sure there are no audible distortions induced from encoding.</p>
-
-                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be delivered at 24 bit for sending to iTunes.</p>
             </div>
 
+            <div class="col-mb-12 col-6">
+                <p>I am an Apple approved Mastered for iTunes (MFiT) engineer.</p>
 
+                <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List.</p>
+                
+                <p>You <em>do not</em> need MFiT files to release your music on iTunes - only if you want your release to have the official "Mastered for iTunes" badge.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <p>I follow Apple's required protocols for mastering engineers by encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are then auditioned to make sure there are no audible distortions induced from encoding.</p>
+
+                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be returned at 24 bit for delivery to iTunes.</p>
+            </div>
+        </div>
+        
+        <div class="col-group">
             <div class="col-mb-12">
                 <h4>Vinyl Production Masters</h4>
+            </div>
                 
-                <p>You do not need Mastered for iTunes files to release your music on iTunes - only if you want your release to have the "Mastered for iTunes" badge.</p>
+            <div class="col-mb-12 col-6">
+                <p>A Vinyl Production Master is a single high resolution digital audio file with long gaps between each side. It is sent to the cutting house along with a track list containing detailed timing information.</p>
                 
-                <p>I follow Apple's protocols required for mastering engineers by encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are also auditioned to make sure there are no audible distortions induced from encoding.</p>
+                <p>The order of your tracks is an important consideration with vinyl. A great rule of thumb is to put your loudest, heaviest tracks with more frequency information at the beginning of each side, and put your less dynamic tracks with less frequency information at the end of each side.</p>
 
-                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be delivered at 24 bit for sending to iTunes.</p>
+                <p>As the radius of the disc decreases, the speed at which the groove is moving past the needle decreases. The innermost usable area on a disc has a circumference that is less than half of that found at the beginning of a disc. Since the speed is constant, this much smaller circumference leaves a lot less area in which to cut a high frequency groove which swings back and forth a lot faster.</p>
+                
+
             </div>
 
+            <div class="col-mb-12 col-6">
+                <p>By the inside of the disc, this becomes so tight that the cutting stylus can actually begin to wipe out the high frequencies with it's own rear edge as it moves past the waveform it just cut with its leading edge.</p>
 
+                <p>Also in play is how much audio can fit on a side. That can vary depending on the record size (12", 10", 7"), record speed (33 1/3 rpm, 45 rpm, 78 rpm) and desired loudness.</p>
+
+                <p>It's not uncommon for the vinyl release of an album to have a slightly different track order vs the digital release.</p>
+                
+                <p>In some cases, tracks may be edited or left off the vinyl release in order to achieve a shorter playing time or to even up the length of each side.</p>
+                
+                <p>With a little forward planning and some consultation with the cutting house, we can maximize the potential of your vinyl and produce the best release possible.</p>
+            </div>
+        </div>
+
+
+        <div class="col-group">
             <div class="col-mb-12">
                 <h4>DDPi Masters for Compact Disc</h4>
-                
-                <p>For clients making Compact Discs, I create a DDPi (Disc Description Protocol image) for delivery to a replication facility. It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players.</p>
+            </div>
 
-                <p>Tracks will be sequenced in your desired order with the appropriate gaps, fades or crossfades. Any optional metadata such as ISRC codes and CD-Text information can also be added. This is all then combined into a digital image of the Compact Disc.</p>
+            <div class="col-mb-12 col-6">
+                <p>For clients making Compact Discs, I create a DDPi (Disc Description Protocol image) for delivery to a replication facility.</p>
+                
+                <p>It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players.</p>
+
+                <p>Tracks are sequenced in your desired order with the appropriate gaps, fades and crossfades. Any optional metadata such as <a href="https://www.usisrc.org/" rel="external">ISRC codes</a> and <a href="http://web.ncf.ca/aa571/cdtext.htm" rel="external">CD-Text</a> information can also be added.</p>
+            </div>
+                
+            <div class="col-mb-12 col-6">
+                <p>This is all combined into a digital image of the Compact Disc. Also included is a track list containing detailed timing information.</p>
                 
                 <p>Clients can download the exact same image and listen to it with my included software player, which also allows them to burn their own reference discs.</p>
             </div>
+        </div>
 
+
+        <div class="col-group">
             <div class="col-mb-12">
-                <h4>Premaster CDs</h4>
+                <h4>PreMaster CDs</h4>
+            </div>
                 
-                <p>A PreMaster CD (PMCD) is a specially formatted, recordable Compact Disc designed to be sent to a CD pressing plant for replication. I do not recommend using this format for making Compact Discs, but in some cases it may be necessary.</p>
+            <div class="col-mb-12 col-6">
+                <p>A PreMaster CD (PMCD) is a specially formatted, recordable Compact Disc designed to be sent to a CD pressing plant for replication.</p>
+
+                <p>I do not recommend using this format for making Compact Discs, but in some cases it may be necessary.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <p>If your manufacturer cannot accept a DDPi, it is still possible to create a PMCD using high quality drives and CD-R media.</p>
+
+                <p>It is a little more expensive due to the extra time taken for quality control and shipping. DDPi is highly recommended instead.
             </div>
         </div>
 
         <div class="col-group">    
             <div class="col-mb-12">
-                <h3>restoration</h3>
-                <p>Audio restoration projects can vary greatly in scope and are quoted per project.</p>
+                <h3>restoration and preservation</h3>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <p>Audio restoration and preservation projects can vary greatly in scope and are quoted per project.</p>
                 
-                <p>The first step to restoring and preserving audio is transferring it to a digital file. From there it's possible to remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
-                    
+                <p>The first step to restoring and preserving audio is transferring it to a digital file.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <p>From there it's possible to remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
                 <p>Please get in touch to discuss your specific audio restoration needs.</p>
             </div>
         </div>
@@ -223,7 +289,7 @@
             <div class="col-mb-12">
                 <h3>digital editing</h3>
                 <p>$60 USD per hour billed in quarter-hour increments.</p>
-                <p>General extensive editing of audio. Examples include creating shorter versions of tracks for radio, or editing together different versions of the same track (vocal up mix, instrumental, main mix...) to create an entirely new version or sometimes create "clean" versions.</p>
+                <p>This encompasses general extensive editing of audio. Examples include creating shorter versions of tracks for radio, or editing together different versions of the same track (vocal up mix, instrumental, main mix...) to create an entirely new version or sometimes create "clean" versions.</p>
             </div>
         </div>
 
