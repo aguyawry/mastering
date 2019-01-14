@@ -9,16 +9,32 @@
 
 <section class="dark">
     <div class="container">
-        <div class="col-group">
 
+        <div class="col-group">
             <div class="col-mb-12">
                 <h2>rates</h2>
 
-                <p>Please find rates along with details of my services below. I realize every project is unique and I will do my best to work with your budget, so don't hesitate to reach out. If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
+                <p>Please find rates along with details of my services below. I realize every project is unique and I will do my best to work with your budget, so don't hesitate to reach out.</p>
+                
+                <p>I also offer a 15% discount on your next mastering project if you refer a client who ends up booking an EP or album mastering project with me.</p>
+                    
+                <p>If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
 
+            </div>
+        </div>
+
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <hr>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12">
                 <h3>mastering</h3>
                 
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All unattended mastering rates include:</p>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -30,21 +46,21 @@
 
                     <li><strong>Session Set Up</strong><br>The time it takes to set up my gear and prepare your audio for the mastering session.</li>
 
-                    <li><strong>High Resolution Files</strong><br>All mastering is done at high resolution. Any other file formats you need will be created from these high resolution masters.</li>
+                    <li><strong>Revisions</strong><br>I'm not happy until you're happy. Most clients approve the initial mastering, but if you do want to tweak something, all revisions are free.</li>
 
-                    <li><strong>Format Conversions</strong><br>It's possible you'll need different file formats for various purposes - like 44.1 kHz / 16 bit files for streaming services or 48 kHz / 24 bit for video.</li>
+                    <li><strong>High Resolution Files</strong><br>All mastering is done at the highest resolution that makes sense. This is typically 24 bit and the same sample rate of your mixes. Any different file formats you need will be created from these high resolution masters.</li>
                 </ul>
             </div>
 
             <div class="col-mb-12 col-6">
                 <ul class="list-bullet">
-                    <li><strong>Revisions</strong><br>Most projects don't require revisions, but if you do want to tweak something, all revisions are free as long as they are requested within 30 days of masters being delivered. Further revisions are billed hourly at attended mastering rates.</li>
+                    <li><strong>Quality Control</strong><br>All audio that leaves the studio is quality controlled - meaning it's listened to by a human to ensure it's as intended and free of sonic anomalies. All clients are encouraged to take a careful listen as well before approving final masters.</li>
 
-                    <li><strong>Quality Control</strong><br>ldskgh lsgfh slf lksh lasflkashdl fks dfkls dlfksl dfkjh lskfh lksfdh lksdhfsd f flkjsdhfl kdsjhfl kd fkjsfl kjshdf lkshfl ksjdhf </li>
+                    <li><strong>Format Conversions</strong><br>Once masters have been approved, it's possible you'll need different file formats for various purposes. Some streaming services accept 44.1 kHz / 16 bit files - some prefer 24 bit. Audio for video is typically 48 kHz / 24 bit. I have tools for high quality conversions to pretty much any format you'll need.</li>
 
                     <li><strong>Archives</strong><br>While I highly recommend making multiple copies of your mastered audio and keeping them in different places, I'll keep your audio archived for a minimum of two years.</li>
 
-                    <li><strong>Communications</strong><br>Emails, video chats, phone calls...</li>
+                    <li><strong>Communications</strong><br>Efficient and effective communication is important to me in whatever form works best. That could be email, video chat, phone calls or other.</li>
                 </ul>
             </div>
         </div>
@@ -61,23 +77,38 @@
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$14</td>
+                        <td class="currency">$15</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$12</td>
+                        <td class="currency">$13</td>
                         <td>USD</td>
                     </tr>
                     <tr>
-                        <td>&bull; Mastering for Vinyl (see <a href="#vinyl">details below</a>)</td>
+                        <td>&bull; Mastering for Vinyl</td>
                         <td class="currency">$7</td>
                         <td>USD</td>
                     </tr>
                     <tr>
-                        <td>&bull; TV Tracks / Instrumentals / Radio Edits</td>
+                        <td>&nbsp;&nbsp;&nbsp;(<a href="#vinyl">details below</a>)</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>&bull; TV Tracks</td>
                         <td class="currency">$4</td>
                         <td>USD</td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;&nbsp;&nbsp;Instrumentals</td>
+                        <td class="currency"></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;&nbsp;&nbsp;Radio Edits</td>
+                        <td class="currency"></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>&nbsp;</td>
@@ -111,12 +142,12 @@
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$180 / hr</td>
+                        <td class="currency">$200</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$160 / hr</td>
+                        <td class="currency">$180</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -140,7 +171,7 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>I strive to create dynamic and sonically balanced tracks, so it's possible your mastered audio will work for both digital distribution and vinyl.</p>
+                <p>I always strive to create dynamic and sonically balanced tracks, so it's possible your mastered audio will work for both digital distribution and vinyl.</p>
                     
                 <p>However, mastering for vinyl does require special consideration in order to bring out the full warmth and sonic range of the format.</p>
 
@@ -148,9 +179,9 @@
 
                 <p>If you do need separate mastering for vinyl, it's typically a variation on the settings that were used for digital distribution, so there is already a sonic starting point.</p>
 
-                <p>While many of the issues noted here are addressed during the normal mastering process, some of them are also stylistic elements found in certain musical generes.</p>
+                <p>While many of the issues noted here are addressed during the normal mastering process, some of them are also stylistic elements found in certain musical generes. They could be reasons you may need separate masters for vinyl.</p>
                 
-                <p>They could be reasons you may need separate masters for vinyl.</p>
+                <p>Also check out the <a href="#prod-vinyl">Vinyl Production Masters</a> section below for more information.</p></p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -161,6 +192,13 @@
                     <li>Excessive high frequencies may need taming since they could distort on vinyl and could possibly even damage the head on the cutting lathe.</li>
                     <li>Excessive sibilance, like the "ssssss" sound, can cause distortion when cutting vinyl. Sometimes the letters "t" and "z" can cause sibilance as well. </li>
                 </ul>   
+            </div>
+        </div>
+
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <hr>
             </div>
         </div>
 
@@ -202,26 +240,22 @@
         
         <div class="col-group">
             <div class="col-mb-12">
-                <h4>Vinyl Production Masters</h4>
+                <h4 id="prod-vinyl">Vinyl Production Masters</h4>
             </div>
                 
             <div class="col-mb-12 col-6">
-                <p>A Vinyl Production Master is a single high resolution digital audio file with long gaps between each side. It is sent to the cutting house along with a track list containing detailed timing information.</p>
+                <p>Vinyl Production Masters are typically a single high resolution digital audio file for each side of the record. It is sent to the cutting house along with a track list containing detailed timing information.</p>
                 
-                <p>The order of your tracks is an important consideration with vinyl. A great rule of thumb is to put your loudest, heaviest tracks with more frequency information at the beginning of each side, and put your less dynamic tracks with less frequency information at the end of each side.</p>
+                <p>Due to physical differences between the outer and inner parts of the disc, the order of your tracks is an important consideration with vinyl.</p>
 
-                <p>As the radius of the disc decreases, the speed at which the groove is moving past the needle decreases. The innermost usable area on a disc has a circumference that is less than half of that found at the beginning of a disc. Since the speed is constant, this much smaller circumference leaves a lot less area in which to cut a high frequency groove which swings back and forth a lot faster.</p>
-                
-
+                <p>A great rule of thumb is to put your loudest, heaviest tracks with more frequency information at the beginning of each side, and put your less dynamic tracks with less frequency information at the end of each side.</p>
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>By the inside of the disc, this becomes so tight that the cutting stylus can actually begin to wipe out the high frequencies with it's own rear edge as it moves past the waveform it just cut with its leading edge.</p>
-
                 <p>Also in play is how much audio can fit on a side. That can vary depending on the record size (12", 10", 7"), record speed (33 1/3 rpm, 45 rpm, 78 rpm) and desired loudness.</p>
-
+            
                 <p>It's not uncommon for the vinyl release of an album to have a slightly different track order vs the digital release.</p>
-                
+
                 <p>In some cases, tracks may be edited or left off the vinyl release in order to achieve a shorter playing time or to even up the length of each side.</p>
                 
                 <p>With a little forward planning and some consultation with the cutting house, we can maximize the potential of your vinyl and produce the best release possible.</p>
@@ -268,22 +302,49 @@
             </div>
         </div>
 
-        <div class="col-group">    
+
+        <div class="col-group">
             <div class="col-mb-12">
-                <h3>restoration and preservation</h3>
-            </div>
-
-            <div class="col-mb-12 col-6">
-                <p>Audio restoration and preservation projects can vary greatly in scope and are quoted per project.</p>
-                
-                <p>The first step to restoring and preserving audio is transferring it to a digital file.</p>
-            </div>
-
-            <div class="col-mb-12 col-6">
-                <p>From there it's possible to remove unwanted hum, hiss, pops and noise, and enhance the audio in many ways.</p>
-                <p>Please get in touch to discuss your specific audio restoration needs.</p>
+                <hr>
             </div>
         </div>
+
+
+        <div class="col-group">    
+            <div class="col-mb-12">
+                <h3>restoration</h3>
+            </div>
+
+            <div class="col-mb-12 col-6">
+            <p>The first step to restoring and preserving audio is transferring it to a digital file. From there, it's possible to enhance the audio in many ways.</p>
+
+            <p>Restoration projects are not only music focused, but have also included forensic applications for law enforcement and private investigation.</p>
+
+            <p>I have training in proper evidence handling, enhancement, analysis and interpretation from the <a href="http://www.ucdenver.edu/academics/colleges/CAM/Centers/ncmf/Pages/ncmf.aspx" rel="external">National Center for Media Forensics</a>.</p>
+
+            <p>Restoration projects can vary greatly in scope and are quoted per project. Please get in touch to discuss your specific audio restoration needs.</p>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <p>Restoration can fix may things including:</p>
+                <ul class="list-bullet">
+                    <li>Distortion and clipping</li>
+                    <li>Pops, clicks and crackles</li>
+                    <li>Continuous broadband noise like tape hiss, recorder noise and HVAC systems</li>
+                    <li>Periodic tones like hum, RF / mobile phone interference, appliance and engine noise</li>
+                    <li>Variable broadband noise like wind, rain, other conversations, vehicles, aircraft</li>
+                    <li>Convolved noise like excessive reverberation</li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <hr>
+            </div>
+        </div>
+
 
         <div class="col-group">    
             <div class="col-mb-12">
