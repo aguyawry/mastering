@@ -1653,6 +1653,21 @@ blockquote::after {
 .attribution .credits {
   font-size: 1.5rem;
 }
+.pricing {
+  background-color: #FEFEFE;
+  border-radius: 10px;
+  color: #425B6B;
+  display: inline-block;
+  font-weight: bold;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.pricing li {
+  margin-bottom: 0;
+}
+.pricing a {
+  color: #425B6B;
+}
 footer {
   background-color: #000000;
   border-top: 1px solid #C0C0C0;

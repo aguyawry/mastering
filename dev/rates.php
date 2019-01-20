@@ -19,7 +19,6 @@
                 <p>I also offer a 15% discount on your next mastering project if you refer a client who ends up booking an EP or album mastering project with me.</p>
                     
                 <p>If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
-
             </div>
         </div>
 
@@ -29,6 +28,41 @@
                 <hr>
             </div>
         </div>
+
+
+        <div class="col-group">
+            <div class="col-mb-12 col-4">
+                <h4><a href="">mastering</a></h4>
+                <ul class="list-bullet">
+                    <li><a href="">Unattended Mastering</a></li>
+                    <li><a href="">Attended Mastering</a></li>
+                    <li><a href="">Mastering for Vinyl Details</a></li>
+                </ul>
+            </div>
+
+            <div class="col-mb-12 col-4">
+                <h4><a href="">production masters</a></h4>
+                <ul class="list-bullet">
+                    <li><a href="">Mastered for iTunes</a></li>
+                    <li><a href="">Vinyl Production Masters</a></li>
+                    <li><a href="">DDPi Masters for Compact Disc</a></li>
+                    <li><a href="">PreMaster CDs</a></li>
+                </ul>
+            </div>
+
+            <div class="col-mb-12 col-4">
+                <h4><a href="">restoration</a></h4>
+                <h4><a href="">digital editing</a></h4>
+            </div>
+        </div>
+
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <hr>
+            </div>
+        </div>
+
 
         <div class="col-group">
             <div class="col-mb-12">
@@ -208,12 +242,8 @@
                 <h3>production masters</h3>
             </div>
 
-            <div class="col-mb-12 col-6">    
-                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation or verification depending on the target distribution format.</p>
-            </div>
-
-            <div class="col-mb-12 col-6">
-                <p>Production services below are billed at $25 + $1 per audio-minute USD.</p>
+            <div class="col-mb-12">    
+                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific target distribution formats.</p>
             </div>
         </div>
 
@@ -224,17 +254,26 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>I am an Apple approved Mastered for iTunes (MFiT) engineer.</p>
-
-                <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List.</p>
-                
-                <p>You <em>do not</em> need MFiT files to release your music on iTunes - only if you want your release to have the official "Mastered for iTunes" badge.</p>
+                <p><strong>&bull; $15 + $1 USD per audio-minute</strong></p>
+                <p>Includes:</p>
+                <ul class="list-bullet">
+                    <li>All tracks encoded using Apple's AAC iTunes+ Codec to ensure they are free of clipping</li>
+                    <li>Quality control of encoded files to ensure no unwanted sonic artifacts or distortion</li>
+                    <li>Upload of both high resolution 24 bit files and AAC encodes for client audition and approval</li>
+                    <li>Upload of high resolution 24 bit files to you or your digital distributor</li>
+                </ul>
             </div>
 
             <div class="col-mb-12 col-6">
+                <p>I am an Apple approved Mastered for iTunes (MFiT) engineer.</p>
+
+                <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List.</p>
+
+                <p>You <em>do not</em> need MFiT files to release your music on iTunes - only if you want your release to have the official "Mastered for iTunes" badge.</p>
+
                 <p>I follow Apple's required protocols for mastering engineers by encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are then auditioned to make sure there are no audible distortions induced from encoding.</p>
 
-                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be returned at 24 bit for delivery to iTunes.</p>
+                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be returned at 24 bit for delivery to iTunes who will then encode them for iTunes.</p>
             </div>
         </div>
         
@@ -244,20 +283,32 @@
             </div>
                 
             <div class="col-mb-12 col-6">
-                <p>Vinyl Production Masters are typically a single high resolution digital audio file for each side of the record. It is sent to the cutting house along with a track list containing detailed timing information.</p>
+                <p><strong>&bull; $30 + $1 per audio-minute USD, per record</strong></p>
+
+                <p>Includes:</p>
+                <ul class="list-bullet">
+                    <li>Any discussions with you and your vinyl cutting house that may be needed</li>
+                    <li>Sequencing of your high resolution tracks with your preferred order and spacing</li>
+                    <li>Fade-ins, fade-outs and any cross-fades for each track</li>
+                    <li>Creation of a track list with detailed timing information for the cutting house</li>
+                    <li>Upload of high resolution files and timing sheet for client approval</li>
+                    <li>Quality control of the final approved files before delivery to the cutting house to ensure no unwanted sonic artifacts</li>
+                </ul>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <p>Vinyl Production Masters are typically a single high resolution digital audio file for each side of the record. It's sent to your vinyl cutting house along with a track list containing detailed timing information.</p>
                 
                 <p>Due to physical differences between the outer and inner parts of the disc, the order of your tracks is an important consideration with vinyl.</p>
 
                 <p>A great rule of thumb is to put your loudest, heaviest tracks with more frequency information at the beginning of each side, and put your less dynamic tracks with less frequency information at the end of each side.</p>
-            </div>
 
-            <div class="col-mb-12 col-6">
                 <p>Also in play is how much audio can fit on a side. That can vary depending on the record size (12", 10", 7"), record speed (33 1/3 rpm, 45 rpm, 78 rpm) and desired loudness.</p>
             
                 <p>It's not uncommon for the vinyl release of an album to have a slightly different track order vs the digital release.</p>
 
-                <p>In some cases, tracks may be edited or left off the vinyl release in order to achieve a shorter playing time or to even up the length of each side.</p>
-                
+                <p>In some cases, tracks may be edited or even left off the vinyl release to achieve a shorter playing time, or to get each side equal in length.</p>
+            
                 <p>With a little forward planning and some consultation with the cutting house, we can maximize the potential of your vinyl and produce the best release possible.</p>
             </div>
         </div>
@@ -269,14 +320,27 @@
             </div>
 
             <div class="col-mb-12 col-6">
+                <p><strong>&bull; $30 + $1 per audio-minute USD</strong></p>
+
+                <p>Includes:</p>
+                <ul class="list-bullet">
+                    <li>Sequencing of your tracks with your preferred order and spacing</li>
+                    <li>Fade-ins, fade-outs and any cross-fades for each track</li>
+                    <li>Placement of Start, Track Index and End markers (PQ Editing)</li>
+                    <li>Addition of any optional metadata such as <a href="https://www.usisrc.org/" rel="external">ISRC codes</a> and <a href="http://web.ncf.ca/aa571/cdtext.htm" rel="external">CD-Text</a> information</li>
+                    <li>Creation of a track list with detailed timing information for the replicator</li>
+                    <li>Upload of a software DDPi player with CD Reference burning capability for client review</li>
+                    <li>Quality control of the final approved image before delivery to the replicator ensuring no unwanted sonic artifacts</li>
+                </ul>
+            </div>
+                
+            <div class="col-mb-12 col-6">
                 <p>For clients making Compact Discs, I create a DDPi (Disc Description Protocol image) for delivery to a replication facility.</p>
                 
                 <p>It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players.</p>
 
                 <p>Tracks are sequenced in your desired order with the appropriate gaps, fades and crossfades. Any optional metadata such as <a href="https://www.usisrc.org/" rel="external">ISRC codes</a> and <a href="http://web.ncf.ca/aa571/cdtext.htm" rel="external">CD-Text</a> information can also be added.</p>
-            </div>
-                
-            <div class="col-mb-12 col-6">
+
                 <p>This is all combined into a digital image of the Compact Disc. Also included is a track list containing detailed timing information.</p>
                 
                 <p>Clients can download the exact same image and listen to it with my included software player, which also allows them to burn their own reference discs.</p>
@@ -290,12 +354,29 @@
             </div>
                 
             <div class="col-mb-12 col-6">
-                <p>A PreMaster CD (PMCD) is a specially formatted, recordable Compact Disc designed to be sent to a CD pressing plant for replication.</p>
+                <p><strong>&bull; $45 + $1 per audio-minute USD<br>
+                &bull; CD References - $10 USD each<br>
+                &bull; Shipping charges</strong></p>
 
-                <p>I do not recommend using this format for making Compact Discs, but in some cases it may be necessary.</p>
+                <p>Includes:</p>
+                <ul class="list-bullet">
+                    <li>Sequencing of your tracks with your preferred order and spacing</li>
+                    <li>Fade-ins, fade-outs and any cross-fades for each track</li>
+                    <li>Placement of Start, Track Index and End markers (PQ Editing)</li>
+                    <li>Addition of any optional metadata such as <a href="https://www.usisrc.org/" rel="external">ISRC codes</a> and <a href="http://web.ncf.ca/aa571/cdtext.htm" rel="external">CD-Text</a> information</li>
+                    <li>Burning the PreMaster CD on high quality CD-R media</li>
+                    <li>Error check of the CD-R physical layer to ensure a quality disc</li>
+                    <li>Creation of a track list with detailed timing information for the replicator</li>
+                    <li>Upload of a software DDPi player with CD Reference burning capability for client review</li>
+                    <li>Quality control of the final PreMaster CD before delivery to the replicator ensuring no unwanted sonic artifacts</li>
+                </ul>
             </div>
 
             <div class="col-mb-12 col-6">
+                <p>A PreMaster CD (PMCD) is a specially formatted, recordable Compact Disc designed to be sent to a CD pressing plant for replication.</p>
+
+                <p>I do not recommend using this format for making Compact Discs, but in some cases it may be necessary.</p>
+
                 <p>If your manufacturer cannot accept a DDPi, it is still possible to create a PMCD using high quality drives and CD-R media.</p>
 
                 <p>It is a little more expensive due to the extra time taken for quality control and shipping. DDPi is highly recommended instead.
