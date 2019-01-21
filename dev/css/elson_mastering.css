@@ -1367,6 +1367,16 @@ td.currency {
   vertical-align: middle;
   white-space: nowrap;
 }
+.btn.small {
+  font-size: 1.8rem;
+  padding: 5px 15px;
+}
+.btn.left {
+  margin-left: 0;
+}
+.btn.top {
+  margin-top: 0;
+}
 .light .btn {
   color: white;
 }
