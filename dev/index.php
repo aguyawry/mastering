@@ -295,7 +295,7 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>As a supporter of the both the independent and local music communities, I can offer competitive rates for unsigned bands.</p>
+                <p>As a supporter of both the independent and local music communities, I can offer competitive rates for unsigned bands.</p>
                 
                 <p>I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
 
