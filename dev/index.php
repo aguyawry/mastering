@@ -295,16 +295,19 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>Every project is unique. Call, email or fill out my <a class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">project inquiry form</a> to get a quote and start the booking process.</p>
+                <p>As a supporter of the both the independent and local music communities, I can offer competitive rates for unsigned bands.</p>
                 
-                <p>As a supporter of the independent music community, I offer competitive rates for unsigned bands. I'll do my best to work with your budget.</p>
+                <p>I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
+
+                <p>Call, email or fill out my <a class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">project inquiry form</a> to get a quote and start the booking process.</p>
                 
-                <p>I also have a large network of talented musicians and producers, so please reach out if I can help make a connection.</p>
+                <p>I also have a large network of talented musicians and producers, so please give me a shout if I can help make a connection.</p>
             </div>
 
             <div class="col-mb-12 col-offset-1 col-5">
                 <div class="btn-row center">
-                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
+                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform"
+                     rel="external">Upload a Track</a>
                     <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                 </div>
 

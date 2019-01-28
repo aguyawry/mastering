@@ -14,15 +14,17 @@
             <div class="col-mb-12">
                 <h2>services & rates</h2>
 
-                <p>Please find rates along with details of my services below. I realize every project is unique and I will do my best to work with your budget, so don't hesitate to reach out.</p>
+                <p>Please find detailed descriptions of my services below along with my standard rates.</p>
                 
-                <p>I also offer a 15% discount on your next mastering project if you refer a client who ends up booking an EP or album mastering project with me.</p>
+                <p>You'll find reduced rates for returning clients, and I also offer a 15% discount on your next mastering project if you refer a new client who ends up booking an EP or album mastering project with me.</p>
+
+                <p>As a supporter of the both the independent and local music communities, I can offer competitive rates for unsigned bands. I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
                     
                 <p>If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
             </div>
         </div>
 
-
+        
         <div class="col-group">
             <div class="col-mb-12">
                 <hr>
@@ -76,11 +78,11 @@
                 <ul class="list-bullet">
                     <li><strong>Mix Assessments</strong><br>The best masters start with the best mixes. If you are unsure about your mixes, I am happy to give them a listen and provide feedback on potential enhancements.</li>
 
-                    <li><strong>File Transfers</strong><br>You can easily send your mixes to me by <a href="https://www.dropbox.com/request/2uWQA59djx11nEK5yTZh" rel="external">uploading them via my secure DropBox account</a>. I deliver all mastered audio via DropBox as well.</li>
+                    <li><strong>File Transfers</strong><br>You can easily send your mixes to me by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">uploading them via my secure DropBox account</a>. I deliver all mastered audio via DropBox as well.</li>
 
-                    <li><strong>Session Set Up</strong><br>The time it takes to set up my gear and prepare your audio for the mastering session.</li>
+                    <li><strong>Session Set Up</strong><br>Before each session there is some time spent recalibrating gear, preparing source mixes for mastering and other housekeeping tasks to get everything ready to go for the session.</li>
 
-                    <li><strong>Revisions</strong><br>I'm not happy until you're happy. Most clients approve the initial mastering, but if you do want to tweak something, all revisions are free.</li>
+                    <li><strong>Revisions</strong><br>I'm not happy until you're happy. Most clients approve the initial mastering, but if you do want to tweak something, all unattended revisions are free.</li>
 
                     <li><strong>High Resolution Files</strong><br>All mastering is done at the highest resolution that makes sense. This is typically 24 bit and the same sample rate of your mixes. Any different file formats you need will be created from these high resolution masters.</li>
                 </ul>
@@ -111,12 +113,12 @@
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$15</td>
+                        <td class="currency">$14</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$13</td>
+                        <td class="currency">$12</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -130,12 +132,12 @@
                         <td></td>
                     </tr>
                     <tr>
-                        <td>&bull; TV Tracks</td>
+                        <td>&bull; TV Tracks,</td>
                         <td class="currency">$4</td>
                         <td>USD</td>
                     </tr>
                     <tr>
-                        <td>&nbsp;&nbsp;&nbsp;Instrumentals</td>
+                        <td>&nbsp;&nbsp;&nbsp;Instrumentals,</td>
                         <td class="currency"></td>
                         <td></td>
                     </tr>
@@ -149,7 +151,7 @@
                     </tr>
                 </table>
 
-                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $15 x 30 = $450.</p>
+                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $14 x 30 = $420. The same charge for a returning client would be $12 x 30 = $360.</p>
 
                 <p>Please contact me if you are interested in rates for Stem Mastering.</p>
             </div>
@@ -158,10 +160,7 @@
                 <ul class="list-bullet">
                     <li>The Client is the person or entity who is paying the bill. This could be the artist, producer, label or other.</li>
                     <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic mastering settings.</li>
-                    <li>Any mix changes after mastering may incur an additional charges 
-                        
-                    requesting the same mastering settings are treated as revisions.</li>
-                    <li>Drastic mix changes requiring different mastering settings will be considered a new track.</li>
+                    <li>Any subsequent mix changes after mastering may incur additional charges. It will depend primarily on the nature of the changes.</li>
                 </ul>
             </div>
         </div>
@@ -175,7 +174,7 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>All attended mastering sessions are billed by the hour in quarter-hour increments.</p>
+                <p>All attended mastering sessions are billed by the hour in quarter-hour increments. This includes attended sessions for revisions.</p>
                 
                 <table>
                     <tr>
@@ -430,8 +429,6 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p><strong>Quoted per project.</strong></p>
-
                 <p>The first step to restoring audio is preserving it by transferring to digital. From there, it's possible to enhance the audio in many ways.</p>
 
                 <p>Physical media will deteriorate quickly. If you've got old DATs, cassettes, vinyl or even VHS tapes, it can be saved and brought back to life.</p>
@@ -444,6 +441,8 @@
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
+                <p><strong>Quoted per project.</strong></p>
+
                 <p>Restoration can fix may things including:</p>
 
                 <ul class="list-bullet">
