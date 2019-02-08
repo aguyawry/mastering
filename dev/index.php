@@ -148,17 +148,102 @@
             <div class="col-mb-12">
                 <h2>services</h2>
 
-                <p>My services are focused in two main areas - audio enhancement to create high-quality masters, and preparation of those masters for different distribution formats.</p>
+                <p>My services are focused in three main areas: audio mastering, creation of audio production masters, and audio restoration. Please see my <a href="/rates">services and rates</a> page for more detailed information on what each of these services includes.</p>
                 
-                <p>While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix. Along with the services below, I am always happy to offer complementary mix assessments for potential clients.</p>
-
-                <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. Upload a track via my secure DropBox account to get the process started.</p>
+                <p>Upload a track via my secure DropBox account to get the process started.</p>
 
                 <div class="btn-row center">
                     <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
                 </div>
             </div>
         </div>
+
+
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <h3>mastering</h3>
+                <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix. I am always happy to offer complementary mix assessments for clients.</p>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-4">
+                <h4>Digital</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+
+            <div class="col-mb-12 col-4">
+                <h4>Vinyl</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+
+            <div class="col-mb-12 col-4">
+                <h4>Stem</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <h3>production masters</h3>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include: </p>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-5">
+                <h4>Mastered for iTunes</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-1">
+                <h4>Vinyl Production Masters</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-5">
+                <h4>DDPi Masters</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-1">
+                <h4>PreMaster CDs</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <h3>restoration</h3>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+        </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-4">
+                <h4>Enhancement</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+
+            <div class="col-mb-12 col-4">
+                <h4>Transfers</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+
+            <div class="col-mb-12 col-4">
+                <h4>Forensic</h4>
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            </div>
+        </div>
+
+<!--
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
@@ -209,6 +294,9 @@
                 </div>
             </div>
         </div>
+-->
+
+        <hr>
 
 
         <div class="col-group">
