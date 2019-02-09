@@ -163,24 +163,34 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h3>mastering</h3>
+                <p>Mastering is the process of balancing the sonic elements of your mixes, while also bringing out the best qualities of the music. It results in records that are sonically cohesive and have optimum playback across all systems and media formats.</p> 
+                    
                 <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix. I am always happy to offer complementary mix assessments for clients.</p>
             </div>
         </div>
 
         <div class="col-group">
-            <div class="col-mb-12 col-4">
+            <div class="col-mb-12 col-3">
                 <h4>Digital</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>Most mastering projects will target some form of digital distribution.</p>
+                <p>While the CD is slowly heading toward niche status, streaming services rule the day and digital video projects are also common.</p>
+                <p>Each digital destination has its own nuances and knowing the ultimate destination ahead of time allows for optimization during mastering.</p>
             </div>
 
-            <div class="col-mb-12 col-4">
+            <div class="col-mb-12 col-3 col-offset-1">
                 <h4>Vinyl</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>Vinyl is definitely making a comeback with more releases targeting the format every day.</p>
+                <p>Your mastering for digital distribution <em>may</em> also work for vinyl, but a tailored vinyl master is sometimes the best choice to bring out the best in the format.</p>
+                <p class="btn-row">
+                    <a class="btn small left top" href="/rates#mastering-vinyl">Learn More</a>
+                </p>
             </div>
 
-            <div class="col-mb-12 col-4">
-                <h4>Stem</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+            <div class="col-mb-12 col-3 col-offset-1">
+                <h4>Stems</h4>
+                <p>For clients who can't seem to get the right mix, stem mastering may be an option.</p>
+                <p>Instead of sending a full mix, you can break the mix down into components such as bass, drums, lead vocals...which can then be adjusted individually during playback in mastering.</p>
+                <p>It can be bit more complicated, but sometimes more rewarding.</p>
             </div>
         </div>
 
