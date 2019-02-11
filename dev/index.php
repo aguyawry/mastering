@@ -67,7 +67,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>why you need mastering</h2>
+                <h2>why mastering</h2>
                 <p>Mastering is a blend of musical intuition, psychoacoustics, technology, and seasoned ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
                 
                 <p>There are plenty of plugins with mastering presets available, and even automated services leveraging artificial intelligence, but here are some reasons you should have your music mastered by an experienced human like me.</p>
@@ -77,7 +77,7 @@
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <div class="service">
-                    <h3>Fresh Ears</h3>
+                    <h3>fresh ears</h3>
                     <p>Artists, producers and mixers can lose their objectivity after working on records for a long time. They count on me to bring fresh ears and an unbiased opinion to the project, with a simple focus on what's best for the music.</p>
 
                     <p>Fresh ears also means that as a mastering engieer, I listen to a lot of music across many genres in short periods of time. That allows me to have a pulse on a wide range of music production styles and sonic treatments.</p>
@@ -86,7 +86,7 @@
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
-                    <h3>Cohesive Albums</h3>
+                    <h3>cohesive albums</h3>
                     <p>It's common for artists to record albums over the course of many months, in many studios, and with many engineers. Because of this, each mix will naturally sound different.</p>
 
                     <p>It's my job to address the sonics and dynamics of each track individually, making sure they work in relation to each other, and within the context of an entire album. The result is a cohesive experience that engages the listener from start to finish.</p>
@@ -98,7 +98,7 @@
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <div class="service">
-                <h3>The Studio</h3>
+                    <h3>the studio</h3>
                     <p>Many records are now made in home or project studios with unreliable acoustics, making the importance of mastering even more critical.</p>
                     
                     <p>My purpose-built studio provides an acoustically precise environment where accurate sonic decisions are made. My clean signal path and full range speakers produce incredible clarity, and often reveal issues clients may not have heard.</p>
@@ -109,7 +109,7 @@
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
-                    <h3>Prep for Distribution</h3>
+                    <h3>prep for distribution</h3>
                     <p>Mastering is the final step in the creative process and the first step in the manufacturing process. The goal is to not only create the best sounding masters of your music, but to also get them in the correct format for distribution.</p>
                     
                     <p>Mastering is usually done at high resolution, but masters often need conversion and further preparation for delivery. No matter where your music is headed, I can create the right file in the right format from your masters. I also quality control everything that leaves the studio to make sure it's error free.</p>
@@ -180,7 +180,7 @@
             <div class="col-mb-12 col-3 col-offset-1">
                 <h4>Vinyl</h4>
                 <p>Vinyl is definitely making a comeback with more releases targeting the format every day.</p>
-                <p>Your mastering for digital distribution <em>may</em> also work for vinyl, but a tailored vinyl master is sometimes the best choice to bring out the best in the format.</p>
+                <p>Your mastering targeting digital distribution <em>may</em> also work for vinyl, but mastering tailored for vinyl is sometimes the right choice to bring out the best in the format.</p>
                 <p class="btn-row">
                     <a class="btn small left top" href="/rates#mastering-vinyl">Learn More</a>
                 </p>
@@ -188,8 +188,8 @@
 
             <div class="col-mb-12 col-3 col-offset-1">
                 <h4>Stems</h4>
-                <p>For clients who can't seem to get the right mix, stem mastering may be an option.</p>
-                <p>Instead of sending a full mix, you can break the mix down into components such as bass, drums, lead vocals...which can then be adjusted individually during playback in mastering.</p>
+                <p>For clients who can't seem to get their mixes just right, stem mastering may be an option.</p>
+                <p>Instead of sending a full mix, you can break the mix down into components such as bass, drums, lead vocals - which can then be adjusted individually during playback in mastering.</p>
                 <p>It can be bit more complicated, but sometimes more rewarding.</p>
             </div>
         </div>
@@ -199,31 +199,59 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h3>production masters</h3>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include: </p>
+                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets. Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple formats.</p>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <h4>Mastered for iTunes</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>I am an Apple approved Mastered for iTunes (MFiT) engineer.</p>
+
+                <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List who has followed their protocols..</p>
+
+                <p>You <em>do not</em> need MFiT files to release your music on iTunes - only if you want your release to have the official "Mastered for iTunes" badge.</p>
+
+                <p class="btn-row">
+                    <a class="btn small left top" href="/rates#production-itunes">Learn More</a>
+                </p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <h4>Vinyl Production Masters</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>Vinyl Production Masters are typically a single high resolution digital audio file for each side of the record, along with a detailed timing sheet.</p>
+
+                <p>There are a lot of things to consider with vinyl. The physical record size and record speed will determine how much audio will fit.</p>
+                    
+                <p>Due to the nature of the physical medium, the actual order of your tracks is also an important consideration.</p></p>
+
+                <p class="btn-row">
+                    <a class="btn small left top" href="/rates#production-vinyl">Learn More</a>
+                </p>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <h4>DDPi Masters</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>For clients making Compact Discs, I create a DDPi (Disc Description Protocol image) for delivery to a replication facility.</p>
+
+                <p>It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players.</p>
+
+                <p class="btn-row">
+                    <a class="btn small left top" href="/rates#production-ddpi">Learn More</a>
+                </p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <h4>PreMaster CDs</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>A PreMaster CD (PMCD) is a specially formatted, recordable Compact Disc designed to be sent to a CD pressing plant for replication.</p>
+
+                <p>If your manufacturer cannot accept a DDPi, it is still possible to create a PMCD using high quality drives and CD-R media.<p>
+
+                <p class="btn-row">
+                    <a class="btn small left top" href="/rates#production-pmcd">Learn More</a>
+                </p>
             </div>
         </div>
 
@@ -232,22 +260,24 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h3>restoration</h3>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>Something about preservation and </p>
             </div>
         </div>
 
         <div class="col-group">
-            <div class="col-mb-12 col-4">
-                <h4>Enhancement</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
-            </div>
-
-            <div class="col-mb-12 col-4">
+        <div class="col-mb-12 col-3">
                 <h4>Transfers</h4>
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>The first step to restoring audio is preserving it by transferring to digital. From there, it's possible to enhance the audio in many ways.</p>
+
+                <p>Physical media will deteriorate quickly. If you've got old DATs, cassettes, vinyl or even VHS tapes, it can be saved and brought back to life.</p>
             </div>
 
-            <div class="col-mb-12 col-4">
+            <div class="col-mb-12 col-3 col-offset-1">
+                <h4>Enhancement</h4>
+                <p>Once your audio is in the digital domain</p>
+            </div>
+
+            <div class="col-mb-12 col-3 col-offset-1">
                 <h4>Forensic</h4>
                 <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
             </div>
