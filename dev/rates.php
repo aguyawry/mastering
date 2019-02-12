@@ -394,7 +394,7 @@
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
-                    <li><strong>Rate:<br>$45 + $1 per audio-minute USD<br>CD References - $10 USD each<br>Shippng costs</strong></li>
+                    <li><strong>Rates:<br>$45 + $1 per audio-minute USD<br>CD References - $10 USD each<br>Shippng costs</strong></li>
                     <li><strong>Delivery Format:<br>44.1 kHz / 16 bit audio as a CD-R</strong></li>
                 </ul>
 
@@ -429,9 +429,9 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>The first step to restoring audio is preserving it by transferring to digital. From there, it's possible to enhance the audio in many ways.</p>
-
                 <p>Physical media will deteriorate quickly. If you've got old DATs, cassettes, vinyl or even VHS tapes, it can be saved and brought back to life.</p>
+
+                <p>The first step to restoring audio is preserving it by transferring to digital. From there, it's possible to enhance the audio in many ways.</p>
 
                 <p>Restoration projects are not only music focused, but have also included forensic applications for law enforcement and private investigation.</p>
 

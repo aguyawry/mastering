@@ -61,36 +61,34 @@ h1, h2, h3, h4, h5 {
 }
 
 h2 {
-    font-size: @text-font-size + 3.7;
+    font-size: @text-font-size + 3.8;
     line-height: 1.2;
     margin: 0 0 30px;
 
-    @media only screen and (min-width : @screenTablet) {
-        font-size: @text-font-size + 4;
-        text-align: left;
-    }
+    // @media only screen and (min-width : @screenTablet) {
+        // font-size: @text-font-size + 4;
+    // }
 }
 
 h3 {
-    font-size: @text-font-size + 2;
-    margin: 50px 0 25px;
+    font-size: @text-font-size + 2.1;
+    margin: 25px 0 15px;
     line-height: 1.1;
 
-    @media only screen and (min-width : @screenTablet) {
-        font-size: @text-font-size + 2.8;
-        text-align: left;
-    }
+    // @media only screen and (min-width : @screenTablet) {
+        // font-size: @text-font-size + 2.8;
+    // }
 }
 
 h4 {
-    font-size: @text-font-size + 1;
-    margin: 35px 0 25px;
+    font-size: @text-font-size + 0.9;
+    margin: 25px 0 15px;
     line-height: 1.1;
 
-    @media only screen and (min-width : @screenTablet) {
-        font-size: @text-font-size + 1;
-        text-align: left;
-    }
+    // @media only screen and (min-width : @screenTablet) {
+        // font-size: @text-font-size + 1;
+        // text-align: left;
+    // }
 }
 
 
@@ -98,7 +96,6 @@ p {
     font-size: @text-font-size + 0.1;
     line-height: 1.6;
     margin: 0 0 15px;
-    // text-align: center;
 
     @media only screen and (min-width : @screenTablet) {
         text-align: left;
@@ -450,21 +447,23 @@ section {
 //
 // intro section 
 #intro {
-    h2 { text-align: center; }
+    h2, h3 { text-align: center; }
+
+    h3 {
+        font-size: @text-font-size + 1.5;
+        line-height: 1.5; 
+        margin: 20px 0 30px;
+    }
 
     @media only screen and (min-width : @screenTablet) {
         padding-top: 145px;
         
-        h2 { margin-bottom: 40px; }
+        // h2 { margin-bottom: 30px; }
 
-        h3 { margin: 60px 0; }
+        // h3 { margin: 60px 0; }
     }
 }
 
-
-.service {
-    h3 { margin: 20px 0 15px; }
-}
 
 
 
@@ -544,18 +543,6 @@ blockquote {
     }
 }
 
-.pricing {
-    background-color: @white;
-    border-radius: 10px;
-    color: @blue;
-    display: inline-block;
-    font-weight: bold;
-    margin: 0 0 10px;
-    padding: 10px;
-
-    li { margin-bottom: 0; }
-    a { color: @blue; }
-}
 
 
 footer {
