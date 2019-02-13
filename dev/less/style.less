@@ -27,6 +27,8 @@
 // @font-secondary:        ~"'Lato', Helvetica, sans-serif";
 // @font-secondary:        ~"'Roboto', Helvetica, sans-serif";
 
+@padding-for-header: 125px;
+
 
 //
 // Core HTML elements
@@ -159,6 +161,20 @@ th, td {
     }
 }
 
+
+// Trick for building in padding for the fixed header with internal links
+//  See: https://css-tricks.com/hash-tag-links-padding/
+.anchor::before { 
+    display: block; 
+    content: " "; 
+    margin-top: @padding-for-header * -1; 
+    height: @padding-for-header; 
+    visibility: hidden; 
+    pointer-events: none;
+}
+
+
+// The size of the parallax effects
 .jarallax {
     height: 500px;
 }
@@ -389,7 +405,7 @@ section {
     padding: 35px 0px;
 
     &:first-of-type {
-        padding-top: 125px;
+        padding-top: @padding-for-header;
     }
 
     img {

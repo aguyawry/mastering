@@ -35,7 +35,9 @@
             <div class="col-mb-12">
                 <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
                     <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
+
                     <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
+
                     <p>Scott is a powerful ally and has become a friend I count on to check my work and make it better.</p>
                 </blockquote>
 
@@ -70,7 +72,7 @@
 
                 <p>Mastering is a blend of musical intuition, psychoacoustics, technology, and seasoned ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
                 
-                <p>There are plenty of plugins with mastering presets available, and even automated services leveraging artificial intelligence, but here are some reasons you should have your music mastered by an experienced human like me.</p>
+                <p>There are plenty of plugins with mastering presets available, and even automated audio mastering services leveraging artificial intelligence. Here are some reasons you should have your music mastered by an experienced human like me.</p>
             </div>
         </div>
 
@@ -120,15 +122,14 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <blockquote cite="https://coveredinbees.net/">
-                    <p>Scott is incredible to work with. Super nice dude and very professional. Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
-                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
+                <blockquote cite="https://www.johnratcliff.com/">
+                    <p>I have worked with Scott on several occasions. He has an excellent ear for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
                 </blockquote>
 
                 <div class="attribution">
-                    <p class="author name">Tristan Gallagher</p>
-                    <p class="author title">Multi-Instrumentalist, Producer</p>
-                    <p class="author credits">Covered in Bees, Man-Witch, Eggbot</p>
+                    <p class="author name">John Ratcliff</p>
+                    <p class="author title">Producer, Musician</p>
+                    <p class="author credits">a-ha, Joshua Jones</p>
                 </div>
             </div>
         </div>
@@ -149,7 +150,9 @@
             <div class="col-mb-12">
                 <h2>services</h2>
 
-                <p>My services are focused in three main areas: audio mastering, creation of audio production masters, and audio restoration. Please see my <a href="/rates">services and rates</a> page for more detailed information on what each of these services includes. Ask for a quote or securely upload a track to get the process started.</p>
+                <p>My services are focused in three main areas: audio mastering, creation of audio production masters, and audio restoration.</p>
+                
+                <p>Please see my <a href="/rates">rates page</a> for more detailed information on what each of these services includes. Ask for a quote or securely upload a track for a mastering sample to get the process started.</p>
 
                 <div class="btn-row center">
                     <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
@@ -165,7 +168,9 @@
                 <h3>mastering</h3>
                 <p>Mastering is the process of balancing the sonic elements of your mixes, while also bringing out the best qualities of the music. It results in records that are sonically cohesive and have optimum playback across all systems and media formats.</p> 
                     
-                <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix. I am always happy to offer complementary mix assessments for clients.</p>
+                <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix.</p>
+                
+                <p>Complementary mix assessments are just one benefit included with every mastering project - <a href="/rates#mastering">see them all</a>.</p>
             </div>
         </div>
 
@@ -177,7 +182,7 @@
                 
                 <p>While the CD is slowly heading toward niche status, streaming services rule the day and digital video projects are also common.</p>
                 
-                <p>Each digital destination has its own nuances and knowing the ultimate destination ahead of time allows for optimization during mastering.</p>
+                <p>Each digital destination has its own nuances, and knowing the ultimate destination ahead of time allows for optimization during mastering.</p>
             </div>
 
             <div class="col-mb-12 col-3 col-offset-1">
@@ -185,7 +190,7 @@
 
                 <p>Vinyl is definitely making a comeback with more releases targeting the format every day.</p>
                 
-                <p>Your mastering targeting digital distribution <em>may</em> also work for vinyl, but mastering tailored for vinyl is sometimes the right choice to bring out the best in the format.</p>
+                <p>Mastering targeting digital distribution <em>may</em> also work for vinyl, but mastering tailored for vinyl is sometimes the right choice to bring out the best in the format.</p>
                 
                 <p class="btn-row">
                     <a class="btn small left top" href="/rates#mastering-vinyl">Learn More</a>
@@ -208,7 +213,7 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h3>production masters</h3>
-                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets. Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple formats.</p>
+                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets. Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple forms.</p>
             </div>
         </div>
 
@@ -217,7 +222,7 @@
                 <h4>Mastered for iTunes</h4>
                 <p>I am an Apple approved Mastered for iTunes (MFiT) engineer.</p>
 
-                <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List who has followed their protocols..</p>
+                <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List who has followed their protocols.</p>
 
                 <p>You <em>do not</em> need MFiT files to release your music on iTunes - only if you want your release to have the official "Mastered for iTunes" badge.</p>
 
@@ -302,7 +307,6 @@
             </div>
         </div>
 
-        <hr>
 
         <div class="col-group">
             <div class="col-mb-12">

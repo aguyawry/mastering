@@ -16,7 +16,7 @@
 
                 <p>Please find detailed descriptions of my services below along with my standard rates.</p>
                 
-                <p>You'll find reduced rates for returning clients, and I also offer a 15% discount on your next mastering project if you refer a new client who ends up booking an EP or album mastering project with me.</p>
+                <p>You'll find reduced rates for returning clients, and I also offer a 15% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p>
 
                 <p>As a supporter of the both the independent and local music communities, I can offer competitive rates for unsigned bands. I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
                     
@@ -68,7 +68,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h3 id="mastering">mastering</h3>
+                <h3 id="mastering" class="anchor">mastering</h3>
                 
                 <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
             </div>
@@ -113,12 +113,12 @@
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$14</td>
+                        <td class="currency">$15</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$12</td>
+                        <td class="currency">$13</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -151,14 +151,13 @@
                     </tr>
                 </table>
 
-                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $14 x 30 = $420. The same charge for a returning client would be $12 x 30 = $360.</p>
+                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $15 x 30 = $450. The same charge for a returning client would be $13 x 30 = $390.</p>
 
                 <p>Please contact me if you are interested in rates for Stem Mastering.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
-                    <li>The Client is the person or entity who is paying the bill. This could be the artist, producer, label or other.</li>
                     <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic mastering settings.</li>
                     <li>Any subsequent mix changes after mastering may incur additional charges. It will depend primarily on the nature of the changes.</li>
                 </ul>
@@ -206,7 +205,7 @@
 
         <div class="col-group">    
             <div class="col-mb-12">
-                <h4 id="mastering-vinyl">Mastering for Vinyl Details</h4>
+                <h4 id="mastering-vinyl" class="anchor">Mastering for Vinyl Details</h4>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -257,7 +256,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-itunes">Mastered for iTunes</h4>
+                <h4 id="production-itunes" class="anchor">Mastered for iTunes</h4>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -293,7 +292,7 @@
         
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-vinyl">Vinyl Production Masters</h4>
+                <h4 id="production-vinyl" class="anchor">Vinyl Production Masters</h4>
             </div>
                 
             <div class="col-mb-12 col-6">
@@ -336,7 +335,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-ddpi">DDPi Masters for Compact Disc</h4>
+                <h4 id="production-ddpi" class="anchor">DDPi Masters for Compact Disc</h4>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -375,7 +374,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-pmcd">PreMaster CDs</h4>
+                <h4 id="production-pmcd" class="anchor">PreMaster CDs</h4>
             </div>
                 
             <div class="col-mb-12 col-6">
@@ -425,7 +424,7 @@
 
         <div class="col-group">    
             <div class="col-mb-12">
-                <h3 id="restoration">restoration</h3>
+                <h3 id="restoration" class="anchor">restoration</h3>
             </div>
 
             <div class="col-mb-12 col-6">

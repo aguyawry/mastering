@@ -14,7 +14,7 @@
                     <div class="col-mb-12">
                         <p><a href="">207.358.9146</a>&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;<?php include "email.php";?></p>
                         <p>&copy;<?php date_default_timezone_set('UTC'); echo date("Y"); ?> elson mastering&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;all rights reserved</p>
-                        <p>we always protect your <a href="<?php echo SITE_URL ?>privacy">privacy</a></p>
+                        <p>i always protect your <a href="<?php echo SITE_URL ?>privacy">privacy</a></p>
                     </div>
 
                 </div>
