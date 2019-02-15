@@ -1,6 +1,6 @@
 /*!
  * Name    : Just Another Parallax [Jarallax]
- * Version : 1.10.2
+ * Version : 1.10.7
  * Author  : nK <https://nkdev.info>
  * GitHub  : https://github.com/nk-o/jarallax
  */
@@ -42,12 +42,32 @@
 /******/ 	// define getter function for harmony exports
 /******/ 	__webpack_require__.d = function(exports, name, getter) {
 /******/ 		if(!__webpack_require__.o(exports, name)) {
-/******/ 			Object.defineProperty(exports, name, {
-/******/ 				configurable: false,
-/******/ 				enumerable: true,
-/******/ 				get: getter
-/******/ 			});
+/******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
 /******/ 		}
+/******/ 	};
+/******/
+/******/ 	// define __esModule on exports
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 		}
+/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 	};
+/******/
+/******/ 	// create a fake namespace object
+/******/ 	// mode & 1: value is a module id, require it
+/******/ 	// mode & 2: merge all properties of value into the ns
+/******/ 	// mode & 4: return value when already ns object
+/******/ 	// mode & 8|1: behave like require
+/******/ 	__webpack_require__.t = function(value, mode) {
+/******/ 		if(mode & 1) value = __webpack_require__(value);
+/******/ 		if(mode & 8) return value;
+/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
+/******/ 		var ns = Object.create(null);
+/******/ 		__webpack_require__.r(ns);
+/******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
+/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
+/******/ 		return ns;
 /******/ 	};
 /******/
 /******/ 	// getDefaultExport function for compatibility with non-harmony modules
@@ -65,12 +85,39 @@
 /******/ 	// __webpack_public_path__
 /******/ 	__webpack_require__.p = "";
 /******/
+/******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 11);
 /******/ })
 /************************************************************************/
 /******/ ([
-/* 0 */
+/* 0 */,
+/* 1 */,
+/* 2 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = function (callback) {
+
+	if (document.readyState === 'complete' || document.readyState === 'interactive') {
+		// Already ready or interactive, execute callback
+		callback.call();
+	} else if (document.attachEvent) {
+		// Old browsers
+		document.attachEvent('onreadystatechange', function () {
+			if (document.readyState === 'interactive') callback.call();
+		});
+	} else if (document.addEventListener) {
+		// Modern browsers
+		document.addEventListener('DOMContentLoaded', callback);
+	}
+};
+
+/***/ }),
+/* 3 */,
+/* 4 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -89,31 +136,10 @@ if (typeof window !== "undefined") {
 }
 
 module.exports = win;
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(2)))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(5)))
 
 /***/ }),
-/* 1 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-module.exports = new Promise(function (resolve) {
-	if (document.readyState === 'interactive' || document.readyState === 'complete') {
-		resolve();
-	} else {
-		document.addEventListener('DOMContentLoaded', function () {
-			resolve();
-		}, {
-			capture: true,
-			once: true,
-			passive: true
-		});
-	}
-});
-
-/***/ }),
-/* 2 */
+/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -143,9 +169,6 @@ try {
 module.exports = g;
 
 /***/ }),
-/* 3 */,
-/* 4 */,
-/* 5 */,
 /* 6 */,
 /* 7 */,
 /* 8 */,
@@ -166,11 +189,11 @@ module.exports = __webpack_require__(12);
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
-var _domLoaded = __webpack_require__(1);
+var _liteReady = __webpack_require__(2);
 
-var _domLoaded2 = _interopRequireDefault(_domLoaded);
+var _liteReady2 = _interopRequireDefault(_liteReady);
 
-var _global = __webpack_require__(0);
+var _global = __webpack_require__(4);
 
 var _jarallax = __webpack_require__(13);
 
@@ -206,7 +229,7 @@ if (typeof _global.jQuery !== 'undefined') {
 }
 
 // data-jarallax initialization
-_domLoaded2.default.then(function () {
+(0, _liteReady2.default)(function () {
     (0, _jarallax2.default)(document.querySelectorAll('[data-jarallax]'));
 });
 
@@ -227,19 +250,21 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
-var _domLoaded = __webpack_require__(1);
+var _liteReady = __webpack_require__(2);
 
-var _domLoaded2 = _interopRequireDefault(_domLoaded);
+var _liteReady2 = _interopRequireDefault(_liteReady);
 
 var _rafl = __webpack_require__(14);
 
 var _rafl2 = _interopRequireDefault(_rafl);
 
-var _global = __webpack_require__(0);
+var _global = __webpack_require__(4);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+var isIE = navigator.userAgent.indexOf('MSIE ') > -1 || navigator.userAgent.indexOf('Trident/') > -1 || navigator.userAgent.indexOf('Edge/') > -1;
 
 var supportTransform = function () {
     var prefixes = 'transform WebkitTransform MozTransform'.split(' ');
@@ -269,7 +294,7 @@ updateWndVars();
 _global.window.addEventListener('resize', updateWndVars);
 _global.window.addEventListener('orientationchange', updateWndVars);
 _global.window.addEventListener('load', updateWndVars);
-_domLoaded2.default.then(function () {
+(0, _liteReady2.default)(function () {
     updateWndVars({
         type: 'dom-loaded'
     });
@@ -368,6 +393,7 @@ var Jarallax = function () {
             videoStartTime: 0,
             videoEndTime: 0,
             videoVolume: 0,
+            videoLoop: true,
             videoPlayOnlyVisible: true,
 
             // events
@@ -633,6 +659,14 @@ var Jarallax = function () {
             self.css(self.image.$container, {
                 'z-index': self.options.zIndex
             });
+
+            // fix for IE https://github.com/nk-o/jarallax/issues/110
+            if (isIE) {
+                self.css(self.image.$container, {
+                    opacity: 0.9999
+                });
+            }
+
             self.image.$container.setAttribute('id', 'jarallax-container-' + self.instanceID);
             self.$item.appendChild(self.image.$container);
 
@@ -686,8 +720,7 @@ var Jarallax = function () {
             self.image.$container.appendChild(self.image.$item);
 
             // set initial position and size
-            self.coverImage();
-            self.clipContainer();
+            self.onResize();
             self.onScroll(true);
 
             // ResizeObserver
@@ -839,6 +872,10 @@ var Jarallax = function () {
                 // scroll distance and height for image
                 if (speed < 0) {
                     scrollDist = speed * Math.max(contH, wndH);
+
+                    if (wndH < contH) {
+                        scrollDist -= speed * (contH - wndH);
+                    }
                 } else {
                     scrollDist = speed * (contH + wndH);
                 }
@@ -849,7 +886,7 @@ var Jarallax = function () {
                 } else if (speed < 0) {
                     resultH = scrollDist / speed + Math.abs(scrollDist);
                 } else {
-                    resultH += Math.abs(wndH - contH) * (1 - speed);
+                    resultH += (wndH - contH) * (1 - speed);
                 }
 
                 scrollDist /= 2;
@@ -1027,7 +1064,7 @@ var plugin = function plugin(items) {
 plugin.constructor = Jarallax;
 
 exports.default = plugin;
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(2)))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(5)))
 
 /***/ }),
 /* 14 */
@@ -1036,7 +1073,7 @@ exports.default = plugin;
 "use strict";
 
 
-var global = __webpack_require__(0);
+var global = __webpack_require__(4);
 
 /**
  * `requestAnimationFrame()`

@@ -17,9 +17,9 @@
   ],
   "dependencies": {
     "fluidable": "1.4.1",
-    "jarallax": "1.10.2",
+    "jarallax": "1.10.7",
     "jquery": "3.3.1",
-    "normalize-css": "8.0.0",
+    "normalize-css": "8.0.1",
     "sidr": "^2.2.1",
     "jquery-smooth-scroll": "^2.2.0",
     "headroom.js": "^0.9.3",

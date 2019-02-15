@@ -1,6 +1,8 @@
-import domLoaded from 'dom-loaded';
+import domReady from 'lite-ready';
 import raf from 'rafl';
 import { window } from 'global';
+
+const isIE = navigator.userAgent.indexOf('MSIE ') > -1 || navigator.userAgent.indexOf('Trident/') > -1 || navigator.userAgent.indexOf('Edge/') > -1;
 
 const supportTransform = (() => {
     const prefixes = 'transform WebkitTransform MozTransform'.split(' ');
@@ -30,7 +32,7 @@ updateWndVars();
 window.addEventListener('resize', updateWndVars);
 window.addEventListener('orientationchange', updateWndVars);
 window.addEventListener('load', updateWndVars);
-domLoaded.then(() => {
+domReady(() => {
     updateWndVars({
         type: 'dom-loaded',
     });
@@ -128,6 +130,7 @@ class Jarallax {
             videoStartTime: 0,
             videoEndTime: 0,
             videoVolume: 0,
+            videoLoop: true,
             videoPlayOnlyVisible: true,
 
             // events
@@ -364,6 +367,14 @@ class Jarallax {
         self.css(self.image.$container, {
             'z-index': self.options.zIndex,
         });
+
+        // fix for IE https://github.com/nk-o/jarallax/issues/110
+        if (isIE) {
+            self.css(self.image.$container, {
+                opacity: 0.9999,
+            });
+        }
+
         self.image.$container.setAttribute('id', `jarallax-container-${self.instanceID}`);
         self.$item.appendChild(self.image.$container);
 
@@ -417,8 +428,7 @@ class Jarallax {
         self.image.$container.appendChild(self.image.$item);
 
         // set initial position and size
-        self.coverImage();
-        self.clipContainer();
+        self.onResize();
         self.onScroll(true);
 
         // ResizeObserver
@@ -559,6 +569,10 @@ class Jarallax {
             // scroll distance and height for image
             if (speed < 0) {
                 scrollDist = speed * Math.max(contH, wndH);
+
+                if (wndH < contH) {
+                    scrollDist -= speed * (contH - wndH);
+                }
             } else {
                 scrollDist = speed * (contH + wndH);
             }
@@ -569,7 +583,7 @@ class Jarallax {
             } else if (speed < 0) {
                 resultH = scrollDist / speed + Math.abs(scrollDist);
             } else {
-                resultH += Math.abs(wndH - contH) * (1 - speed);
+                resultH += (wndH - contH) * (1 - speed);
             }
 
             scrollDist /= 2;
@@ -625,11 +639,10 @@ class Jarallax {
         if (self.options.elementInViewport) {
             viewportRect = self.options.elementInViewport.getBoundingClientRect();
         }
-        self.isElementInViewport =
-            viewportRect.bottom >= 0 &&
-            viewportRect.right >= 0 &&
-            viewportRect.top <= wndH &&
-            viewportRect.left <= wndW;
+        self.isElementInViewport = viewportRect.bottom >= 0
+            && viewportRect.right >= 0
+            && viewportRect.top <= wndH
+            && viewportRect.left <= wndW;
 
         // stop calculations if item is not in viewport
         if (force ? false : !self.isElementInViewport) {

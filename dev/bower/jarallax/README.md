@@ -20,7 +20,7 @@ Download: https://nkdev.info/downloads/advanced-wordpress-backgrounds/
 
 ## Getting Started
 
-### Node.js
+### ES6
 `npm install jarallax --save`
 ```javascript
 import {
@@ -41,10 +41,10 @@ Note: in this way is not available jQuery and data-attribute automatic initializ
 <script src="jarallax/dist/jarallax.min.js"></script>
 
 <!-- Include it if you want to use Video parallax -->
-<script src="jarallax/dist/jarallax.min.js"></script>
+<script src="jarallax/dist/jarallax-video.min.js"></script>
 
 <!-- Include it if you want to parallax any element -->
-<script src="jarallax/dist/jarallax.min.js"></script>
+<script src="jarallax/dist/jarallax-element.min.js"></script>
 ```
 
 #### CDN
@@ -71,6 +71,15 @@ You can add these plugins before jarallax initialize.
 <!-- Background Image Parallax -->
 <div class="jarallax">
     <img class="jarallax-img" src="<background_image_url_here>" alt="">
+    Your content here...
+</div>
+
+<!-- Background Image Parallax with <picture> tag -->
+<div class="jarallax">
+    <picture class="jarallax-img">
+        <source media="..." srcset="<alternative_background_image_url_here>">
+        <img src="<background_image_url_here>" alt="">
+    </picture>
     Your content here...
 </div>
 
@@ -211,6 +220,7 @@ videoSrc | string | `null` | You can use Youtube, Vimeo or local videos. Also yo
 videoStartTime | float | `0` | Start time in seconds when video will be started (this value will be applied also after loop).
 videoEndTime | float | `0` | End time in seconds when video will be ended.
 videoVolume | float | `0` | Video volume from 0 to 100.
+videoLoop | boolean | `true` | Loop video to play infinitely.
 videoPlayOnlyVisible | boolean | `true` | Play video only when it is visible on the screen.
 
 ### Options For Element Parallax

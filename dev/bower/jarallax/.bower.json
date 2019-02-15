@@ -24,14 +24,14 @@
     "demo",
     "tests"
   ],
-  "version": "1.10.2",
-  "_release": "1.10.2",
+  "version": "1.10.7",
+  "_release": "1.10.7",
   "_resolution": {
     "type": "version",
-    "tag": "v1.10.2",
-    "commit": "e9d2307c3357956daf6681569720623af62f57bb"
+    "tag": "v1.10.7",
+    "commit": "406de2c2af747e985f9aa910deaac7c9841c80da"
   },
   "_source": "https://github.com/nk-o/jarallax.git",
-  "_target": "1.10.2",
+  "_target": "1.10.7",
   "_originalSource": "jarallax"
 }
