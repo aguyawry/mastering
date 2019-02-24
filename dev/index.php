@@ -1,8 +1,8 @@
 <?php
     $page = "home";
-    $title = "mastering studio | elson mastering";
+    $title = "audio mastering studio | elson mastering";
     $description = "elson mastering provides high-quality music mastering services to artists, labels and music producers throughout the world.";
-    $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, remote mastering, internet mastering, music production, audio restoration, transfers, archives, maine";
+    $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, mastering for vinyl, remote mastering, internet mastering, music production, audio restoration, transfers, archives, digital audio editing, maine";
     $robots = "index, follow";
     include "top.php";
 ?>

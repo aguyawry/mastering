@@ -1,13 +1,13 @@
 <?php
     $page = "rates";
-    $title = "rates | elson mastering";
+    $title = "services and rates | elson mastering";
     $description = "elson mastering rates and services ";
-    $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, remote mastering, internet mastering, music production, audio restoration, transfers, archives, maine";
-    $robots = "noindex, nofollow";
+    $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, mastering for vinyl, remote mastering, internet mastering, music production, audio restoration, transfers, archives, digital audio editing, maine";
+    $robots = "index, follow";
     include "top.php";
 ?>
 
-<section  id="top" class="dark">
+<section id="top" class="dark">
     <div class="container">
 
         <div class="col-group">
@@ -15,19 +15,10 @@
                 <h2>services & rates</h2>
 
                 <p>Please find detailed descriptions of my services below along with my standard rates.</p>
-                
-                <p>You'll find reduced rates for returning clients, and I also offer a 15% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p>
 
                 <p>As a supporter of the both the independent and local music communities, I can offer competitive rates for unsigned bands. I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
                     
-                <p>If you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
-            </div>
-        </div>
-
-        
-        <div class="col-group">
-            <div class="col-mb-12">
-                <hr>
+                <p>Jump to a specific section using the links below, or if you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
             </div>
         </div>
 
@@ -54,23 +45,26 @@
 
             <div class="col-mb-12 col-4">
                 <h4><a href="#restoration">restoration</a></h4>
-                <?php /* <h4><a href="#digital-editing">digital editing</a></h4> */ ?>
+                <h4><a href="#digital-editing">digital editing</a></h4>
             </div>
         </div>
 
+    </div>
+</section>
+
+
+<section id="top" class="light">
+    <div class="container">
 
         <div class="col-group">
             <div class="col-mb-12">
-                <hr>
-            </div>
-        </div>
+                <h3 id="mastering">mastering</h3>
 
+                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can.</p>
 
-        <div class="col-group">
-            <div class="col-mb-12">
-                <h3 id="mastering" class="anchor">mastering</h3>
-                
-                <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can. All mastering rates include:</p>
+                <p>You'll find reduced rates for returning clients, and I also offer a 15% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p>
+
+                <p>All mastering rates include:</p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -127,7 +121,12 @@
                         <td>USD</td>
                     </tr>
                     <tr>
-                        <td>&nbsp;&nbsp;&nbsp;(<a href="#mastering-vinyl">details below</a>)</td>
+                        <td>&nbsp;&nbsp;&nbsp;(if needed,</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;&nbsp;&nbsp;<a href="#mastering-vinyl">details below</a>)</td>
                         <td></td>
                         <td></td>
                     </tr>
@@ -152,14 +151,15 @@
                 </table>
 
                 <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $15 x 30 = $450. The same charge for a returning client would be $13 x 30 = $390.</p>
-
-                <p>Please contact me if you are interested in rates for Stem Mastering.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
                     <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic mastering settings.</li>
+
                     <li>Any subsequent mix changes after mastering may incur additional charges. It will depend primarily on the nature of the changes.</li>
+
+                    <li>Please contact me if you are interested in Stem Mastering.</li>
                 </ul>
             </div>
         </div>
@@ -173,7 +173,7 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>All attended mastering sessions are billed by the hour in quarter-hour increments. This includes attended sessions for revisions.</p>
+                <p>All attended mastering sessions are billed by the hour in quarter-hour increments. This includes attended revisions.</p>
                 
                 <table>
                     <tr>
@@ -205,7 +205,7 @@
 
         <div class="col-group">    
             <div class="col-mb-12">
-                <h4 id="mastering-vinyl" class="anchor">Mastering for Vinyl Details</h4>
+                <h4 id="mastering-vinyl" class="anchor">Mastering for Vinyl - Details</h4>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -217,31 +217,33 @@
 
                 <p>If you do need separate mastering for vinyl, it's typically a variation on the settings that were used for digital distribution, so there is already a sonic starting point.</p>
 
-                <p>While many of the issues noted here are addressed during the normal mastering process, some of them are also stylistic elements found in certain musical generes. They could be reasons you may need separate masters for vinyl.</p>
+                <p>While many of the issues noted here are addressed during the normal mastering process, some of them are also stylistic elements found in certain musical genres. They could be reasons you may need separate masters for vinyl.</p>
                 
-                <p>Also check out the <a href="#production-vinyl">Vinyl Production Masters</a> section below for more information.</p></p>
+                <p>Also check out the <a href="#production-vinyl">Vinyl Production Masters</a> section below for more information.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
                     <li>Excessive limiting and compression to achieve high levels can end up distorting on vinyl. It will ultimately have the opposite effect since the engineer will be forced to cut at a lower volume which will also increase the perceived noise floor.</li>
+
                     <li>Sudden and drastic panning, or extreme sweeps between left and right channels could be problematic.</li>
+
                     <li>Excessive low frequencies may need taming to help with groove tracking and create a cleaner cut. Low frequencies should also be all or mostly centered in the mix.</li>
+
                     <li>Excessive high frequencies may need taming since they could distort on vinyl and could possibly even damage the head on the cutting lathe.</li>
+
                     <li>Excessive sibilance, like the "ssssss" sound, can cause distortion when cutting vinyl. Sometimes the letters "t" and "z" can cause sibilance as well. </li>
                 </ul>   
             </div>
         </div>
 
         <?php include "btn-top.php"; ?>
+    </div>
+</section>
 
 
-        <div class="col-group">
-            <div class="col-mb-12">
-                <hr>
-            </div>
-        </div>
-
+<section id="top" class="dark">
+    <div class="container">
 
         <div class="col-group">
             <div class="col-mb-12">
@@ -249,7 +251,9 @@
             </div>
 
             <div class="col-mb-12">    
-                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets. Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple formats.</p>
+                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets.</p>
+
+                <p>Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple formats.</p>
             </div>
         </div>
 
@@ -273,11 +277,11 @@
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
-                    <li><strong>Rate:<br>$15 + $1 USD per audio-minute</strong></li>
-                    <li><strong>Delivery Format:<br>Individual 24 bit WAV files at the sample rate of the original mixes</strong></li>
+                    <li><strong>Rate:</strong><br>$15 + $1 USD per audio-minute</li>
+                    <li><strong>Delivery Format:</strong><br>Individual 24 bit WAV files at the sample rate of the original mixes</li>
                 </ul>
                 
-                <p>Includes:</p>
+                <p><strong>Includes:</strong></p>
                 <ul class="list-bullet">
                     <li>Encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping</li>
                     <li>Quality control of encoded files to ensure no unwanted sonic artifacts or distortion</li>
@@ -312,12 +316,17 @@
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
+                <p><strong>Rate:</strong></p>
                 <ul class="list-bullet">
-                    <li><strong>Rate:<br>$30 + $1 per audio-minute USD, per record</strong></li>
-                    <li><strong>Delivery Format:<br>One 24 bit WAV file per side at the sample rate of the original mixes</strong></li>
+                    <li>$30 + $1 per audio-minute USD, per record</li>
                 </ul>
 
-                <p>Includes:</p>
+                <p><strong>Delivery Format:</strong></p>
+                <ul class="list-bullet">
+                    <li>One 24 bit WAV file per side at the sample rate of the original mixes</li>
+                </ul>
+
+                <p><strong>Includes:</strong></p>
                 <ul class="list-bullet">
                     <li>Any discussions with you and your vinyl cutting house that may be needed</li>
                     <li>Sequencing each side using your high resolution tracks with your preferred order and spacing</li>
@@ -351,12 +360,17 @@
             </div>
                 
             <div class="col-mb-12 col-5 col-offset-1">
+                <p><strong>Rate:</strong></p>
                 <ul class="list-bullet">
-                    <li><strong>Rate:<br>$30 + $1 per audio-minute USD</strong></li>
-                    <li><strong>Delivery Format:<br>44.1 kHz / 16 bit audio as a Digital Image</strong></li>
+                    <li>$30 + $1 per audio-minute USD</li>
                 </ul>
 
-                <p>Includes:</p>
+                <p><strong>Delivery Format:</strong></p>
+                <ul class="list-bullet">
+                    <li>44.1 kHz / 16 bit audio as a Digital Image</li>
+                </ul>
+
+                <p><strong>Includes:</strong></p>
                 <ul class="list-bullet">
                     <li>Sequencing of your tracks with your preferred order and spacing</li>
                     <li>Fade-ins, fade-outs and any cross-fades for each track</li>
@@ -392,12 +406,19 @@
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
+                <p><strong>Rate:</strong></p>
                 <ul class="list-bullet">
-                    <li><strong>Rates:<br>$45 + $1 per audio-minute USD<br>CD References - $10 USD each<br>Shippng costs</strong></li>
-                    <li><strong>Delivery Format:<br>44.1 kHz / 16 bit audio as a CD-R</strong></li>
+                    <li>$45 + $1 per audio-minute USD</li>
+                    <li>CD References - $10 USD each</li>
+                    <li>Shipping costs</li>
                 </ul>
 
-                <p>Includes:</p>
+                <p><strong>Delivery Format:</strong></p>
+                <ul class="list-bullet">
+                    <li>44.1 kHz / 16 bit audio as a CD-R</li>
+                </ul>
+
+                <p><strong>Includes:</strong></p>
                 <ul class="list-bullet">
                     <li>Sequencing of your tracks with your preferred order and spacing</li>
                     <li>Fade-ins, fade-outs and any cross-fades for each track</li>
@@ -414,13 +435,12 @@
 
         <?php include "btn-top.php"; ?>
 
+    </div>
+</section>
 
-        <div class="col-group">
-            <div class="col-mb-12">
-                <hr>
-            </div>
-        </div>
 
+<section id="top" class="light">
+    <div class="container">
 
         <div class="col-group">    
             <div class="col-mb-12">
@@ -440,9 +460,13 @@
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
-                <p><strong>Quoted per project.</strong></p>
+                <p><strong>Rate:</strong></p>
 
-                <p>Restoration can fix may things including:</p>
+                <ul class="list-bullet">
+                    <li>Quoted per project.</li>
+                </ul>
+                
+                <p><strong>Restoration can fix may things including:</strong></p>
 
                 <ul class="list-bullet">
                     <li>Distortion and clipping</li>
@@ -456,42 +480,46 @@
         </div>
 
         <?php include "btn-top.php"; ?>
+    </div>
+</section>
 
-        <?php /*
-        <div class="col-group">
-            <div class="col-mb-12">
-                <hr>
-            </div>
-        </div>
 
+<section id="top" class="dark">
+    <div class="container">
 
         <div class="col-group">    
             <div class="col-mb-12">
-                <h3 id="digital-editing">digital editing</h3>
+                <h3 id="digital-editing">digital audio editing</h3>
             </div>
 
             <div class="col-mb-12 col-6">
-                <p><strong>$60 USD per hour<br>Billed in quarter-hour increments</strong></p>
+                <p>Basic digital audio editing is part of the mastering process and creating production masters. Sometimes more involved editing is requested for a variety of reasons.</p>
 
-                <p>Transparent edits</p>
+                <p>In a mastering context, clients often ask for new or different versions of their mastered audio. Common requests are to create shorter and also "clean" versions of songs for radio play.</p>
 
-
+                <p>Sometimes clients send a number of different mixes of the same song to be mastered - vocal up mix, instrumental mix, snare up mix or more. After mastering all versions, they may want to edit together sections from each to create a new version.</p>
+                
+                <p>In all cases, audio editing needs to be seamless and totally transparent to the listener.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
-                <p>Digital editing can be helpful for:</p>
+                <p><strong>Rate:</strong></p>
+                <ul class="list-bullet">
+                    <li>$60 USD per hour</li>
+                    <li>Billed in quarter-hour increments</li>
+                </ul>
+
+                <p><strong>Other digital audio editing applications:</strong></p>
 
                 <ul class="list-bullet">
-                    <li>Creating shorter "radio versions" of long tracks</li>
-                    <li>Creating "clean" versions of tracks, typically by editing in instrumental versions</li>
-                    <li>Editing together different mix / master versions - main mix, vocal up, bass up... - to create a new version of the track</li>
-                    <li>Speeding up or slowing down audio, often to match video or for a timed live performance</li>
-                </ul>
+                    <li>Editing down raw recordings for audio books or podcasts</li>
+                    <li>Redaction to remove sensitive information for legal or regulatory purposes</li>
+                    <li>Editing audio to fit timed radio or video broadcasts</li>
+                </ul>                
             </div>
         </div>
 
-        */ ?>
-
+        <?php include "btn-top.php"; ?>
     </div>
 </section>
 
