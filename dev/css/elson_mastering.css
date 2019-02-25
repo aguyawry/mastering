@@ -1253,15 +1253,17 @@ h2 {
   line-height: 1.2;
   margin: 0 0 30px;
 }
+h3,
+h4 {
+  margin: 10px 0 15px;
+  line-height: 1.1;
+  padding-top: 15px;
+}
 h3 {
   font-size: 3.9rem;
-  margin: 25px 0 15px;
-  line-height: 1.1;
 }
 h4 {
   font-size: 2.7rem;
-  margin: 25px 0 15px;
-  line-height: 1.1;
 }
 p {
   font-size: 1.9rem;

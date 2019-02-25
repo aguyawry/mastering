@@ -5,6 +5,21 @@
 
 $(document).ready( function() {
 
+    // headroom - show hide header
+    var myElement = document.querySelector('header');
+    var headroom  = new Headroom(myElement, {
+        'offset': 135,
+        'tolerance': 5
+    });
+    headroom.init();
+
+    // Auto-hide the header if not at the top of the page
+    if( window.scrollY != 0) {
+        // setTimeout(function() {
+            $('header').removeClass('headroom--pinned').addClass('headroom--unpinned');
+        // }, 250);
+    }
+
     // side menu
     $('.toggle-button').sidr({
         side: 'right',
@@ -34,12 +49,5 @@ $(document).ready( function() {
         speed: 1000
     });
 
-    // headroom - show hide header
-    var myElement = document.querySelector('header');
-    var headroom  = new Headroom(myElement, {
-        'offset': 135,
-        'tolerance': 5
-    });
-    headroom.init(); 
 
 });

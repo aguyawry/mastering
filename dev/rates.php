@@ -38,7 +38,7 @@
                 <ul class="list-bullet">
                     <li><a href="#production-itunes">Mastered for iTunes</a></li>
                     <li><a href="#production-vinyl">Vinyl Production Masters</a></li>
-                    <li><a href="#production-ddpi">DDPi Masters for Compact Disc</a></li>
+                    <li><a href="#production-ddpi">DDPi Masters</a></li>
                     <li><a href="#production-pmcd">PreMaster CDs</a></li>
                 </ul>
             </div>
@@ -62,7 +62,7 @@
 
                 <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can.</p>
 
-                <p>You'll find reduced rates for returning clients, and I also offer a 15% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p>
+                <p>You'll find reduced rates for returning clients, and I also offer a 10% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p>
 
                 <p>All mastering rates include:</p>
             </div>
@@ -102,22 +102,22 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Unattended mastering is billed per audio-minute, with a 4 audio-minute minimum.</p>
+                <p>Unattended mastering is billed per audio-minute, with a 3 audio-minute minimum charge.</p>
 
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$15</td>
+                        <td class="currency">$20</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$13</td>
+                        <td class="currency">$18</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Mastering for Vinyl</td>
-                        <td class="currency">$7</td>
+                        <td class="currency">$10</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -132,7 +132,7 @@
                     </tr>
                     <tr>
                         <td>&bull; TV Tracks,</td>
-                        <td class="currency">$4</td>
+                        <td class="currency">$7</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -150,7 +150,8 @@
                     </tr>
                 </table>
 
-                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $15 x 30 = $450. The same charge for a returning client would be $13 x 30 = $390.</p>
+                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $20 x 30 = $600.</p>
+                <p>The same charge for a returning client would be $18 x 30 = $540.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
@@ -178,12 +179,12 @@
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$200</td>
+                        <td class="currency">$225</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$180</td>
+                        <td class="currency">$200</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -205,7 +206,7 @@
 
         <div class="col-group">    
             <div class="col-mb-12">
-                <h4 id="mastering-vinyl" class="anchor">Mastering for Vinyl - Details</h4>
+                <h4 id="mastering-vinyl">Mastering for Vinyl - Details</h4>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -252,7 +253,7 @@
 
             <div class="col-mb-12">    
                 <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets.</p>
-
+                
                 <p>Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple formats.</p>
             </div>
         </div>
@@ -260,7 +261,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-itunes" class="anchor">Mastered for iTunes</h4>
+                <h4 id="production-itunes">Mastered for iTunes</h4>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -296,7 +297,7 @@
         
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-vinyl" class="anchor">Vinyl Production Masters</h4>
+                <h4 id="production-vinyl">Vinyl Production Masters</h4>
             </div>
                 
             <div class="col-mb-12 col-6">
@@ -344,7 +345,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-ddpi" class="anchor">DDPi Masters for Compact Disc</h4>
+                <h4 id="production-ddpi">DDPi Masters</h4>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -388,7 +389,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-pmcd" class="anchor">PreMaster CDs</h4>
+                <h4 id="production-pmcd">PreMaster CDs</h4>
             </div>
                 
             <div class="col-mb-12 col-6">
@@ -408,7 +409,7 @@
             <div class="col-mb-12 col-5 col-offset-1">
                 <p><strong>Rate:</strong></p>
                 <ul class="list-bullet">
-                    <li>$45 + $1 per audio-minute USD</li>
+                    <li>$60 + $1 per audio-minute USD</li>
                     <li>CD References - $10 USD each</li>
                     <li>Shipping costs</li>
                 </ul>
@@ -444,7 +445,7 @@
 
         <div class="col-group">    
             <div class="col-mb-12">
-                <h3 id="restoration" class="anchor">restoration</h3>
+                <h3 id="restoration">restoration</h3>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -493,7 +494,7 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Basic digital audio editing is part of the mastering process and creating production masters. Sometimes more involved editing is requested for a variety of reasons.</p>
+                <p>Basic digital audio editing is part of both the mastering process and creating production masters. Sometimes more involved editing is requested for a variety of reasons.</p>
 
                 <p>In a mastering context, clients often ask for new or different versions of their mastered audio. Common requests are to create shorter and also "clean" versions of songs for radio play.</p>
 

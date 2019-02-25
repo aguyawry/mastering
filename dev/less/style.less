@@ -72,20 +72,23 @@ h2 {
     // }
 }
 
+h3, h4 {
+    margin: 10px 0 15px;
+    line-height: 1.1;
+    padding-top: 15px;
+}
+
 h3 {
     font-size: @text-font-size + 2.1;
-    margin: 25px 0 15px;
-    line-height: 1.1;
 
     // @media only screen and (min-width : @screenTablet) {
         // font-size: @text-font-size + 2.8;
     // }
 }
 
+
 h4 {
     font-size: @text-font-size + 0.9;
-    margin: 25px 0 15px;
-    line-height: 1.1;
 
     // @media only screen and (min-width : @screenTablet) {
         // font-size: @text-font-size + 1;
@@ -160,19 +163,6 @@ th, td {
         text-align: right;
     }
 }
-
-
-// Trick for building in padding for the fixed header with internal links
-//  See: https://css-tricks.com/hash-tag-links-padding/
-// .anchor { z-index: -10; }
-// .anchor::before { 
-//     display: block; 
-//     content: " "; 
-//     margin-top: @padding-for-header * -1;
-//     height: @padding-for-header; 
-//     visibility: hidden; 
-//     pointer-events: none;
-// }
 
 
 // The size of the parallax effects
