@@ -90,7 +90,7 @@
 
                     <li><strong>Archives</strong><br>While I highly recommend making multiple copies of your mastered audio and keeping them in different places, I'll keep your audio archived for a minimum of two years.</li>
 
-                    <li><strong>Communications</strong><br>Efficient and effective communication is important to me in whatever form works best. That could be email, video chat, phone calls or other.</li>
+                    <li><strong>Comms</strong><br>Efficient and effective communication is important to me in whatever form works best. That could be email, video chat, phone calls or other.</li>
                 </ul>
             </div>
         </div>
@@ -107,17 +107,17 @@
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$20</td>
+                        <td class="currency">$17</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$18</td>
+                        <td class="currency">$15</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Mastering for Vinyl</td>
-                        <td class="currency">$10</td>
+                        <td class="currency">$8</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -132,7 +132,7 @@
                     </tr>
                     <tr>
                         <td>&bull; TV Tracks,</td>
-                        <td class="currency">$7</td>
+                        <td class="currency">$5</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -150,15 +150,15 @@
                     </tr>
                 </table>
 
-                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $20 x 30 = $600.</p>
-                <p>The same charge for a returning client would be $18 x 30 = $540.</p>
+                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $17 x 30 = $510.</p>
+                <p>The same charge for a returning client would be $15 x 30 = $450.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
                     <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic mastering settings.</li>
 
-                    <li>Any subsequent mix changes after mastering may incur additional charges. It will depend primarily on the nature of the changes.</li>
+                    <li>Any subsequent mix changes after mastering may incur additional charges. It will depend primarily on the sonic nature of the changes.</li>
 
                     <li>Please contact me if you are interested in Stem Mastering.</li>
                 </ul>
@@ -179,12 +179,12 @@
                 <table>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$225</td>
+                        <td class="currency">$200</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$200</td>
+                        <td class="currency">$180</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -494,7 +494,7 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Basic digital audio editing is part of both the mastering process and creating production masters. Sometimes more involved editing is requested for a variety of reasons.</p>
+                <p>Basic digital audio editing is included in both the mastering process and creation of production masters. Sometimes more involved editing is requested for a variety of reasons.</p>
 
                 <p>In a mastering context, clients often ask for new or different versions of their mastered audio. Common requests are to create shorter and also "clean" versions of songs for radio play.</p>
 
