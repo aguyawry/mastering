@@ -32,25 +32,36 @@
             </div>
 
 
-            <div class="col-mb-12">
-                <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
-                    <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
-
-                    <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
-
-                    <p>Scott is a powerful ally and has become a friend I count on to check my work and make it better.</p>
-                </blockquote>
-
-                <div class="attribution">
-                    <p class="author name">Ken Hutton</p>
-                    <p class="author title">Engineer, Producer</p>
-                    <p class="author credits">Mark Knopfler, Tim McGraw, Suzy Bogguss, Sawyer Brown</p>
-                </div>
-            </div>
-            
-            <div class="col-mb-12">
+            <!-- <div class="col-mb-12">
                 <div class="btn-row center">
                     <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
+                </div>
+            </div> -->
+
+
+            <div class="col-mb-12">
+                <div class="testimonial">
+                    <blockquote cite="https://soundbetter.com/profiles/23611-ken-hutton">
+                        <p>Scott is my first call for mastering. For all his technical mastery, he never loses sight of the music. I can flow seamlessly with him between technical and musical issues, and never have to explain what I mean.</p>
+
+                        <p>He adopts the project as a contributor, with an authentic interest in helping me fulfill and exceed the expectations of my artists and clients.</p>
+
+                        <p>Scott is a powerful ally and has become a friend I count on to check my work and make it better.</p>
+                    </blockquote>
+
+                    <div class="attribution">
+                        <div class="col-group">
+                            <div class="col-mb-12 col-2">
+                                <img src="img/testimonials/ken_hutton.jpg" alt="Engineer Producer Ken Hutton">
+                            </div>
+
+                            <div class="col-mb-12 col-10">
+                                <p class="author name">Ken Hutton</p>
+                                <p class="author title">Engineer, Producer</p>
+                                <p class="author credits">Mark Knopfler, Tim McGraw, Suzy Bogguss, Sawyer Brown</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -122,14 +133,23 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <blockquote cite="https://www.johnratcliff.com/">
-                    <p>I have worked with Scott on several occasions. He has an excellent ear for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
-                </blockquote>
+                <div class="testimonial">
+                    <blockquote cite="https://www.johnratcliff.com/">
+                        <p>I have worked with Scott on several occasions. He has an excellent ear for all genres of music and also the technicalities involved in getting the final product just right. I recommend him highly.</p>
+                    </blockquote>
 
-                <div class="attribution">
-                    <p class="author name">John Ratcliff</p>
-                    <p class="author title">Producer, Musician</p>
-                    <p class="author credits">a-ha, Joshua Jones</p>
+                    <div class="attribution">
+                        <div class="col-group">
+                                <div class="col-mb-12 col-2">
+                                    <img src="img/testimonials/john_ratcliff.jpg" alt="Engineer Producer John Ratcliff">
+                                </div>
+
+                                <div class="col-mb-12 col-10">
+                            <p class="author name">John Ratcliff</p>
+                            <p class="author title">Producer, Musician</p>
+                            <p class="author credits">a-ha, Joshua Jones</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -310,15 +330,24 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <blockquote cite="https://coveredinbees.net/">
-                    <p>Scott is incredible to work with. Super nice dude and very professional. Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
-                    <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
-                </blockquote>
+                <div class="testimonial">
+                    <blockquote cite="https://coveredinbees.net/">
+                        <p>Scott is incredible to work with. Super nice dude and very professional. Even though the material we presented him with was recorded in a very DIY manner, he managed to pull out albums that sound like real albums.</p>
+                        <p>We had no idea what we were doing, but he spoke in a language we could understand and the results were beyond what we could have hoped for.</p>
+                    </blockquote>
 
-                <div class="attribution">
-                    <p class="author name">Tristan Gallagher</p>
-                    <p class="author title">Multi-Instrumentalist, Producer</p>
-                    <p class="author credits">Covered in Bees, Man-Witch, Eggbot</p>
+                    <div class="attribution">
+                        <div class="col-group">
+                            <div class="col-mb-12 col-2">
+                                <img src="img/testimonials/tristian_gallagher.jpg" alt="Producer Multi-Instrumentalist Tristian Gallagher ">
+                            </div>
+
+                            <div class="col-mb-12 col-10">
+                            <p class="author name">Tristan Gallagher</p>
+                            <p class="author title">Multi-Instrumentalist, Producer</p>
+                            <p class="author credits">Covered in Bees, Man-Witch, Eggbot</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -357,22 +386,34 @@
             </div>
 
             <div class="col-12 col-dt-5 col-dt-offset-1">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:s5q4izow8slvdvg67mx9ne535:playlist:6r76CYDHrMVI8oJ7yhauDq:" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:s5q4izow8slvdvg67mx9ne535:playlist:6r76CYDHrMVI8oJ7yhauDq:&theme=white" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
             </div>
+        </div>
 
+        <div class="col-group">
             <div class="col-mb-12 col-col-ld-12">
-                <blockquote cite="https://coveredinbees.net/">
-                    <p>Scott has done an excellent job mastering our songs. He understands the sonic challenges that electronic music can present, especially when integrated with more traditional instruments.</p>
-                    <p>He is friendly, comfortable to work with and has authentic enthusiasm for the music. We couldn’t be more satisified.</p>
-                </blockquote>
+                <div class="testimonial">
+                    <blockquote cite="https://coveredinbees.net/">
+                        <p>Scott has done an excellent job mastering our songs. He understands the sonic challenges that electronic music can present, especially when integrated with more traditional instruments.</p>
+                        <p>He is friendly, comfortable to work with and has authentic enthusiasm for the music. We couldn’t be more satisified.</p>
+                    </blockquote>
 
-                <div class="attribution">
-                    <p class="author name">Bill Machon</p>
-                    <p class="author title">Engineer, Producer, Multi-Instrumentalist</p>
-                    <p class="author credits">Echoes On Track</p>
+                    <div class="attribution">
+                        <div class="col-group">
+                            <div class="col-mb-12 col-2">
+                                <img src="img/testimonials/bill_machon.jpg" alt="Engineer, Producer, Multi-Instrumentalist Bill Machon">
+                            </div>
+
+                            <div class="col-mb-12 col-10">
+                            <p class="author name">Bill Machon</p>
+                            <p class="author title">Engineer, Producer, Multi-Instrumentalist</p>
+                            <p class="author credits">Echoes On Track</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+
     </div>
 </section>
 

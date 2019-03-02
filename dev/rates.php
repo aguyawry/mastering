@@ -102,7 +102,7 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Unattended mastering is billed per audio-minute, with a 3 audio-minute minimum charge.</p>
+                <p>Unattended mastering is billed per audio-minute, rounded (up or down) to the half-minute. There is a 3 audio-minute minimum charge.</p>
 
                 <table>
                     <tr>
@@ -159,6 +159,8 @@
                     <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic mastering settings.</li>
 
                     <li>Any subsequent mix changes after mastering may incur additional charges. It will depend primarily on the sonic nature of the changes.</li>
+
+                    <li>Returning client status is achieved after I've mastered 30 minutes of audio.</li>
 
                     <li>Please contact me if you are interested in Stem Mastering.</li>
                 </ul>
