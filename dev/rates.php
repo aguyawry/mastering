@@ -198,7 +198,7 @@
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
                     <li>A typical single takes between 30 minutes and 1 hour to complete in an attended session.</li>
-                    <li>A typical album (40 to 60 minutes) usually takes between 6 and 8 hours to complete in an attended session.</li>
+                    <li>A typical album (40 to 60 minutes) usually takes between 5 and 7 hours to complete in an attended session.</li>
                 <ul>
             </div>
         </div>
