@@ -26,10 +26,24 @@
             <nav id="menu">
                 <ul>
                     <li><a class="close" href="#"><span>X</span></a></li>
-                    <li><a href="<?php echo SITE_URL ?>#why">why</a></li>
-                    <li><a href="<?php echo SITE_URL ?>#services">services</a></li>
-                    <li><a href="<?php echo SITE_URL ?>#scott">scott</a></li>
-                    <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>
+                    <li><a href="<?php echo SITE_URL ?>#intro">home</a></li>
+                    <li>
+                        <ul>
+                            <li><a href="<?php echo SITE_URL ?>#why">why mastering</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#services">services</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#scott">scott</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>    
+                        </ul>
+                    </li>
+                    <li><a href="<?php echo SITE_URL ?>rates#top">rates</a></li>
+                    <li>
+                        <ul>
+                            <li><a href="<?php echo SITE_URL ?>rates#mastering-unattended">mastering</a></li>
+                            <li><a href="<?php echo SITE_URL ?>rates#production">production masters</a></li>
+                            <li><a href="<?php echo SITE_URL ?>rates#restoration">restoration</a></li>
+                            <li><a href="<?php echo SITE_URL ?>rates#digital-editing">digital audio editing</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </nav>
         </div>

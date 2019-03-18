@@ -62,7 +62,7 @@
 
                 <p>Mastering is the actual process of enhancing your mixes so they sound the best they possibly can.</p>
 
-                <p>You'll find reduced rates for returning clients, and I also offer a 10% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p>
+                <!-- <p>You'll find reduced rates for returning clients, and I also offer a 10% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p> -->
 
                 <p>All mastering rates include:</p>
             </div>
@@ -76,7 +76,7 @@
 
                     <li><strong>Session Set Up</strong><br>Before each session there is some time spent recalibrating gear, preparing source mixes for mastering and other housekeeping tasks to get everything ready to go for the session.</li>
 
-                    <li><strong>Revisions</strong><br>I'm not happy until you're happy. Most clients approve the initial mastering, but if you do want to tweak something, all unattended revisions are free.</li>
+                    <li><strong>Revisions</strong><br>With a good communication flow, the initial mastering is typically approved, but if you do want to tweak things, two rounds of unattended revisions are free.</li>
 
                     <li><strong>High Resolution Files</strong><br>All mastering is done at the highest resolution that makes sense. This is typically 24 bit and the same sample rate of your mixes. Any different file formats you need will be created from these high resolution masters.</li>
                 </ul>
@@ -104,15 +104,15 @@
             <div class="col-mb-12 col-6">
                 <p>Unattended mastering is billed per audio-minute, rounded (up or down) to the half-minute. There is a 3 audio-minute minimum charge.</p>
 
-                <table>
+                <table width='100%'>
                     <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$17</td>
+                        <td class="currency">$18</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$15</td>
+                        <td class="currency">$16</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -150,8 +150,8 @@
                     </tr>
                 </table>
 
-                <p>For example, if you are a new client with a 30 minute record, your charge for mastering would be $17 x 30 = $510.</p>
-                <p>The same charge for a returning client would be $15 x 30 = $450.</p>
+                <p>For example, a new client charge for mastering a 30 minute record would be: $18 x 30 = $540.</p>
+                <p>The same mastering charge for a returning client would be: $16 x 30 = $480.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
@@ -469,7 +469,7 @@
                     <li>Quoted per project.</li>
                 </ul>
                 
-                <p><strong>Restoration can fix may things including:</strong></p>
+                <p><strong>Restoration can fix many things including:</strong></p>
 
                 <ul class="list-bullet">
                     <li>Distortion and clipping</li>

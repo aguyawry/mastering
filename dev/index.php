@@ -29,14 +29,19 @@
                 <p>The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>
                 
                 <p>Get in touch to find out how I can help make your next record sound the best it possibly can.</p>
-            </div>
 
-
-            <div class="btn-row center">
-                <p>&nbsp;</p>
-                <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
-                <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
+                <div class="btn-row center">
+                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
+                </div>
             </div>
+<!-- 
+            <div class="col-mb-12">
+                <div class="btn-row center">
+                    <p>&nbsp;</p>
+                    <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
+                    <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
+                </div>
+            </div> -->
 
 
             <div class="col-mb-12">
@@ -74,12 +79,12 @@
     <img class="jarallax-img" src="img/brand/cover-background.jpg" alt="">
 </div>
 
-<section id="why" class="light">
+<section class="light">
     <div class="container">
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>why mastering</h2>
+                <h2 id="why">why mastering</h2>
 
                 <p>Mastering is a blend of musical intuition, psychoacoustics, technology, and seasoned ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
                 
@@ -163,16 +168,16 @@
 </div>
 
 
-<section id="services" class="dark">
+<section class="dark">
     <div class="container">
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>services</h2>
+                <h2 id="services">services</h2>
 
                 <p>My services are focused in three main areas: audio mastering, creation of audio production masters, and audio restoration.</p>
                 
-                <p>Please see my <a href="/rates">rates page</a> for more detailed information on what each of these services includes. Ask for a quote or securely upload a track for a mastering sample to get the process started.</p>
+                <p>Please see <a href="/rates">my rates</a> for more detailed information on what each of these services includes. Ask for a quote or securely upload a track for a mastering sample to get the process started.</p>
 
                 <div class="btn-row center">
                     <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
@@ -185,7 +190,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h3>mastering</h3>
+                <h3 id="mastering">mastering</h3>
                 <p>Mastering is the process of balancing the sonic elements of your mixes, while also bringing out the best qualities of the music. It results in records that are sonically cohesive and have optimum playback across all systems and media formats.</p> 
                     
                 <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix.</p>
@@ -195,7 +200,7 @@
         </div>
 
         <div class="col-group">
-            <div class="col-mb-12 col-3">
+            <div class="col-mb-12 col-5">
                 <h4>Digital</h4>
 
                 <p>Most mastering projects will target some form of digital distribution.</p>
@@ -205,7 +210,7 @@
                 <p>Each digital destination has its own nuances, and knowing the ultimate destination ahead of time allows for optimization during mastering.</p>
             </div>
 
-            <div class="col-mb-12 col-3 col-offset-1">
+            <div class="col-mb-12 col-5 col-offset-2">
                 <h4>Vinyl</h4>
 
                 <p>Vinyl is definitely making a comeback with more releases targeting the format every day.</p>
@@ -217,7 +222,7 @@
                 </p>
             </div>
 
-            <div class="col-mb-12 col-3 col-offset-1">
+            <!-- <div class="col-mb-12 col-3 col-offset-1">
                 <h4>Stems</h4>
 
                 <p>For clients who can't seem to get their mixes just right, stem mastering may be an option.</p>
@@ -225,14 +230,14 @@
                 <p>Instead of sending a full mix, you can break the mix down into components such as bass, drums, lead vocals - which can then be adjusted individually during playback in mastering.</p>
                 
                 <p>It can be bit more complicated, but sometimes more rewarding.</p>
-            </div>
+            </div> -->
         </div>
 
         <hr>
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h3>production masters</h3>
+                <h3 id="production">production masters</h3>
                 <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets. Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple forms.</p>
             </div>
         </div>
@@ -293,7 +298,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h3>restoration</h3>
+                <h3 id="restoration">restoration</h3>
 
                 <p>Audio restoration and repair involves removing unwanted imperfections from recordings while keeping the desired audio intact. It could be as simple as fixing a small mouth noise, or as complex as cleaning up a deteriorating record from the 1950s.</p>
 
@@ -361,12 +366,12 @@
 </div>
 
 
-<section id="scott" class="light">
+<section class="light">
     <div class="container">
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>scott</h2>
+                <h2 id="scott">scott</h2>
             </div>
         </div>
 
@@ -423,19 +428,19 @@
 </div>
 
 
-<section id="contact" class="dark">
+<section class="dark">
     <div class="container">
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>contact</h2>
+                <h2 id="contact" >contact</h2>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>As a supporter of both the independent and local music communities, I can offer competitive rates for unsigned bands.</p>
-                
                 <p>I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
+            
+                <p>As a supporter of both the independent and local music communities, I can offer competitive rates for unsigned bands.</p>
 
                 <p>Call, email or fill out my <a class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">project inquiry form</a> to get a quote and start the booking process.</p>
                 

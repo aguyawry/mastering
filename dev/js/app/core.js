@@ -14,11 +14,7 @@ $(document).ready( function() {
     headroom.init();
 
     // Auto-hide the header if not at the top of the page
-    if( window.scrollY != 0) {
-        // setTimeout(function() {
-            $('header').removeClass('headroom--pinned').addClass('headroom--unpinned');
-        // }, 250);
-    }
+    hide_header();
 
     // side menu
     $('.toggle-button').sidr({
@@ -34,7 +30,7 @@ $(document).ready( function() {
 
     $('#menu a').on('click', function (e) {
         $.sidr('close');
-        e.preventDefault();
+        // e.preventDefault();
     } );
 
     // links open in external tabs/windows
@@ -45,9 +41,21 @@ $(document).ready( function() {
 
     // smooth scroll
     $('header a, #sidr a').smoothScroll({
-        offset: -75,
-        speed: 1000
+        offset: -10,
+        speed: 1000,
+        afterScroll: function() {
+            hide_header();
+        }
     });
 
-
 });
+
+
+
+function hide_header() {
+    if( window.scrollY != 0) {
+        // setTimeout(function() {
+            $('header').removeClass('headroom--pinned').addClass('headroom--unpinned');
+        // }, 250);
+    }
+}

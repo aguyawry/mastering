@@ -1249,18 +1249,18 @@ h5 {
   font-weight: 200;
 }
 h2 {
-  font-size: 5.6rem;
+  font-size: 4.8rem;
   line-height: 1.2;
   margin: 0 0 30px;
 }
 h3,
 h4 {
-  margin: 10px 0 15px;
+  margin: 20px 0 15px;
   line-height: 1.1;
-  padding-top: 15px;
+  padding: 0;
 }
 h3 {
-  font-size: 3.9rem;
+  font-size: 3.8rem;
 }
 h4 {
   font-size: 2.7rem;
@@ -1331,7 +1331,7 @@ td.currency {
   height: 500px;
 }
 .btn-row {
-  margin: 30px 0;
+  margin: 15px 0;
 }
 .btn-row.center {
   text-align: center;
@@ -1477,33 +1477,34 @@ header .toggle-button {
     display: none;
   }
 }
-#menu {
+.sidr {
   background-color: #111;
-  border: 1px solid white;
+  border-left: 1px solid white;
+}
+#menu {
   height: 100%;
   padding: 10px;
 }
+#menu ul ul {
+  padding-left: 20px;
+}
 #menu li {
-  border-bottom: 1px solid #444;
   margin-bottom: 0;
   text-align: left;
-}
-#menu li:first-child,
-#menu li:last-child {
-  border: none;
 }
 #menu a {
   color: white;
   display: block;
   font-weight: 200;
-  margin: 10px 0;
-  padding: 10px;
+  margin: 5px 0;
+  padding: 10px 0 10px 5px;
   width: 100%;
 }
 #menu a.close {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  font-size: 3rem;
+  font-size: 2rem;
   padding-left: 0;
+  text-align: right;
 }
 #menu a.close span {
   background-color: #444;
@@ -1583,13 +1584,10 @@ section.parallax {
 }
 @media only screen and (min-width: 768px) {
   #intro {
-    padding-top: 145px;
-  }
-  #intro h2 {
-    margin-bottom: 15px;
+    padding-top: 125px;
   }
   #intro h3 {
-    font-size: 4.2rem;
+    font-size: 3.8rem;
   }
 }
 .hcard p {
