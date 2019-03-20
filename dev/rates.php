@@ -70,15 +70,15 @@
             <div class="col-mb-12 col-6">
 
                 <ul class="list-bullet">
-                    <li><strong>Mix Assessments</strong><br>The best masters start with the best mixes. If you are unsure about your mixes, I am happy to give them a listen and provide feedback on potential enhancements.</li>
+                    <li><strong>Mix Assessments</strong><br>The best masters start with the best mixes. If you are unsure about your mixes, I'm happy to give them a listen and provide feedback on potential enhancements.</li>
 
-                    <li><strong>File Transfers</strong><br>You can easily send your mixes to me by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">uploading them via my secure DropBox account</a>. I deliver all mastered audio via DropBox as well.</li>
+                    <li><strong>File Transfers</strong><br>You can easily send your mixes to me by <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">uploading them via my secure file transfer</a>. I deliver all mastered audio the same way.</li>
 
                     <li><strong>Session Set Up</strong><br>Before each session there is some time spent recalibrating gear, preparing source mixes for mastering and other housekeeping tasks to get everything ready to go for the session.</li>
 
-                    <li><strong>Revisions</strong><br>With a good communication flow, the initial mastering is typically approved, but if you do want to tweak things, two rounds of unattended revisions are free.</li>
+                    <li><strong>Revisions</strong><br>I'm not happy until you're happy and I will work with you on your original mixes until you are satisfied at no additional charge. While tweaks are rare, if you do want to make them, it's always free.</li>
 
-                    <li><strong>High Resolution Files</strong><br>All mastering is done at the highest resolution that makes sense. This is typically 24 bit and the same sample rate of your mixes. Any different file formats you need will be created from these high resolution masters.</li>
+                    <li><strong>High Resolution Files</strong><br>All mastering is done at the highest resolution that makes sense. This is typically 24 bit and the same sample rate of your mixes. Any different file formats you need will be created from the high resolution masters.</li>
                 </ul>
             </div>
 
@@ -90,7 +90,7 @@
 
                     <li><strong>Archives</strong><br>While I highly recommend making multiple copies of your mastered audio and keeping them in different places, I'll keep your audio archived for a minimum of two years.</li>
 
-                    <li><strong>Comms</strong><br>Efficient and effective communication is important to me in whatever form works best. That could be email, video chat, phone calls or other.</li>
+                    <li><strong>Comms</strong><br>Efficient and effective communication is important to me. I am always accessible for 1 on 1 conversations with clients about mixes and masters in whatever form works best.</li>
                 </ul>
             </div>
         </div>
