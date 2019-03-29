@@ -3,7 +3,7 @@
     $title = "services and rates | elson mastering";
     $description = "elson mastering rates and services ";
     $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, mastering for vinyl, remote mastering, internet mastering, music production, audio restoration, transfers, archives, digital audio editing, maine";
-    $robots = "index, follow";
+    $robots = "noindex, nofollow";
     include "top.php";
 ?>
 

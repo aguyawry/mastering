@@ -28,11 +28,11 @@
                 
                 <p>The result is music that not only sounds exceptional, but also deepens the connection between artist and listener.</p>
                 
-                <p>Get in touch to find out how I can help make your next record sound the best it possibly can.</p>
+                <p><a href="#contact">Get in touch</a> to find out how I can help make your next record sound the best it possibly can.</p>
 
-                <div class="btn-row center">
+                <!-- <div class="btn-row center">
                     <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
-                </div>
+                </div> -->
             </div>
 <!-- 
             <div class="col-mb-12">
@@ -122,7 +122,7 @@
                     
                     <p>My purpose-built studio provides an acoustically precise environment where accurate sonic decisions are made. My clean signal path and full range speakers produce incredible clarity, and often reveal issues clients may not have heard.</p>
 
-                    <p>Some gear adds color while some is transparent. I only use what's needed and appropriate. Whether it's analog, digital, vintage or state of the art, each peice of gear is hand-picked for what it can bring to the music.</p>
+                    <p>Some of my favorite instruments are made by Manley, SPL, Mytek, SSL, PMC, Bryston, elysia, Dangerous Music and Sonnox. Whether it's analog, digital, vintage or state of the art, each piece of gear is hand-picked for what it can bring to the music.</p>
                 </div>
             </div>
 
@@ -175,14 +175,19 @@
             <div class="col-mb-12">
                 <h2 id="services">services</h2>
 
-                <p>My services are focused in three main areas: audio mastering, creation of audio production masters, and audio restoration.</p>
+                <p>My services are focused in three main areas:</p>
+                <ul class="list-bullet">
+                    <li>audio mastering</li>
+                    <li>creation of audio production masters</li>
+                    <li>audio restoration</li>
+                </ul>
                 
-                <p>Please see <a href="/rates">my rates</a> for more detailed information on what each of these services includes. Ask for a quote or securely upload a track for a mastering sample to get the process started.</p>
+                <!-- <p>Please see <a href="/rates">my rates</a> for more detailed information on what each of these services includes. Ask for a quote or securely upload a track for a mastering sample to get the process started.</p> -->
 
-                <div class="btn-row center">
+                <!-- <div class="btn-row center">
                     <a class="btn an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Get a Quote</a>
                     <a class="btn an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">Upload a Track</a>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -195,7 +200,7 @@
                     
                 <p>Mastering projects come in many forms - singles, EPs, albums, soundtracks, compilations and audio for video. While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix.</p>
                 
-                <p>Complementary mix assessments are just one benefit included with every mastering project - <a href="/rates#mastering">see them all</a>.</p>
+                <!-- <p>Complementary mix assessments are just one benefit included with every mastering project - <a href="/rates#mastering">see them all</a>.</p> -->
             </div>
         </div>
 
@@ -217,9 +222,9 @@
                 
                 <p>Mastering targeting digital distribution <em>may</em> also work for vinyl, but mastering tailored for vinyl is sometimes the right choice to bring out the best in the format.</p>
                 
-                <p class="btn-row">
+                <!-- <p class="btn-row">
                     <a class="btn small left top" href="/rates#mastering-vinyl">Learn More</a>
-                </p>
+                </p> -->
             </div>
 
             <!-- <div class="col-mb-12 col-3 col-offset-1">
@@ -238,59 +243,63 @@
         <div class="col-group">
             <div class="col-mb-12">
                 <h3 id="production">production masters</h3>
-                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets. Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple forms.</p>
+                <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets. Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your mastered audio optimized and delivered in multiple forms.</p>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
+                <h4>Digital Distribution</h4>
+
+                <p>Almost all clients will be targeting digital distribution services like Spotify, Apple Music, Google Play and others.</p>
+                
+                <p>Many services ask for 44.1 kHz / 16 bit files, but others accept files at higher sample rates and higher resolution (24 bit). </p>
+
+                <p>No matter where your audio is headed, I have tools to do high quality conversions for whatever format you may need.</p>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-1">
                 <h4>Mastered for iTunes</h4>
+
                 <p>I am an Apple approved Mastered for iTunes (MFiT) engineer.</p>
 
                 <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List who has followed their protocols.</p>
 
                 <p>You <em>do not</em> need MFiT files to release your music on iTunes - only if you want your release to have the official "Mastered for iTunes" badge.</p>
 
-                <p class="btn-row">
+                <!-- <p class="btn-row">
                     <a class="btn small left top" href="/rates#production-itunes">Learn More</a>
-                </p>
-            </div>
-
-            <div class="col-mb-12 col-5 col-offset-1">
-                <h4>Vinyl Production Masters</h4>
-                <p>Vinyl Production Masters are typically a single high resolution digital audio file for each side of the record, along with a detailed timing sheet.</p>
-
-                <p>There are a lot of things to consider with vinyl. The physical record size and record speed will determine how much audio will fit.</p>
-                    
-                <p>Due to the nature of the physical medium, the actual order of your tracks is also an important consideration.</p></p>
-
-                <p class="btn-row">
-                    <a class="btn small left top" href="/rates#production-vinyl">Learn More</a>
-                </p>
+                </p> -->
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
+                <h4>Vinyl Production Masters</h4>
+                
+                <p>Vinyl Production Masters are typically a single high resolution digital audio file for each side of the record, along with a detailed timing sheet.</p>
+
+                <p>There are a lot of things to consider with vinyl. Among them, the physical record size and record speed will determine how much audio will fit.</p>
+                    
+                <p>Due to the nature of the physical medium, the actual order of your tracks is also an important consideration to discuss.</p></p>
+
+                <!-- <p class="btn-row">
+                    <a class="btn small left top" href="/rates#production-vinyl">Learn More</a>
+                </p> -->
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-1">
                 <h4>DDPi Masters</h4>
+
                 <p>For clients making Compact Discs, I create a DDPi (Disc Description Protocol image) for delivery to a replication facility.</p>
 
                 <p>It's the ideal format for an absolutely error-free master, creating a superior sounding CD which is also more reliable across a wide range of players.</p>
 
-                <p class="btn-row">
+                <p>This digital image can easily be uploaded along with a player so clients can listen to an exact version of their album.</p>
+
+                <!-- <p class="btn-row">
                     <a class="btn small left top" href="/rates#production-ddpi">Learn More</a>
-                </p>
-            </div>
-
-            <div class="col-mb-12 col-5 col-offset-1">
-                <h4>PreMaster CDs</h4>
-                <p>A PreMaster CD (PMCD) is a specially formatted, recordable Compact Disc designed to be sent to a CD pressing plant for replication.</p>
-
-                <p>If your manufacturer cannot accept a DDPi, it is still possible to create a PMCD using high quality drives and CD-R media.<p>
-
-                <p class="btn-row">
-                    <a class="btn small left top" href="/rates#production-pmcd">Learn More</a>
-                </p>
+                </p> -->
             </div>
         </div>
 
@@ -314,9 +323,9 @@
 
                 <p>The first step in restoring audio sometimes starts with preservation by transferring it to a digital file. From there, it's possible to begin the repair or enhancement process.</p>
 
-                <p class="btn-row">
+                <!-- <p class="btn-row">
                     <a class="btn small left top" href="rates#restoration">Learn More</a>
-                </p>
+                </p> -->
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
@@ -326,9 +335,9 @@
 
                 <p>Common annoyances like clicks, pops, hum, crackles, distortion and hiss can all be heavily mitigated or removed. Even noises like cell phone interference and rain can be cleaned up.</p>
 
-                <p class="btn-row">
+                <!-- <p class="btn-row">
                     <a class="btn small left top" href="rates#restoration">Learn More</a>
-                </p>
+                </p> -->
             </div>
         </div>
 

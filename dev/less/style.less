@@ -11,8 +11,8 @@
 @white:         #FEFEFE;
 
 @background-light:      #fdfdfd;
-// @background-dark:       @blue;
-@background-dark:       black;
+@background-dark:       @blue;
+// @background-dark:       rgb(0, 39, 90);
 
 @text-light:            @white;
 @text-dark:             @black;
@@ -79,7 +79,7 @@ h3, h4 {
 }
 
 h3 {
-    font-size: @text-font-size + 2.0;
+    font-size: @text-font-size + 2.2;
 
     // @media only screen and (min-width : @screenTablet) {
         // font-size: @text-font-size + 2.8;
@@ -88,7 +88,7 @@ h3 {
 
 
 h4 {
-    font-size: @text-font-size + 0.9;
+    font-size: @text-font-size + 1.0;
 
     // @media only screen and (min-width : @screenTablet) {
         // font-size: @text-font-size + 1;
@@ -437,7 +437,8 @@ section {
     }
 
     &.dark {
-        background-color: @blue;
+        // background-color: @blue;
+        background-color: @background-dark;
         color: @text-light;
 
         a {

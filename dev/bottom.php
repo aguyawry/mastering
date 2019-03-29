@@ -4,9 +4,8 @@
                 <li><a class="ra" href="https://www.grammy.com/recording-academy" rel="external">scott elson at the Recording Academy</a></li>
                 <li><a class="fb" href="https://www.facebook.com/elsonmastering/" rel="external">elson mastering on facebook</a></li>
                 <li><a class="ig" href="https://www.instagram.com/elsonmastering/" rel="external">elson mastering on instagram"></a></li>
-                <?php
-                // <li><a class="li" href="https://www.linkedin.com/in/scottelson/" rel="external">scott elson on LinkedIn"></a></li>
-                ?>
+                <!-- <li><a class="li" href="https://www.linkedin.com/in/scottelson/" rel="external">scott elson on LinkedIn"></a></li> -->
+
             </ul>
 
             <div class="container">
@@ -35,7 +34,13 @@
                             <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>    
                         </ul>
                     </li>
-                    <li><a href="<?php echo SITE_URL ?>rates#top">rates</a></li>
+                    <li>
+                        <a class="an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">upload a track</a>
+                    </li>
+                    <li>
+                        <a class="an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">get a quote</a>
+                    </li>
+                    <!-- <li><a href="<?php echo SITE_URL ?>rates#top">rates</a></li>
                     <li>
                         <ul>
                             <li><a href="<?php echo SITE_URL ?>rates#mastering-unattended">mastering</a></li>
@@ -43,9 +48,12 @@
                             <li><a href="<?php echo SITE_URL ?>rates#restoration">restoration</a></li>
                             <li><a href="<?php echo SITE_URL ?>rates#digital-editing">digital audio editing</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                 </ul>
             </nav>
+
+
+
         </div>
 
 
