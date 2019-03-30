@@ -62,6 +62,8 @@
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
 
+        <a class="skip-link" href="#main-content">Skip to main content</a>
+
         <header>
             <div class="container">
                 <div class="col-group">
@@ -76,8 +78,8 @@
                         </a>
 
                         <ul>
-                            <li><a href="<?php echo SITE_URL ?>#why">why</a></li>
                             <li><a href="<?php echo SITE_URL ?>#services">services</a></li>
+                            <li><a href="<?php echo SITE_URL ?>#why">why</a></li>
                             <li><a href="<?php echo SITE_URL ?>#scott">scott</a></li>
                             <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>
                         </ul>

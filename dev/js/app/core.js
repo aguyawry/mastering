@@ -31,13 +31,8 @@ $(document).ready( function() {
     $('#menu a').on('click', function (e) {
         $.sidr('close');
         // e.preventDefault();
+        hide_header();
     } );
-
-    // links open in external tabs/windows
-    $('a[rel~="external"]').click( function() {
-        window.open( $(this).attr('href') );
-        return false;
-    });
 
     // smooth scroll
     $('header a, #sidr a').smoothScroll({
@@ -46,6 +41,12 @@ $(document).ready( function() {
         afterScroll: function() {
             hide_header();
         }
+    });
+
+    // links open in external tabs/windows
+    $('a[rel~="external"]').click( function() {
+        window.open( $(this).attr('href') );
+        return false;
     });
 
 });

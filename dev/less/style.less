@@ -27,7 +27,7 @@
 // @font-secondary:        ~"'Lato', Helvetica, sans-serif";
 // @font-secondary:        ~"'Roboto', Helvetica, sans-serif";
 
-@padding-for-header: 125px;
+@padding-for-header: 115px;
 
 
 //
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h2 {
-    font-size: @text-font-size + 3;
+    font-size: @text-font-size + 3.2;
     line-height: 1.2;
     margin: 0 0 30px;
 
@@ -144,11 +144,11 @@ iframe {
     min-width: 100%;
 
     @media only screen and (min-width : @screenDesktop) {
-        height: 943px;
+        height: 1010px;
     }
 
     @media only screen and (min-width : @screenLarge) {
-        height: 763px;
+        height: 830px;
     }
 }
 
@@ -164,6 +164,38 @@ th, td {
     }
 }
 
+
+
+// images
+img{
+    .dark & {
+        border: 1px solid @silver;
+    }
+
+    .light & {
+        border: 1px solid #444;
+    }
+
+    &.scott {
+        @media only screen and (min-width : @screenDesktop) {
+            float: right;
+            margin: 10px 0 10px 5%;
+            width: 45%;
+        }
+    }
+
+    &.breakup {
+       display: block;
+       margin-top: 25px;
+       width: 85%; 
+    }
+}
+
+
+.skip-link {
+    position: absolute;
+    left: -9999px;
+}
 
 // The size of the parallax effects
 .jarallax {
@@ -415,12 +447,6 @@ section {
         border-radius: 5px;
         margin: 0 auto 20px;
         width: 100%;
-
-        @media only screen and (min-width : @screenDesktop) {
-            float: right;
-            margin: 10px 0 10px 5%;
-            width: 45%;
-        }
     }
 
     &.light {
@@ -469,7 +495,7 @@ section {
     h2, h3 { text-align: center; }
 
     h2 {
-        // font-size: @text-font-size + 2.5;
+        margin-bottom: 15px;
     }
 
     h3 {

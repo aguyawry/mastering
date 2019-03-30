@@ -8,7 +8,7 @@
 ?>
 
 <section id="top" class="dark">
-    <div class="container">
+    <div id="main-content" class="container">
 
         <div class="col-group">
             <div class="col-mb-12">

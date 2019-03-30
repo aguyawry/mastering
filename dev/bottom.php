@@ -26,19 +26,16 @@
                 <ul>
                     <li><a class="close" href="#"><span>X</span></a></li>
                     <li><a href="<?php echo SITE_URL ?>#intro">home</a></li>
+                    <li><a href="<?php echo SITE_URL ?>#services">services</a></li>
+                    <li><a href="<?php echo SITE_URL ?>#why">why mastering</a></li>
+                    <li><a href="<?php echo SITE_URL ?>#scott">scott</a></li>
+                    <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>    
+                    <li>&nbsp;</li>
                     <li>
-                        <ul>
-                            <li><a href="<?php echo SITE_URL ?>#why">why mastering</a></li>
-                            <li><a href="<?php echo SITE_URL ?>#services">services</a></li>
-                            <li><a href="<?php echo SITE_URL ?>#scott">scott</a></li>
-                            <li><a href="<?php echo SITE_URL ?>#contact">contact</a></li>    
-                        </ul>
+                        <a class="an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">get a quote</a>
                     </li>
                     <li>
                         <a class="an-btn-upload" href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">upload a track</a>
-                    </li>
-                    <li>
-                        <a class="an-btn-quote" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">get a quote</a>
                     </li>
                     <!-- <li><a href="<?php echo SITE_URL ?>rates#top">rates</a></li>
                     <li>
