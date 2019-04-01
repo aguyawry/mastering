@@ -476,9 +476,7 @@
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <p>I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
-            
-                <p>As a supporter of both the independent and local music communities, I can work to offer competitive rates for unsigned bands.</p>
+                <p>I realize every project is unique, so please don't hesitate to reach out. As a supporter of both the independent and local music communities, I will do my best to work with your budget.</p>
 
                 <p>Call, email or fill out my <a class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" target="_blank">project inquiry form</a> to get a quote and start the booking process.</p>
                 

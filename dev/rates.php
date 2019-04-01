@@ -16,7 +16,7 @@
 
                 <p>Please find detailed descriptions of my services below along with my standard rates.</p>
 
-                <p>As a supporter of the both the independent and local music communities, I can offer competitive rates for unsigned bands. I realize every project is unique, so please don't hesitate to reach out. I will do my best to work with your budget.</p>
+                <p>I realize every project is unique, so please don't hesitate to reach out. As a supporter of both the independent and local music communities, I will do my best to work with your budget.</p>
                     
                 <p>Jump to a specific section using the links below, or if you'd like a quote, fill out my <a href="https://docs.google.com/forms/d/e/1FAIpQLScSzOwOeRaMF7oyx1yHC2eohTOBkC4MroBaiv_wCR0baFPTew/viewform" rel="external">Project Inquiry Form</a> to get the process started.<p>
             </div>
@@ -36,6 +36,7 @@
             <div class="col-mb-12 col-4">
                 <h4><a href="#production">production masters</a></h4>
                 <ul class="list-bullet">
+                    <li><a href="#production-digital">Digital Distribution</a></li>
                     <li><a href="#production-itunes">Mastered for iTunes</a></li>
                     <li><a href="#production-vinyl">Vinyl Production Masters</a></li>
                     <li><a href="#production-ddpi">DDPi Masters</a></li>
@@ -106,18 +107,18 @@
 
                 <table width='100%'>
                     <tr>
-                        <td>&bull; New Clients</td>
-                        <td class="currency">$18</td>
+                        <td>&bull; Mastering</td>
+                        <td class="currency">$17</td>
                         <td>USD</td>
                     </tr>
-                    <tr>
+                    <!-- <tr>
                         <td>&bull; Returning Clients</td>
                         <td class="currency">$16</td>
                         <td>USD</td>
-                    </tr>
+                    </tr> -->
                     <tr>
                         <td>&bull; Mastering for Vinyl</td>
-                        <td class="currency">$8</td>
+                        <td class="currency">$6</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -132,7 +133,7 @@
                     </tr>
                     <tr>
                         <td>&bull; TV Tracks,</td>
-                        <td class="currency">$5</td>
+                        <td class="currency">$4</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -150,17 +151,17 @@
                     </tr>
                 </table>
 
-                <p>For example, a new client charge for mastering a 30 minute record would be: $18 x 30 = $540.</p>
-                <p>The same mastering charge for a returning client would be: $16 x 30 = $480.</p>
+                <p>For example, mastering 30 minutes of audio would be:<br>$17 x 30 = $510.</p>
+                <!-- <p>The same mastering charge for a returning client would be: $16 x 30 = $480.</p> -->
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
                     <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic mastering settings.</li>
 
-                    <li>Any subsequent mix changes after mastering may incur additional charges. It will depend primarily on the sonic nature of the changes.</li>
+                    <li>Any mix changes after mastering may incur additional charges. It will depend primarily on the sonic nature of the changes.</li>
 
-                    <li>Returning client status is achieved after I've mastered 30 minutes of audio.</li>
+                    <!-- <li>Returning client status is achieved after I've mastered 30 minutes of audio.</li> -->
 
                     <li>Please contact me if you are interested in Stem Mastering.</li>
                 </ul>
@@ -176,19 +177,19 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>All attended mastering sessions are billed by the hour in quarter-hour increments. This includes attended revisions.</p>
+                <p>All attended mastering sessions are billed by the hour in quarter-hour increments. This also includes attended revisions.</p>
                 
                 <table>
                     <tr>
-                        <td>&bull; New Clients</td>
-                        <td class="currency">$200</td>
+                        <td>&bull; Attended Mastering</td>
+                        <td class="currency">$225</td>
                         <td>USD</td>
                     </tr>
-                    <tr>
+                    <!-- <tr>
                         <td>&bull; Returning Clients</td>
                         <td class="currency">$180</td>
                         <td>USD</td>
-                    </tr>
+                    </tr> -->
                     <tr>
                         <td>&nbsp;</td>
                     </tr>
@@ -198,7 +199,7 @@
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
                     <li>A typical single takes between 30 minutes and 1 hour to complete in an attended session.</li>
-                    <li>A typical album (40 to 60 minutes) usually takes between 5 and 7 hours to complete in an attended session.</li>
+                    <li>A typical album (40 to 60 minutes) usually takes between 5 and 7 hours to complete in an attended session depending on the material.</li>
                 <ul>
             </div>
         </div>
@@ -263,6 +264,42 @@
 
         <div class="col-group">
             <div class="col-mb-12">
+                <h4 id="production-digital">Digital Distribution</h3>
+            </div>
+
+            <div class="col-mb-12 col-6">
+                <p>Almost all clients will target some form of digital distribution where fans can either download or stream their music. If this is the case for you, you're all set!</p>
+                
+                <p>Included in your mastering are any format and sample rate conversions you may need from your high resolution mastered audio. The only exception is Mastered for iTunes production masters.</p>
+
+                <p>Most clients work with a distribution company that will take your mastered audio and then push it to many (sometimes hundreds) streaming platforms and online music stores. Many also offer royalty collection and licensing services. Some now also have their own labels.</p>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-1">
+                <p><strong>Streaming and Download Services:</strong></p>
+                <ul class="list-bullet">
+                    <li>Bandcamp</li>
+                    <li>Spotify</li>
+                    <li>Apple Music</li>
+                    <li>Tidal</li>
+                    <li>Google Play</li>
+                </ul>
+
+                <p><strong>Digital Distribution Companies:</strong></p>
+                <ul class="list-bullet">
+                    <li>amuse</li> 
+                    <li>CD Baby</li>
+                    <li>Tunecore</li>
+                    <li>Distrokid</li>
+                </ul>
+            </div>
+        </div>
+
+        <?php include "btn-top.php"; ?>
+
+
+        <div class="col-group">
+            <div class="col-mb-12">
                 <h4 id="production-itunes">Mastered for iTunes</h4>
             </div>
 
@@ -279,9 +316,14 @@
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
+                <p><strong>Rate:</strong></p>
                 <ul class="list-bullet">
-                    <li><strong>Rate:</strong><br>$15 + $1 USD per audio-minute</li>
-                    <li><strong>Delivery Format:</strong><br>Individual 24 bit WAV files at the sample rate of the original mixes</li>
+                    <li>$15 + $1 USD per audio-minute</li>
+                </ul>
+
+                <p><strong>Delivery Format:</strong></p>
+                <ul class="list-bullet">
+                    <li>Individual 24 bit WAV files at the sample rate of the original mixes</li>
                 </ul>
                 
                 <p><strong>Includes:</strong></p>
