@@ -107,15 +107,15 @@
 
                 <table width='100%'>
                     <tr>
-                        <td>&bull; Mastering</td>
+                        <td>&bull; New Clients</td>
                         <td class="currency">$17</td>
                         <td>USD</td>
                     </tr>
-                    <!-- <tr>
+                    <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$16</td>
+                        <td class="currency">$15</td>
                         <td>USD</td>
-                    </tr> -->
+                    </tr>
                     <tr>
                         <td>&bull; Mastering for Vinyl</td>
                         <td class="currency">$6</td>
@@ -152,7 +152,7 @@
                 </table>
 
                 <p>For example, mastering 30 minutes of audio would be:<br>$17 x 30 = $510.</p>
-                <!-- <p>The same mastering charge for a returning client would be: $16 x 30 = $480.</p> -->
+                <p>The same mastering charge for a returning client would be: $15 x 30 = $450.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
@@ -161,7 +161,7 @@
 
                     <li>Any mix changes after mastering may incur additional charges. It will depend primarily on the sonic nature of the changes.</li>
 
-                    <!-- <li>Returning client status is achieved after I've mastered 30 minutes of audio.</li> -->
+                    <li>Returning client status is achieved on your next project after I've mastered 30 minutes of audio.</li>
 
                     <li>Please contact me if you are interested in Stem Mastering.</li>
                 </ul>
@@ -181,15 +181,15 @@
                 
                 <table>
                     <tr>
-                        <td>&bull; Attended Mastering</td>
+                        <td>&bull; New Clients</td>
                         <td class="currency">$225</td>
                         <td>USD</td>
                     </tr>
-                    <!-- <tr>
+                    <tr>
                         <td>&bull; Returning Clients</td>
-                        <td class="currency">$180</td>
+                        <td class="currency">$200</td>
                         <td>USD</td>
-                    </tr> -->
+                    </tr>
                     <tr>
                         <td>&nbsp;</td>
                     </tr>
