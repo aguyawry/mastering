@@ -106,13 +106,13 @@
                 <p>Unattended mastering is billed per audio-minute, rounded (up or down) to the half-minute. There is a 3 audio-minute minimum charge.</p>
 
                 <table width='100%'>
-                    <tr>
+                    <!-- <tr>
                         <td>&bull; New Clients</td>
-                        <td class="currency">$17</td>
+                        <td class="currency">$1</td>
                         <td>USD</td>
-                    </tr>
+                    </tr> -->
                     <tr>
-                        <td>&bull; Returning Clients</td>
+                        <td>&bull; Mastering</td>
                         <td class="currency">$15</td>
                         <td>USD</td>
                     </tr>
@@ -151,8 +151,8 @@
                     </tr>
                 </table>
 
-                <p>For example, mastering 30 minutes of audio would be:<br>$17 x 30 = $510.</p>
-                <p>The same mastering charge for a returning client would be: $15 x 30 = $450.</p>
+                <p>For example, mastering 30 minutes of audio would be:<br>$15 x 30 = $450.</p>
+                <!-- <p>The same mastering charge for a returning client would be: $15 x 30 = $450.</p> -->
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
@@ -161,7 +161,7 @@
 
                     <li>Any mix changes after mastering may incur additional charges. It will depend primarily on the sonic nature of the changes.</li>
 
-                    <li>Returning client status is achieved on your next project after I've mastered 30 minutes of audio.</li>
+                    <!-- <li>Returning client status is achieved on your next project after I've mastered 30 minutes of audio.</li> -->
 
                     <li>Please contact me if you are interested in Stem Mastering.</li>
                 </ul>
@@ -180,14 +180,14 @@
                 <p>All attended mastering sessions are billed by the hour in quarter-hour increments. This also includes attended revisions.</p>
                 
                 <table>
-                    <tr>
+                    <!-- <tr>
                         <td>&bull; New Clients</td>
                         <td class="currency">$225</td>
                         <td>USD</td>
-                    </tr>
+                    </tr> -->
                     <tr>
-                        <td>&bull; Returning Clients</td>
-                        <td class="currency">$200</td>
+                        <td>&bull; Mastering</td>
+                        <td class="currency">$180</td>
                         <td>USD</td>
                     </tr>
                     <tr>
