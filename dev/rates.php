@@ -2,7 +2,7 @@
     $page = "rates";
     $title = "services and rates | elson mastering";
     $description = "elson mastering rates and services ";
-    $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, mastering for vinyl, remote mastering, internet mastering, music production, audio restoration, transfers, archives, digital audio editing, maine";
+    $keywords = "scott elson, music mastering, audio mastering, Apple Digital Masters, Mastered for iTunes, mastering for vinyl, remote mastering, internet mastering, music production, audio restoration, transfers, archives, digital audio editing, maine";
     $robots = "noindex, nofollow";
     include "top.php";
 ?>
@@ -37,7 +37,7 @@
                 <h4><a href="#production">production masters</a></h4>
                 <ul class="list-bullet">
                     <li><a href="#production-digital">Digital Distribution</a></li>
-                    <li><a href="#production-itunes">Mastered for iTunes</a></li>
+                    <li><a href="#production-itunes">Apple Digital Music</a></li>
                     <li><a href="#production-vinyl">Vinyl Production Masters</a></li>
                     <li><a href="#production-ddpi">DDPi Masters</a></li>
                     <li><a href="#production-pmcd">PreMaster CDs</a></li>
@@ -270,7 +270,7 @@
             <div class="col-mb-12 col-6">
                 <p>Almost all clients will target some form of digital distribution where fans can either download or stream their music. If this is the case for you, you're all set!</p>
                 
-                <p>Included in your mastering are any format and sample rate conversions you may need from your high resolution mastered audio. The only exception is Mastered for iTunes production masters.</p>
+                <p>Included in your mastering are any format and sample rate conversions you may need from your high resolution mastered audio. The only exception is Apple Digital Music production masters.</p>
 
                 <p>Most clients work with a distribution company that will take your mastered audio and then push it to many (sometimes hundreds) streaming platforms and online music stores. Many also offer royalty collection and licensing services. Some now also have their own labels.</p>
             </div>
@@ -300,19 +300,19 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h4 id="production-itunes">Mastered for iTunes</h4>
+                <h4 id="production-itunes">Apple Digital Music</h4>
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>I am an Apple approved Mastered for iTunes (MFiT) engineer.</p>
+                <p>Formerly known as "Mastered for iTunes", I am an Apple approved Apple Digital Music engineer.</p>
 
-                <p>For a release to be officially badged as "Mastered for iTunes", the masters delivered to iTunes must be created by an engineer on their official MFiT Provider List.</p>
+                <p>For a release to be officially badged as "Apple Digital Music", the masters must be created by an engineer on their official Provider List.</p>
 
-                <p>You <em>do not</em> need MFiT files to release your music on iTunes - only if you want your release to have the official "Mastered for iTunes" badge.</p>
+                <p>You <em>do not</em> need Apple Digital Music files to release your music on Apple Music - only if you want your release to have the official "Apple Digital Music" badge.</p>
 
-                <p>I follow Apple's required protocols for mastering engineers by encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping. The encoded files are then auditioned to make sure there are no audible distortions.</p>
+                <p>I follow Apple's required protocols for mastering engineers by encoding all tracks using Apple's AAC Codec to ensure they are free of clipping. The encoded files are then auditioned to make sure there are no audible distortions.</p>
 
-                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be returned at 24 bit for delivery to iTunes who will then encode them.</p>
+                <p>Your mixes must be delivered to mastering at a minimum of 44.1 kHz / 24 bit. Mastered audio will be returned at 24 bit for delivery to Apple who will then encode them.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
@@ -328,7 +328,7 @@
                 
                 <p><strong>Includes:</strong></p>
                 <ul class="list-bullet">
-                    <li>Encoding all tracks using Apple's AAC iTunes+ Codec to ensure they are free of clipping</li>
+                    <li>Encoding all tracks using Apple's AAC Codec to ensure they are free of clipping</li>
                     <li>Quality control of encoded files to ensure no unwanted sonic artifacts or distortion</li>
                     <li>Upload of both high resolution 24 bit files and AAC encodes for client audition and approval</li>
                     <li>Delivery of final approved high resolution 24 bit files to you or your digital distributor</li>
