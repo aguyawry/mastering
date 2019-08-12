@@ -39,6 +39,7 @@
                     <li><a href="#production-digital">Digital Distribution</a></li>
                     <li><a href="#production-itunes">Apple Digital Music</a></li>
                     <li><a href="#production-vinyl">Vinyl Production Masters</a></li>
+                    <li><a href="#production-cassette">Cassette Production Masters</a></li>
                     <li><a href="#production-ddpi">DDPi Masters</a></li>
                     <li><a href="#production-pmcd">PreMaster CDs</a></li>
                 </ul>
@@ -65,7 +66,7 @@
 
                 <!-- <p>You'll find reduced rates for returning clients, and I also offer a 10% discount on your next mastering project if you refer a new client who ends up booking an album mastering project with me.</p> -->
 
-                <p>All mastering rates include:</p>
+                <p>All mastering includes:</p>
             </div>
 
             <div class="col-mb-12 col-6">
@@ -77,9 +78,9 @@
 
                     <li><strong>Session Set Up</strong><br>Before each session there is some time spent recalibrating gear, preparing source mixes for mastering and other housekeeping tasks to get everything ready to go for the session.</li>
 
-                    <li><strong>Revisions</strong><br>I'm not happy until you're happy and I will work with you on your original mixes until you are satisfied at no additional charge. While tweaks are rare, if you do want to make them, it's always free.</li>
+                    <li><strong>Revisions</strong><br>I'm not happy until you're happy and I will work with you until you are satisfied with the results. While tweaks are rare, if you do want to make them, I'm here to help.</li>
 
-                    <li><strong>High Resolution Files</strong><br>All mastering is done at the highest resolution that makes sense. This is typically 24 bit and the same sample rate of your mixes. Any different file formats you need will be created from the high resolution masters.</li>
+                    <li><strong>High Resolution Files</strong><br>All mastering is done at the highest resolution that makes sense. This is typically 24 bit and the same sample rate of your mixes. Any production masters you need will be created from the high resolution masters.</li>
                 </ul>
             </div>
 
@@ -113,12 +114,12 @@
                     </tr> -->
                     <tr>
                         <td>&bull; Mastering</td>
-                        <td class="currency">$15</td>
+                        <td class="currency">$17</td>
                         <td>USD</td>
                     </tr>
                     <tr>
                         <td>&bull; Mastering for Vinyl</td>
-                        <td class="currency">$6</td>
+                        <td class="currency">$7</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -151,19 +152,16 @@
                     </tr>
                 </table>
 
-                <p>For example, mastering 30 minutes of audio would be:<br>$15 x 30 = $450.</p>
-                <!-- <p>The same mastering charge for a returning client would be: $15 x 30 = $450.</p> -->
+                <p>For example, mastering 30 minutes of audio would be:<br>$17 x 30 = $510.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
-                    <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic mastering settings.</li>
+                    <li>TV Tracks, Instrumentals and Radio Edits are assumed to be created from their full mix counterparts and in need of the same basic treatment in mastering and should be submitted at the same time.</li>
+
+                    <li>Two rounds of revisions are included at no charge and must be requested within 30 days. After that, revisions are billed hourly.</li>
 
                     <li>Any mix changes after mastering may incur additional charges. It will depend primarily on the sonic nature of the changes.</li>
-
-                    <!-- <li>Returning client status is achieved on your next project after I've mastered 30 minutes of audio.</li> -->
-
-                    <li>Please contact me if you are interested in Stem Mastering.</li>
                 </ul>
             </div>
         </div>
@@ -187,7 +185,7 @@
                     </tr> -->
                     <tr>
                         <td>&bull; Mastering</td>
-                        <td class="currency">$180</td>
+                        <td class="currency">$150</td>
                         <td>USD</td>
                     </tr>
                     <tr>
@@ -199,7 +197,7 @@
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
                     <li>A typical single takes between 30 minutes and 1 hour to complete in an attended session.</li>
-                    <li>A typical album (40 to 60 minutes) usually takes between 5 and 7 hours to complete in an attended session depending on the material.</li>
+                    <li>Depending on the material and the attendee, a typical album (40 to 60 minutes) usually takes between 5 and 7 hours to complete in an attended session.</li>
                 <ul>
             </div>
         </div>
@@ -228,7 +226,7 @@
 
             <div class="col-mb-12 col-5 col-offset-1">
                 <ul class="list-bullet">
-                    <li>Excessive limiting and compression to achieve high levels can end up distorting on vinyl. It will ultimately have the opposite effect since the engineer will be forced to cut at a lower volume which will also increase the perceived noise floor.</li>
+                    <li>Excessive limiting and compression to achieve high levels can end up distorting on vinyl. It will ultimately have the opposite effect since the cutting engineer will be forced to cut at a lower volume which will also increase the perceived noise floor.</li>
 
                     <li>Sudden and drastic panning, or extreme sweeps between left and right channels could be problematic.</li>
 
@@ -257,7 +255,7 @@
             <div class="col-mb-12">    
                 <p>Once mastering is complete and all your mastered audio has been approved, it may need further preparation depending on your specific distribution targets.</p>
                 
-                <p>Physical and digital distribution formats are constantly evolving, so it's entirely possible you may need your masters optimized and delivered in multiple formats.</p>
+                <p>Physical and digital distribution formats are constantly evolving, and each format needs a properly created, error-free production master.</p>
             </div>
         </div>
 
@@ -270,9 +268,9 @@
             <div class="col-mb-12 col-6">
                 <p>Almost all clients will target some form of digital distribution where fans can either download or stream their music. If this is the case for you, you're all set!</p>
                 
-                <p>Included in your mastering are any format and sample rate conversions you may need from your high resolution mastered audio. The only exception is Apple Digital Music production masters.</p>
+                <p>Included in your mastering are any format and sample rate conversions you may need from your high resolution mastered audio. This includes encodes like high quality mp3s. Production masters for <a href="https://www.apple.com/itunes/mastered-for-itunes/" rel="external">Apple Digital Music</a> (previously called Mastered for iTunes) are the only exception.</p>
 
-                <p>Most clients work with a distribution company that will take your mastered audio and then push it to many (sometimes hundreds) streaming platforms and online music stores. Many also offer royalty collection and licensing services. Some now also have their own labels.</p>
+                <p>Most clients work with a distribution company that will take your masters and then push them to many streaming platforms and online music stores. Many also offer royalty collection and licensing services. Some now also have their own labels.</p>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-1">
@@ -304,11 +302,11 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Formerly known as "Mastered for iTunes", I am an Apple approved Apple Digital Music engineer.</p>
+                <p>Formerly known as "Mastered for iTunes", I am an Apple approved <a href="https://www.apple.com/itunes/mastered-for-itunes/" rel="external">Apple Digital Music</a> mastering engineer.</p>
 
-                <p>For a release to be officially badged as "Apple Digital Music", the masters must be created by an engineer on their official Provider List.</p>
+                <p>For a release to be officially badged as "Apple Digital Music", the masters must be created by a mastering engineer on Apple's official Provider List.</p>
 
-                <p>You <em>do not</em> need Apple Digital Music files to release your music on Apple Music - only if you want your release to have the official "Apple Digital Music" badge.</p>
+                <p>You <em>do not</em> need Apple Digital Music masters to release your music on Apple Music - only if you want your release to have the official "Apple Digital Music" badge.</p>
 
                 <p>I follow Apple's required protocols for mastering engineers by encoding all tracks using Apple's AAC Codec to ensure they are free of clipping. The encoded files are then auditioned to make sure there are no audible distortions.</p>
 
@@ -374,12 +372,55 @@
                 <p><strong>Includes:</strong></p>
                 <ul class="list-bullet">
                     <li>Any discussions with you and your vinyl cutting house that may be needed</li>
-                    <li>Sequencing each side using your high resolution tracks with your preferred order and spacing</li>
+                    <li>Sequencing each side of the record using your high resolution mastered audio with your preferred song order and spacing</li>
                     <li>Fade-ins, fade-outs and any cross-fades for each track</li>
                     <li>Creation of a track list with detailed timing information for the cutting house</li>
-                    <li>Upload of high resolution files and timing sheet for client approval</li>
-                    <li>Quality control of the final approved files before delivery to the cutting house to ensure no unwanted sonic artifacts</li>
-                    <li>Delivery of final approved high resolution files and timing sheets to you or your vinyl cutting house</li>
+                    <li>Upload of high resolution masters and timing sheets for client approval</li>
+                    <li>Quality control of the final approved masters before delivery to the cutting house to ensure no unwanted sonic artifacts</li>
+                    <li>Delivery of final approved high resolution masters and timing sheets to you or your vinyl cutting house</li>
+                </ul>
+            </div>
+        </div>
+
+        <?php include "btn-top.php"; ?>
+
+
+        <div class="col-group">
+            <div class="col-mb-12">
+                <h4 id="production-cassette">Cassette Production Masters</h4>
+            </div>
+                
+            <div class="col-mb-12 col-6">
+                <p>Cassette Production Masters are typically a single 44.1 kHz / 16 bit digital audio file for each side of the cassette, though some duplicators may accept higher resolution files.</p>
+                
+                <p>This format is called "Program Ready" audio where each side of the cassette is considered a Program - Program A is Side A and Program B is Side B.</p>
+
+                <p>Combining the tracks into a single audio file means that all tracks are in the correct order with the desired gaps between them.</p>
+                
+                <p>All masters are accompanied by a track list with timing information about each side.</p>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-1">
+                <p><strong>Rate:</strong></p>
+                <ul class="list-bullet">
+                    <li>$30 + $1 per audio-minute USD, per cassette</li>
+                </ul>
+
+                <p><strong>Delivery Format:</strong></p>
+                <ul class="list-bullet">
+                    <li>One 44.1 kHz / 16 bit WAV file per side, unless higher resolutions are accepted</li>
+                </ul>
+
+                <p><strong>Includes:</strong></p>
+                <ul class="list-bullet">
+                    <li>Any discussions with you and your duplicator that may be needed</li>
+                    <li>Conversion of your high resolution mastered audio to 44.1 kHz / 16 bit if needed</li>
+                    <li>Sequencing each side of the cassette with your preferred song order and spacing</li>
+                    <li>Fade-ins, fade-outs and any cross-fades for each track</li>
+                    <li>Creation of a track list with detailed timing information for the duplicator</li>
+                    <li>Upload of masters and timing sheet for client approval</li>
+                    <li>Quality control of the final approved masters before delivery to the duplicator to ensure no unwanted sonic artifacts</li>
+                    <li>Delivery of final approved masters and timing sheets to you or your duplicator</li>
                 </ul>
             </div>
         </div>
@@ -499,7 +540,7 @@
 
                 <p>Restoration projects are not only music focused, but have also included forensic applications for law enforcement and private investigation.</p>
 
-                <p>I have training in proper evidence handling, enhancement, analysis and interpretation from the <a href="http://www.ucdenver.edu/academics/colleges/CAM/Centers/ncmf/Pages/ncmf.aspx" rel="external">National Center for Media Forensics</a>.</p>
+                <p>I have training in proper evidence handling, enhancement, analysis and interpretation from the <a href="https://artsandmedia.ucdenver.edu/areas-of-study/national-center-for-media-forensics/about-the-national-center-for-media-forensics" rel="external">National Center for Media Forensics</a>.</p>
 
                 <p>Restoration projects can vary greatly in scope and are quoted per project. Please get in touch to discuss your specific needs.</p>                
             </div>
@@ -538,11 +579,9 @@
             </div>
 
             <div class="col-mb-12 col-6">
-                <p>Basic digital audio editing is included in both the mastering process and creation of production masters. Sometimes more involved editing is requested for a variety of reasons.</p>
+                <p>The mastering process and creation of production masters usually involves some basic audio editing. Typically, this is creating various fades and sequencing records. Sometimes more involved editing is requested for a variety of reasons.</p>
 
-                <p>In a mastering context, clients often ask for new or different versions of their mastered audio. Common requests are to create shorter and also "clean" versions of songs for radio play.</p>
-
-                <p>Sometimes clients send a number of different mixes of the same song to be mastered - vocal up mix, instrumental mix, snare up mix or more. After mastering all versions, they may want to edit together sections from each to create a new version.</p>
+                <p>Common requests are to create shorter and "clean" versions of songs for radio play. Sometimes clients send a number of different mixes of the same song to be mastered - vocal up mix, instrumental mix, snare up mix or more. After mastering all versions, they may want to piece together sections from each to create new versions.</p>
                 
                 <p>In all cases, audio editing needs to be seamless and totally transparent to the listener.</p>
             </div>
@@ -550,7 +589,7 @@
             <div class="col-mb-12 col-5 col-offset-1">
                 <p><strong>Rate:</strong></p>
                 <ul class="list-bullet">
-                    <li>$60 USD per hour</li>
+                    <li>$60 per hour USD</li>
                     <li>Billed in quarter-hour increments</li>
                 </ul>
 

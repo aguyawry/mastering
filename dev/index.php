@@ -116,63 +116,54 @@
                 <h3 id="production">audio production masters</h3>
                 <p>Once mastering is complete, your audio will likely need further preparation for your intended distribution formats.</p>
                 
-                <p>Physical and digital distribution formats are constantly evolving, and each format needs a correctly formatted, error-free production master.</p>
+                <p>Physical and digital distribution formats are constantly evolving, and each format needs a properly created, error-free production master.</p>
 
-                <p>Common distribution formats that may need their own production masters include:</p>
+                <p>Here are some common distribution formats that may need their own production masters.</p>
             </div>
         </div>
 
         <!-- See https://theproaudiofiles.com/audio-mastering-format-and-delivery-guide-2014/ -->
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <ul class="list-bullet">
-                    <li><strong>Streaming Services</strong><br>Spotify, Apple Music, Google Play, Tidal and others typically use 44.1 kHz / 16 bit files. There are some exceptions in certain cases for accepting higher resolution audio.</li>
-                </ul>
+                <h4>Streaming Services</h4>
+                <p>Spotify, Apple Music, Google Play, Tidal and many other streaming platforms typically want individual 44.1 kHz / 16 bit files. There are some exceptions in certain cases for accepting higher resolution audio.</p>
             </div>
             <div class="col-mb-12 col-5 col-offset-2">
-                <ul class="list-bullet">
-                    <li><strong>Apple Digital Masters<br><em>(Formerly Mastered for iTunes)</em></strong><br>
-                    Apple will accept high resolution audio up to 192 kHz which they will encode into their AAC format. These must be 24 bit files, created by a mastering engineer using their specific protocols.</li>
-                </ul>
+                <h4>Apple Digital Masters</h4>
+                <p>Formerly Mastered for iTunes, Apple will accept high resolution audio up to 192 kHz which they encode into their AAC format. These must be 24 bit files created by a mastering engineer using their specific protocols.</p>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <ul class="list-bullet">
-                    <li><strong>Artist and Social Platforms</strong><br>Sites like SoundCloud and Bandcamp accept higher resolution files. They will do their own encoding to lossy file formats, but will allow artists to specify what types of files fans can download.</li>
-                </ul>
+                <h4>Artist and Social Platforms</h4>
+                <p>Sites like SoundCloud and Bandcamp accept higher resolution files. They will do their own encoding to lossy file formats, but will allow artists to specify what types of files fans can download.</p>
             </div>
             <div class="col-mb-12 col-5 col-offset-2">
-                <ul class="list-bullet">
-                    <li><strong>Compact Disc</strong><br>The preferred format for CD production masters is a DDPi (Disc Description Protocol image). It's 44.1 kHz / 16 bit audio formatted as a digital image along with any necessary metadata.</li>
-                </ul>
+                <h4>Vinyl</h4>
+                <p>Vinyl cutting houses should accept high sample rate, 24 bit audio files. There is typically a file for each side of the record to preserve the track spacing, along with a detailed timing sheet.</p>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <ul class="list-bullet">
-                    <li><strong>Vinyl</strong><br>Vinyl cutting houses should accept high sample rate, 24 bit audio files. There is typically a file for each side of the record to preserve the track spacing, along with a detailed timing sheet.</li>
-                </ul>
+                <h4>Cassette</h4>
+                <p>Cassettes are also making a comeback and duplicators will typically want 44.1 kHz / 16 bit files formatted for each side of the tape. Some may also accept higher resolution files.</p>
             </div>
             <div class="col-mb-12 col-5 col-offset-2">
-                <ul class="list-bullet">
-                    <li><strong>Cassette</strong><br>Cassettes are also making a comeback and duplicators will typically want 44.1 kHz / 16 bit files formatted for each side of the tape. Some may also accept higher resolution files.</li>
-                </ul>
+                <h4>Digital Video</h4>
+                <p>Most video projects will want 48 kHz / 24 bit files and sometimes higher resolution. It's common to use instrumental or "TV" (instrumentals with background vocals) versions.</p>
             </div>
         </div>
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
-                <ul class="list-bullet">
-                    <li><strong>Digital Video</strong><br>Most video projects will want 48 kHz / 24 bit files and sometimes higher resolution. It's common to use instrumental or "TV" (instrumentals with background vocals) versions.</li>
-                </ul>
+                <h4>Compact Disc</h4>
+                <p>The preferred format for CD production masters is a DDPi (Disc Description Protocol image). It's 44.1 kHz / 16 bit audio formatted as a digital image along with any necessary metadata.</p>
             </div>
             <div class="col-mb-12 col-5 col-offset-2">
-                <ul class="list-bullet">
-                    <li><strong>Download Cards</strong><br>These promotion / marketing cards almost always point the user to a high quality mp3 they can download using special code. You'll want to make sure all your metadata and artwork are included in the mp3.</li>
-                </ul>
+                <h4>Download Cards</h4>
+                <p>These promotional / marketing cards almost always point the user to high quality mp3s they can download using a special code. You'll want to make sure all your metadata and artwork are included in each mp3.</p>
             </div>
         </div>
 
@@ -205,8 +196,11 @@
                 <p>Audio restoration involves removing unwanted imperfections from recordings while keeping the desired audio intact. It could be as simple as fixing a small mouth noise, or as complex as cleaning up a deteriorating record from the 1950s.</p>
 
                 <p>The restoration process is delicate since the ear is usually happier with hiss, pops and clicks than it is with unnatural sonic artifacts left behind if not done properly. Part of the process is using good judgment and knowing when not to go too far.</p>
+
+                <p>Restoration is typically a two step process.</p>
             </div>
         </div>
+
 
         <div class="col-group">
             <div class="col-mb-12 col-5">
@@ -305,29 +299,50 @@
                 </div>
             </div>
         </div>
-
         
         <div class="col-group">
             <div class="col-mb-12 col-5">
                 <div class="service">
                     <h3>the studio</h3>
-                    <p>Many records are now made in home or project studios with unreliable acoustics, making the importance of mastering even more critical.</p>
+                    <p>Many records are now made in home or project studios that often have unreliable acoustics. This makes the importance of mastering even more critical.</p>
                     
-                    <p>My purpose-built studio provides an acoustically precise environment where accurate sonic decisions are made. My clean signal path and full range speakers produce incredible clarity, and often reveal issues clients may not have heard.</p>
+                    <p>My purpose-built studio provides an acoustically precise environment where accurate sonic decisions are made. My clean signal path and full range speakers produce incredible clarity, and often reveal issues clients may not yet have even heard.</p>
 
-                    <p>Some of my favorite instruments are made by Manley, SPL, Mytek, SSL, PMC, Bryston, elysia, Dangerous Music and Sonnox. Whether it's analog, digital, vintage or state of the art, each piece of gear is hand-picked for what it can bring to the music.</p>
+                    <!-- <p>Some of my favorite instruments are made by Manley, SPL, Mytek, SSL, PMC, Bryston, elysia, Dangerous Music and Sonnox. Whether it's analog, digital, vintage or state of the art, each piece of gear is hand-picked for what it can bring to the music.</p> -->
                 </div>
             </div>
 
             <div class="col-mb-12 col-5 col-offset-2">
                 <div class="service">
                     <h3>prep for distribution</h3>
-                    <p>Mastering is the final step in the creative process and the first step in the manufacturing process. The goal is to not only create the best sounding masters of your music, but to also get them in the correct format for distribution.</p>
+                    <p>Mastering is the final step in the creative process and the first step in the manufacturing process. The goal is to not only create the best sounding music, but to also get it in the correct format for distribution.</p>
                     
-                    <p>Mastering is usually done at high resolution, but masters often need conversion and further preparation for delivery. No matter where your music is headed, I can create the right file in the right format from your masters. I also quality control everything that leaves the studio to make sure it's error free.</p>
+                    <p>Audio will often need conversion and further preparation for delivery. No matter where your music is headed, I can create the right file in the right. I also quality control everything that leaves the studio to make sure it's error free.</p>
                 </div>
             </div>
         </div>
+
+        <div class="col-group">
+            <div class="col-mb-12 col-5">
+                <div class="service">
+                <h3>experience</h3>
+
+                <p>I've spent decades in audio and most of that time mastering. During those years, I've heard a lot of music and amassed a lot of knowledge. I know how to get great sonic results and address various problems effectively.</p>
+
+                <p>I've become a trusted partner to many clients who often seek my advice before mastering even begins. They know I understand the intricacies of mastering and the ultimate distribution formats they are targeting.</p>
+                </div>
+            </div>
+
+            <div class="col-mb-12 col-5 col-offset-2">
+                <div class="service">
+                    <h3>collaboration</h3>
+                    <p>You get to participate every step of the way with any concerns about your mixes, what you're shooting for in mastering, sonic examples you want to reference or feedback for any revisions if needed.</p>
+
+                    <p>Want to tweak your fade-ins and fade-outs? Maybe do a crossfade between tracks or tweak the spacing? Use the mastered version of your vocal up mix in the verses only? This human has got you covered.</p>
+                </div>
+            </div>
+        </div>
+
 
         <div class="col-group">
             <div class="col-mb-12">
