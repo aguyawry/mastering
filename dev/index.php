@@ -401,7 +401,21 @@
             </div>
 
             <div class="col-12 col-dt-5 col-dt-offset-1">
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:s5q4izow8slvdvg67mx9ne535:playlist:6r76CYDHrMVI8oJ7yhauDq:&theme=white" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+                <h3>Clients & Collaborators</h3>
+                
+                <p class="clients">
+                    <?php
+                        // read data from json file
+                        // <?php echo SITE_URL 
+                        $json = json_decode( file_get_contents('js/projects.json') );
+                        shuffle( $json->projects );
+                        foreach ($json->projects as $data) {
+                            echo $data->artist;
+                            if ($data != end($json->projects))
+                                echo " &bull; ";
+                        }
+                    ?>
+                </p>
             </div>
         </div>
 

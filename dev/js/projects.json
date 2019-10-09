@@ -145,6 +145,12 @@
             "title": "Hope You're Good"
         },
         {
+            "alt": "",
+            "artist": "Echoes on Track",
+            "img": "",
+            "title": ""
+        },
+        {
             "alt": "Eggbot - Father&apos;s Day",
             "artist": "Eggbot",
             "img": "Eggbot_FathersDay.jpg",
@@ -263,6 +269,12 @@
             "artist": "Pigboat",
             "img": "Pigboat_Float.jpg",
             "title": "Float"
+        },
+        {
+            "alt": "Punisher - Dehumanized",
+            "artist": "Punisher",
+            "img": "",
+            "title": "Dehumanized"
         },
         {
             "alt": "Ruler of the Raging Main",

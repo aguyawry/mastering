@@ -1608,6 +1608,9 @@ section.parallax {
     font-size: 3.8rem;
   }
 }
+.clients {
+  text-align: center;
+}
 .hcard p {
   text-align: center;
 }
