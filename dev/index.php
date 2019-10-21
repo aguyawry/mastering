@@ -90,7 +90,9 @@
                 <h2 id="services">services</h2>
 
                 <h3>audio mastering</h3>
-                <p>Audio mastering is the art of balancing the sonic elements of your mixes, while also bringing out the best qualities of the music. It results in records that are sonically cohesive and have optimum playback across all systems and media formats.</p>
+                <p>After you've finished recording and mixing your music, it's time to add the final sonic touches with mastering.</p>
+                
+                 <p>Mastering is the art of balancing the sonic elements of your mixes, while also bringing out the best qualities of the music. It results in records that are sonically cohesive and have optimum playback across all systems and media formats.</p>
 
                 <p>While a lot can be accomplished in mastering, it's always best to start with a well-balanced mix. I am always happy to do mix evaluations for clients and discuss any potential improvements that could be made before mastering begins. Just <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRl-3iEdEjnBY-nkt4EVg7_G7fmbpjIVFsR4kXufrYEDsK_A/viewform" rel="external">securely upload a track</a> to get the process started.</p>
 
@@ -112,58 +114,46 @@
 
 
         <div class="col-group">
+
             <div class="col-mb-12">
                 <h3 id="production">audio production masters</h3>
-                <p>Once mastering is complete, your audio will likely need further preparation for your intended distribution formats.</p>
+            </div>
+
+            <div class="col-mb-12 col-5">
+                <p>You may be planning to release your music in many different ways.</p>
+
+                <!-- <p>Streaming services are currently a popular destination, but vinyl and cassette are also seeing a resurgence.</p> -->
                 
-                <p>Physical and digital distribution formats are constantly evolving, and each format needs a properly created, error-free production master.</p>
+                <p>Digital and physical distribution formats are constantly evolving, so you'll want to make sure you have the appropriate type of master for each format you choose.</p>
 
-                <p>Here are some common distribution formats that may need their own production masters.</p>
-            </div>
-        </div>
+                <p>Your high resolution mastered audio may require conversion to a different sample rate, bit depth or file type.</p>
+                
+                <p>No matter where your music is headed, I will deliver properly created, error-free masters in any form.</p>
 
-        <!-- See https://theproaudiofiles.com/audio-mastering-format-and-delivery-guide-2014/ -->
-        <div class="col-group">
-            <div class="col-mb-12 col-5">
-                <h4>Streaming Services</h4>
-                <p>Spotify, Apple Music, Google Play, Tidal and many other streaming platforms typically want individual 44.1 kHz / 16 bit files. There are some exceptions in certain cases for accepting higher resolution audio.</p>
+                 <!-- Put a link to a details page here -->
+                
+                <!-- <p>Here are some common distribution formats that may need their own unique masters.</p> -->
             </div>
-            <div class="col-mb-12 col-5 col-offset-2">
-                <h4>Apple Digital Masters</h4>
-                <p>Formerly Mastered for iTunes, Apple will accept high resolution audio up to 192 kHz which they encode into their AAC format. These must be 24 bit files created by a mastering engineer using their specific protocols.</p>
-            </div>
-        </div>
 
-        <div class="col-group">
-            <div class="col-mb-12 col-5">
-                <h4>Artist and Social Platforms</h4>
-                <p>Sites like SoundCloud and Bandcamp accept higher resolution files. They will do their own encoding to lossy file formats, but will allow artists to specify what types of files fans can download.</p>
-            </div>
-            <div class="col-mb-12 col-5 col-offset-2">
-                <h4>Vinyl</h4>
-                <p>Vinyl cutting houses should accept high sample rate, 24 bit audio files. There is typically a file for each side of the record to preserve the track spacing, along with a detailed timing sheet.</p>
-            </div>
-        </div>
+            <!-- See https://theproaudiofiles.com/audio-mastering-format-and-delivery-guide-2014/ -->
+            <div class="col-mb-12 col-5 col-offset-1">
+                <ul class="list-bullet">
+                    <li><strong>Streaming Services</strong> - Spotify, Apple Music, Google Play, Amazon, Tidal...</li>
 
-        <div class="col-group">
-            <div class="col-mb-12 col-5">
-                <h4>Cassette</h4>
-                <p>Cassettes are also making a comeback and duplicators will typically want 44.1 kHz / 16 bit files formatted for each side of the tape. Some may also accept higher resolution files.</p>
-            </div>
-            <div class="col-mb-12 col-5 col-offset-2">
-                <h4>Digital Video</h4>
-                <p>Most video projects will want 48 kHz / 24 bit files and sometimes higher resolution. It's common to use instrumental or "TV" (instrumentals with background vocals) versions.</p>
-            </div>
-        </div>
+                    <li><strong>Apple Digital Masters</strong> - formerly Mastered for iTunes</li>
 
-        <div class="col-group">
-            <div class="col-mb-12 col-5">
-                <h4>Compact Disc</h4>
-                <p>The preferred format for CD production masters is a DDPi (Disc Description Protocol image). It's 44.1 kHz / 16 bit audio formatted as a digital image along with any necessary metadata.</p>
-            </div>
-            <div class="col-mb-12 col-5 col-offset-2">
-                <h4>Download Cards</h4>
-                <p>These promotional / marketing cards almost always point the user to high quality mp3s they can download using a special code. You'll want to make sure all your metadata and artwork are included in each mp3.</p>
+                    <li><strong>Artist and Social Platforms</strong> - SoundCloud, Bandcamp...</li>
+
+                    <li><strong>Vinyl</strong> - record size, speed, and song order are all considerations</li>
+    
+                    <li><strong>Cassette</strong> - "program ready" audio for desired tape length and song order </li>
+
+                    <li><strong>Video</strong> - delivery requirements for film and digital video vary widely</li>
+
+                    <li><strong>Compact Disc</strong> - still a popular format in many parts of the world</li>
+
+                    <li><strong>Download Cards</strong> - high quality mp3s for promotion and marketing</li>
+                </ul>
             </div>
         </div>
 
@@ -317,7 +307,7 @@
                     <h3>prep for distribution</h3>
                     <p>Mastering is the final step in the creative process and the first step in the manufacturing process. The goal is to not only create the best sounding music, but to also get it in the correct format for distribution.</p>
                     
-                    <p>Audio will often need conversion and further preparation for delivery. No matter where your music is headed, I can create the right file in the right. I also quality control everything that leaves the studio to make sure it's error free.</p>
+                    <p>Audio will often need conversion and further preparation for delivery. No matter where your music is headed, I can create the right file in the right format. I also quality control everything that leaves the studio to make sure it's error free.</p>
                 </div>
             </div>
         </div>
@@ -389,7 +379,7 @@
             <div class="col-12 col-dt-6">
                 <p>I grew up with an appreciation for a wide range of music due to a family that was active in both performance and education. Early studies in piano eventually led me to the guitar, ongoing band memberships and an inclination to capture the music that surrounded me.</p>
                 
-                <p>After completing BS and MS degrees in <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> from <a href="https://vt.edu/" rel="external">Virgnia Tech</a>, I went on to study both <a href="https://www.berklee.edu/guitar" rel="external">guitar</a> and <a href="https://www.berklee.edu/mpe" rel="external">Music Production & Engineering</a> at <a href="https://www.berklee.edu/" rel="external">Berklee College of Music</a>.</p>
+                <p>After completing BS and MS degrees in <a class="text" href="https://ece.vt.edu/" rel="external">Electrical Engineering</a> from <a href="https://vt.edu/" rel="external">Virgnia Tech</a>, I went on to study both <a href="https://www.berklee.edu/guitar" rel="external">Guitar</a> and <a href="https://www.berklee.edu/mpe" rel="external">Music Production & Engineering</a> at <a href="https://www.berklee.edu/" rel="external">Berklee College of Music</a>.</p>
                 
                 <p>I then joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios as a staff engineer. My initial duties consisted of digital editing and creation of final production masters, but I was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of my own.</p>
 
@@ -401,10 +391,13 @@
             </div>
 
             <div class="col-12 col-dt-5 col-dt-offset-1">
-                <h3>Clients & Collaborators</h3>
+
+                <iframe src="https://open.spotify.com/embed?uri=spotify:user:s5q4izow8slvdvg67mx9ne535:playlist:6r76CYDHrMVI8oJ7yhauDq:&theme=white" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
                 
-                <p class="clients">
-                    <?php
+                <!-- <h3>Clients & Collaborators</h3> -->
+
+                <!-- <p class="clients"> -->
+                    <?php /*
                         // read data from json file
                         // <?php echo SITE_URL 
                         $json = json_decode( file_get_contents('js/projects.json') );
@@ -414,8 +407,8 @@
                             if ($data != end($json->projects))
                                 echo " &bull; ";
                         }
-                    ?>
-                </p>
+                    */ ?>
+                <!-- </p> -->
             </div>
         </div>
 
