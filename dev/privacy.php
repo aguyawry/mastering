@@ -24,21 +24,21 @@
 
 
                 <h3>Information Collection, Use, and Sharing</h3>
-                <p>I am the sole owners of the information collected on this site. I only have access to / collect information that you voluntarily give me via email or other direct contact from you. I will not sell or rent this information to anyone.</p>
+                <p>I am the sole owner of the information collected on this site. I only have access to / collect information that you voluntarily give me via email or other direct contact from you. I will not sell or rent this information to anyone.</p>
 
-                <p>I will use your information to respond to you, regarding the reason you contacted us. I will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to deliver an order.</p>
+                <p>I will use your information to respond to you, regarding the reason you contacted me. I will not share your information with any third party outside my organization, other than as necessary to fulfill your request, e.g. to deliver an order.</p>
 
                 <p>Unless you ask me not to, I may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.</p>
 
 
                 <h3>Your Access to and Control Over Information</h3>
-                <p>You may opt out of any future contacts from me at any time. You can do the following at any time by contacting me via the email address or phone number given on our website:</p>
+                <p>You may opt out of any future contacts from me at any time. You can do the following at any time by contacting me via the email address or phone number given on my website:</p>
 
                 <ul class="list-bullet">
                     <li>See what data I have about you, if any.</li>
                     <li>Change / correct any data I have about you.</li>
                     <li>Have me delete any data I have about you.</li>
-                    <li>Express any concern you have about our use of your data.</li>
+                    <li>Express any concern you have about my use of your data.</li>
                 </ul>
 
 
@@ -53,19 +53,18 @@
 
 
                 <h3>Cookies</h3>
-                <p>I use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help me improve your access to our site and identify repeat visitors to our site. For instance, when I use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site.</p>
+                <p>I use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help me improve your access to my site and identify repeat visitors to my site. For instance, when I use a cookie to identify you, you would not have to log in with a password more than once, thereby saving time while on the site.</p>
                 
-                <p>Cookies can also enable me to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.</p>
+                <p>Cookies can also enable me to track and target the interests of users to enhance the experience on the site. Usage of a cookie is in no way linked to any personally identifiable information on the site.</p>
 
-                <p>Some of our business partners may use cookies on our site (for example, advertisers). However, I have no access to or control over these cookies.</p>
+                <p>Some of my business partners may use cookies on the site (for example, advertisers). However, I have no access to or control over these cookies.</p>
 
 
                 <h3>Sharing </h3>
-                <p>I share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.</p>
+                <p>I share aggregated demographic information with partners and advertisers. This is not linked to any personal information that can identify any individual person.</p>
 
                 <h3>Links</h3>
                 <p>This website contains links to other sites. Please be aware that I am not responsible for the content or privacy practices of such other sites. I encourage my users to be aware when they leave my site and to read the privacy statements of any other site that collects personally identifiable information.</p>
-
             </div>
         </div>
     </div>

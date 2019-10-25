@@ -124,19 +124,19 @@
 
                 <!-- <p>Streaming services are currently a popular destination, but vinyl and cassette are also seeing a resurgence.</p> -->
                 
-                <p>Digital and physical distribution formats are constantly evolving, so you'll want to make sure you have the appropriate type of master for each format you choose.</p>
+                <p>Digital and physical distribution formats are constantly evolving, so you'll need the appropriate type of master for each format you choose.</p>
 
-                <p>Your high resolution mastered audio may require conversion to a different sample rate, bit depth or file type.</p>
+                <p>Your high resolution mastered audio may require further preparation based on your intended target formats.</p>
                 
-                <p>No matter where your music is headed, I will deliver properly created, error-free masters in any form.</p>
+                <p>No matter where your music is headed, I'll deliver properly created, error-free production masters in any form necessary.</p>
+
+                <p>These common distribution formats typically require their own types of masters.</p>
 
                  <!-- Put a link to a details page here -->
-                
-                <!-- <p>Here are some common distribution formats that may need their own unique masters.</p> -->
             </div>
 
             <!-- See https://theproaudiofiles.com/audio-mastering-format-and-delivery-guide-2014/ -->
-            <div class="col-mb-12 col-5 col-offset-1">
+            <div class="col-mb-12 col-6 col-offset-1">
                 <ul class="list-bullet">
                     <li><strong>Streaming Services</strong> - Spotify, Apple Music, Google Play, Amazon, Tidal...</li>
 
@@ -181,40 +181,35 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h3 id="restoration">audio restoration</h3>
+                    <h3 id="production">audio restoration</h3>
+            </div>
 
-                <p>Audio restoration involves removing unwanted imperfections from recordings while keeping the desired audio intact. It could be as simple as fixing a small mouth noise, or as complex as cleaning up a deteriorating record from the 1950s.</p>
+            <div class="col-mb-12 col-5">
+                <p>Audio restoration involves removing unwanted imperfections from recordings while keeping the desired audio intact.</p>
+                
+                <p>It could be as simple as fixing a small mouth noise, or as complex as cleaning up a deteriorating record from the 1950s.</p>
 
-                <p>The restoration process is delicate since the ear is usually happier with hiss, pops and clicks than it is with unnatural sonic artifacts left behind if not done properly. Part of the process is using good judgment and knowing when not to go too far.</p>
+                <p>The restoration process is delicate since the ear is usually happier with hiss, pops and clicks than it is with unnatural sonic artifacts left behind if not done properly.</p>
+                
+                <p>Part of the approach is using good judgment and knowing when not to go too far.</p>
 
                 <p>Restoration is typically a two step process.</p>
             </div>
-        </div>
 
+            <div class="col-mb-12 col-6 col-offset-1">
+                <ul class="list-bullet">
+                    <li><strong>Transfers</strong>
+                        <p>Physical media deteriorates quickly. If you've got old DATs, cassettes, vinyl or even VHS tapes, their audio can be saved and brought back to life.</p>
 
-        <div class="col-group">
-            <div class="col-mb-12 col-5">
-                <h4>Transfers</h4>
+                        <p>The first step in restoring audio usually starts with preservation - by transferring it to a digital file.</p>
+                    </li>
 
-                <p>Physical media will deteriorate quickly. If you've got old DATs, cassettes, vinyl or even VHS tapes, their audio can be saved and brought back to life.</p>
+                    <li><strong>Repair</strong>
+                        <p>Once your audio has been transferred to digital, it's ready for repair and enhancement. Common annoyances like clicks, pops, hum, crackles, distortion and hiss can all be heavily mitigated or removed.</p>
 
-                <p>The first step in restoring audio usually starts with preservation - by transferring it to a digital file. From there, it's possible to begin the repair or enhancement processes.</p>
-
-                <!-- <p class="btn-row">
-                    <a class="btn small left top" href="rates#restoration">Learn More</a>
-                </p> -->
-            </div>
-
-            <div class="col-mb-12 col-5 col-offset-2">
-                <h4>Repair</h4>
-
-                <p>Once your audio has been transferred to a digital file, it's ready for repair and enhancement. Modern restoration tools can do pretty amazing things.</p>
-
-                <p>Common annoyances like clicks, pops, hum, crackles, distortion and hiss can all be heavily mitigated or removed. Even noises like cell phone interference and rain can be cleaned up.</p>
-
-                <!-- <p class="btn-row">
-                    <a class="btn small left top" href="rates#restoration">Learn More</a>
-                </p> -->
+                        <p>Modern restoration tools are capable of amazing things. Even noises like cell phone interference and rain can be cleaned up.</p>
+                    </li>
+                </ul>
             </div>
         </div>
 
@@ -263,7 +258,7 @@
             <div class="col-mb-12">
                 <h2 id="why">why mastering</h2>
 
-                <p>Mastering is a blend of musical intuition, psychoacoustics, technology, and seasoned ears. It can add depth, punch, clarity, warmth and volume to your music.</p>
+                <p>Mastering can add depth, punch, clarity, warmth and volume to your music. It's a blend of musical intuition, psychoacoustics, technology, and seasoned ears.</p>
                 
                 <p>There are plenty of audio plugins with mastering presets available, and even automated audio mastering services leveraging artificial intelligence. While those tools may work in some cases, here are some reasons you should have your music mastered by an experienced human like me.</p>
             </div>
