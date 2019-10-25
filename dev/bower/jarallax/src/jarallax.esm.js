@@ -3,6 +3,7 @@ import raf from 'rafl';
 import { window } from 'global';
 
 const isIE = navigator.userAgent.indexOf('MSIE ') > -1 || navigator.userAgent.indexOf('Trident/') > -1 || navigator.userAgent.indexOf('Edge/') > -1;
+const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
 const supportTransform = (() => {
     const prefixes = 'transform WebkitTransform MozTransform'.split(' ');
@@ -15,17 +16,29 @@ const supportTransform = (() => {
     return false;
 })();
 
-// Window data
-let wndW;
+let $deviceHelper;
+
+/**
+ * The most popular mobile browsers changes height after page scroll and this generates image jumping.
+ * We can fix it using this workaround with vh units.
+ */
+function getDeviceHeight() {
+    if (!$deviceHelper && document.body) {
+        $deviceHelper = document.createElement('div');
+        $deviceHelper.style.cssText = 'position: fixed; top: -9999px; left: 0; height: 100vh; width: 0;';
+        document.body.appendChild($deviceHelper);
+    }
+
+    return ($deviceHelper ? $deviceHelper.clientHeight : 0) || window.innerHeight || document.documentElement.clientHeight;
+}
+
+// Window height data
 let wndH;
-let wndY;
-let forceResizeParallax = false;
-let forceScrollParallax = false;
-function updateWndVars(e) {
-    wndW = window.innerWidth || document.documentElement.clientWidth;
-    wndH = window.innerHeight || document.documentElement.clientHeight;
-    if (typeof e === 'object' && (e.type === 'load' || e.type === 'dom-loaded')) {
-        forceResizeParallax = true;
+function updateWndVars() {
+    if (isMobile) {
+        wndH = getDeviceHeight();
+    } else {
+        wndH = window.innerHeight || document.documentElement.clientHeight;
     }
 }
 updateWndVars();
@@ -42,62 +55,65 @@ domReady(() => {
 // need to render all in one scroll/resize event
 const jarallaxList = [];
 
-// Animate if changed window size or scrolled page
-let oldPageData = false;
+// get all parents of the element.
+function getParents(elem) {
+    const parents = [];
+
+    while (elem.parentElement !== null) {
+        elem = elem.parentElement;
+
+        if (elem.nodeType === 1) {
+            parents.push(elem);
+        }
+    }
+
+    return parents;
+}
+
 function updateParallax() {
     if (!jarallaxList.length) {
         return;
     }
 
-    if (window.pageYOffset !== undefined) {
-        wndY = window.pageYOffset;
-    } else {
-        wndY = (document.documentElement || document.body.parentNode || document.body).scrollTop;
-    }
+    jarallaxList.forEach((data, k) => {
+        const {
+            instance,
+            oldData,
+        } = data;
 
-    const isResized = forceResizeParallax || !oldPageData || oldPageData.width !== wndW || oldPageData.height !== wndH;
-    const isScrolled = forceScrollParallax || isResized || !oldPageData || oldPageData.y !== wndY;
+        const clientRect = instance.$item.getBoundingClientRect();
 
-    forceResizeParallax = false;
-    forceScrollParallax = false;
-
-    if (isResized || isScrolled) {
-        jarallaxList.forEach((item) => {
-            if (isResized) {
-                item.onResize();
-            }
-            if (isScrolled) {
-                item.onScroll();
-            }
-        });
-
-        oldPageData = {
-            width: wndW,
-            height: wndH,
-            y: wndY,
+        const newData = {
+            width: clientRect.width,
+            height: clientRect.height,
+            top: clientRect.top,
+            bottom: clientRect.bottom,
+            wndW: window.innerWidth,
+            wndH,
         };
-    }
+
+        const isResized = !oldData
+                           || oldData.wndW !== newData.wndW
+                           || oldData.wndH !== newData.wndH
+                           || oldData.width !== newData.width
+                           || oldData.height !== newData.height;
+        const isScrolled = isResized
+                           || !oldData
+                           || oldData.top !== newData.top
+                           || oldData.bottom !== newData.bottom;
+
+        jarallaxList[k].oldData = newData;
+
+        if (isResized) {
+            instance.onResize();
+        }
+        if (isScrolled) {
+            instance.onScroll();
+        }
+    });
 
     raf(updateParallax);
 }
-
-
-// ResizeObserver
-const resizeObserver = global.ResizeObserver ? new global.ResizeObserver((entry) => {
-    if (entry && entry.length) {
-        raf(() => {
-            entry.forEach((item) => {
-                if (item.target && item.target.jarallax) {
-                    if (!forceResizeParallax) {
-                        item.target.jarallax.onResize();
-                    }
-                    forceScrollParallax = true;
-                }
-            });
-        });
-    }
-}) : false;
-
 
 let instanceID = 0;
 
@@ -123,7 +139,6 @@ class Jarallax {
             zIndex: -100,
             disableParallax: false,
             disableVideo: false,
-            automaticResize: true, // use ResizeObserver to recalculate position and size of parallax image
 
             // video
             videoSrc: null,
@@ -132,6 +147,7 @@ class Jarallax {
             videoVolume: 0,
             videoLoop: true,
             videoPlayOnlyVisible: true,
+            videoLazyLoading: true,
 
             // events
             onScroll: null, // function(calculations) {}
@@ -139,14 +155,6 @@ class Jarallax {
             onDestroy: null, // function() {}
             onCoverImage: null, // function() {}
         };
-
-        // DEPRECATED: old data-options
-        const deprecatedDataAttribute = self.$item.getAttribute('data-jarallax');
-        const oldDataOptions = JSON.parse(deprecatedDataAttribute || '{}');
-        if (deprecatedDataAttribute) {
-            // eslint-disable-next-line no-console
-            console.warn('Detected usage of deprecated data-jarallax JSON options, you should use pure data-attribute options. See info here - https://github.com/nk-o/jarallax/issues/53');
-        }
 
         // prepare data-options
         const dataOptions = self.$item.dataset || {};
@@ -158,7 +166,7 @@ class Jarallax {
             }
         });
 
-        self.options = self.extend({}, self.defaults, oldDataOptions, pureDataOptions, userOptions);
+        self.options = self.extend({}, self.defaults, pureDataOptions, userOptions);
         self.pureOptions = self.extend({}, self.options);
 
         // prepare 'true' and 'false' strings to boolean
@@ -172,23 +180,6 @@ class Jarallax {
 
         // fix speed option [-1.0, 2.0]
         self.options.speed = Math.min(2, Math.max(-1, parseFloat(self.options.speed)));
-
-        // deprecated noAndroid and noIos options
-        if (self.options.noAndroid || self.options.noIos) {
-            // eslint-disable-next-line no-console
-            console.warn('Detected usage of deprecated noAndroid or noIos options, you should use disableParallax option. See info here - https://github.com/nk-o/jarallax/#disable-on-mobile-devices');
-
-            // prepare fallback if disableParallax option is not used
-            if (!self.options.disableParallax) {
-                if (self.options.noIos && self.options.noAndroid) {
-                    self.options.disableParallax = /iPad|iPhone|iPod|Android/;
-                } else if (self.options.noIos) {
-                    self.options.disableParallax = /iPad|iPhone|iPod/;
-                } else if (self.options.noAndroid) {
-                    self.options.disableParallax = /Android/;
-                }
-            }
-        }
 
         // prepare disableParallax callback
         if (typeof self.options.disableParallax === 'string') {
@@ -276,9 +267,9 @@ class Jarallax {
     // get window size and scroll position. Useful for extensions
     getWindowData() {
         return {
-            width: wndW,
+            width: window.innerWidth || document.documentElement.clientWidth,
             height: wndH,
-            y: wndY,
+            y: document.documentElement.scrollTop,
         };
     }
 
@@ -291,9 +282,15 @@ class Jarallax {
         if ($imgElement && typeof $imgElement === 'string') {
             $imgElement = self.$item.querySelector($imgElement);
         }
+
         // check if dom element
         if (!($imgElement instanceof Element)) {
-            $imgElement = null;
+            if (self.options.imgSrc) {
+                $imgElement = new Image();
+                $imgElement.src = self.options.imgSrc;
+            } else {
+                $imgElement = null;
+            }
         }
 
         if ($imgElement) {
@@ -313,9 +310,10 @@ class Jarallax {
 
         // get image src
         if (self.image.src === null) {
-            self.image.src = self.css(self.$item, 'background-image').replace(/^url\(['"]?/g, '').replace(/['"]?\)$/g, '');
+            self.image.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
+            self.image.bgImage = self.css(self.$item, 'background-image');
         }
-        return !(!self.image.src || self.image.src === 'none');
+        return !(!self.image.bgImage || self.image.bgImage === 'none');
     }
 
     canInitParallax() {
@@ -396,7 +394,7 @@ class Jarallax {
                     'background-position': self.options.imgPosition,
                     'background-size': self.options.imgSize,
                     'background-repeat': self.options.imgRepeat,
-                    'background-image': `url("${self.image.src}")`,
+                    'background-image': self.image.bgImage || `url("${self.image.src}")`,
                 }, containerStyles, imageStyles);
             }
         }
@@ -405,19 +403,19 @@ class Jarallax {
             self.image.position = 'absolute';
         }
 
-        // check if one of parents have transform style (without this check, scroll transform will be inverted if used parallax with position fixed)
-        // discussion - https://github.com/nk-o/jarallax/issues/9
+        // 1. Check if one of parents have transform style (without this check, scroll transform will be inverted if used parallax with position fixed)
+        //    discussion - https://github.com/nk-o/jarallax/issues/9
+        // 2. Check if parents have overflow scroll
         if (self.image.position === 'fixed') {
-            let parentWithTransform = 0;
-            let $itemParents = self.$item;
-            while ($itemParents !== null && $itemParents !== document && parentWithTransform === 0) {
-                const parentTransform = self.css($itemParents, '-webkit-transform') || self.css($itemParents, '-moz-transform') || self.css($itemParents, 'transform');
-                if (parentTransform && parentTransform !== 'none') {
-                    parentWithTransform = 1;
-                    self.image.position = 'absolute';
-                }
-                $itemParents = $itemParents.parentNode;
-            }
+            const $parents = getParents(self.$item).filter((el) => {
+                const styles = window.getComputedStyle(el);
+                const parentTransform = styles['-webkit-transform'] || styles['-moz-transform'] || styles.transform;
+                const overflowRegex = /(auto|scroll)/;
+
+                return (parentTransform && parentTransform !== 'none') || overflowRegex.test(styles.overflow + styles['overflow-y'] + styles['overflow-x']);
+            });
+
+            self.image.position = $parents.length ? 'absolute' : 'fixed';
         }
 
         // add position to parallax block
@@ -430,11 +428,6 @@ class Jarallax {
         // set initial position and size
         self.onResize();
         self.onScroll(true);
-
-        // ResizeObserver
-        if (self.options.automaticResize && resizeObserver) {
-            resizeObserver.observe(self.$item);
-        }
 
         // call onInit event
         if (self.options.onInit) {
@@ -453,7 +446,9 @@ class Jarallax {
 
     // add to parallax instances list
     addToParallaxList() {
-        jarallaxList.push(this);
+        jarallaxList.push({
+            instance: this,
+        });
 
         if (jarallaxList.length === 1) {
             updateParallax();
@@ -464,8 +459,8 @@ class Jarallax {
     removeFromParallaxList() {
         const self = this;
 
-        jarallaxList.forEach((item, key) => {
-            if (item.instanceID === self.instanceID) {
+        jarallaxList.forEach((data, key) => {
+            if (data.instance.instanceID === self.instanceID) {
                 jarallaxList.splice(key, 1);
             }
         });
@@ -642,7 +637,7 @@ class Jarallax {
         self.isElementInViewport = viewportRect.bottom >= 0
             && viewportRect.right >= 0
             && viewportRect.top <= wndH
-            && viewportRect.left <= wndW;
+            && viewportRect.left <= window.innerWidth;
 
         // stop calculations if item is not in viewport
         if (force ? false : !self.isElementInViewport) {
