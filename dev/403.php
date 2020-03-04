@@ -1,6 +1,6 @@
 <?php
     $page = "";
-    $title = "Access Forbidden | elson mastering";
+    $title = "Access Forbidden | Scott Elson Mastering";
     $description = "";
     $keywords = "";
     include "top.php";

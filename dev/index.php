@@ -1,8 +1,8 @@
 <?php
     $page = "home";
-    $title = "audio mastering studio | elson mastering";
-    $description = "elson mastering provides high-quality music mastering services to artists, labels and music producers throughout the world.";
-    $keywords = "scott elson, music mastering, audio mastering, mastered for iTunes, mastering for vinyl, remote mastering, internet mastering, music production, audio restoration, transfers, archives, digital audio editing, maine";
+    $title = "Audio Mastering and Music Production Studio | Scott Elson Mastering";
+    $description = "Scott Elson Mastering provides high-quality music mastering services to artists, labels and music producers throughout the world.";
+    $keywords = "scott elson, music mastering, audio mastering, Apple Digital Masters, Mastered for iTunes, mastering for vinyl, remote mastering, internet mastering, music production, audio restoration, transfers, archives, digital audio editing, maine";
     $robots = "index, follow";
     include "top.php";
 ?>
@@ -20,7 +20,7 @@
             <div class="col-mb-12">
                 <img class="scott" src="img/studio/scott_1100.jpg" alt="Scott Elson">
 
-                <p>Welcome to elson mastering!</p>
+                <p>Welcome to Scott Elson Mastering!</p>
                 
                 <p>I'm Scott Elson - an audio mastering engineer who collaborates with artists, producers and engineers from a wide range of musical genres located in all parts of the world.</p>
 
@@ -108,7 +108,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <img class="breakup" src="img/studio/records.jpg" alt="elson mastering's vinyl collection">
+                <img class="breakup" src="img/studio/records.jpg" alt="Scott Elson Mastering's Vinyl Collection">
             </div>
         </div>
 
@@ -378,7 +378,7 @@
                 
                 <p>I then joined <a class="text" href="http://www.gatewaymastering.com/bob-ludwig/" rel="external">Bob Ludwig</a> at Gateway Mastering Studios as a staff engineer. My initial duties consisted of digital editing and creation of final production masters, but I was soon assisting in daily mastering sessions and eventually starting taking on mastering clients of my own.</p>
 
-                <p>I founded elson mastering with the goal of making high-quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, I bring a unique combination of technical expertise and creative feel to every record I am a part of.</p>
+                <p>I founded Scott Elson Mastering with the goal of making high-quality mastering available to artists of every stature. With a foundation tailored to the needs of audio and music production, I bring a unique combination of technical expertise and creative feel to every record I am a part of.</p>
 
                 <p>Over the years, artists at every stage in their career have trusted me to put the finishing touches on their records. My commitment to always serve the music comes through in every project.</p>
 
@@ -387,7 +387,7 @@
 
             <div class="col-12 col-dt-5 col-dt-offset-1">
 
-                <iframe src="https://open.spotify.com/embed?uri=spotify:user:s5q4izow8slvdvg67mx9ne535:playlist:6r76CYDHrMVI8oJ7yhauDq:&theme=white" width="100%" height="100%" frameborder="0" allowtransparency="true"></iframe>
+                <iframe src="https://open.spotify.com/embed/user/s5q4izow8slvdvg67mx9ne535/playlist/6r76CYDHrMVI8oJ7yhauDq" width="100%" height="100%" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                 
                 <!-- <h3>Clients & Collaborators</h3> -->
 
@@ -469,7 +469,7 @@
 
                 <div class="hcard">
                     <p>
-                        <a class="p-tel" href="tel:2073589146" title="Call elson mastering at 207.358.9146">207.358.9146</a>
+                        <a class="p-tel" href="tel:2073589146" title="Call Scott Elson Mastering at 207.358.9146">207.358.9146</a>
                     </p>
 
                     <p><?php include "email.php";?></p>

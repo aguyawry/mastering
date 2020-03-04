@@ -1,6 +1,6 @@
 <?php
     $page = "";
-    $title = "Page Not Found | elson mastering";
+    $title = "Page Not Found | Scott Elson Mastering";
     $description = "";
     $keywords = "";
     include "top.php";

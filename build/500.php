@@ -1,6 +1,6 @@
 <?php
     $page = "";
-    $title = "Internal Server Error | elson mastering";
+    $title = "Internal Server Error | Scott Elson Mastering";
     $description = "";
     $keywords = "";
     include "top.php";

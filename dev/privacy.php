@@ -1,7 +1,7 @@
 <?php
     $page = "privacy";
-    $title = "privacy policy | elson mastering";
-    $description = "elson mastering privacy policy";
+    $title = "privacy policy | Scott Elson Mastering";
+    $description = "Scott Elson Mastering Privacy Policy";
     $robots = "noindex, nofollow";
     include "top.php";
 ?>

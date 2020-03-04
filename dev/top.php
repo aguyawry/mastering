@@ -69,10 +69,10 @@
                 <div class="col-group">
                     <div class="col-mb-12">
                         <a id="brand" href="/">
-                            <img src="img/brand/elson_mastering_300.jpg" alt="elson mastering">
+                            <img src="img/brand/elson_mastering_300.jpg" alt="Scott Elson Mastering">
 
                             <div id="title">
-                                <h1>elson mastering</h1>
+                                <h1>scott elson mastering</h1>
                                 <p class="tagline">art in audio</p>
                             </div>
                         </a>

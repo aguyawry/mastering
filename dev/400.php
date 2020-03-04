@@ -1,6 +1,6 @@
 <?php
     $page = "";
-    $title = "Bad Request | elson mastering";
+    $title = "Bad Request | Scott Elson Mastering";
     $description = "";
     $keywords = "";
     include "top.php";
