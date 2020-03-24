@@ -14,7 +14,7 @@
             <div class="col-mb-12">
                 <h2>Helping Artists Survive The Pandemic</h2>
 
-                <p>In recent months, the coronavirus has devastated daily life for all of us. Loss of income, economic uncertainty and health concerns are taking their toll on everyone.</p>
+                <p>In recent weeks, the coronavirus has devastated daily life for all of us. Loss of income, economic uncertainty and health concerns are taking their toll on everyone.</p>
 
                 <p>Thousands of artists and musicians have been left with an unpredictable future as concerts are canceled, tours are postponed, and venues close down around the world.</p>
 
@@ -28,7 +28,7 @@
 
                 <p>I have many international clients and am able to work with anyone in the world. Since it appears we're all going to be on lockdown for a while, all you need is your music and a connection to the Internet.</p>
 
-                <p>If this sounds like your situation, keep reading becasue I'd love to help.</p>
+                <p>If this sounds like your situation, keep reading because I'd love to help.</p>
             </div>
         </div>
 
@@ -70,7 +70,7 @@
 
         <div class="col-group">
             <div class="col-mb-12">
-                <h2>After Everthing Is Done</h2>
+                <h2>After Everything Is Done</h2>
 
                 <p>You are welcome to donate what you can, when you can. It's totally up to you and there are no obligations or catches.</p>
 
